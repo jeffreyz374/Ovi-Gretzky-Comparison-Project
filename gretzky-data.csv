@@ -1,0 +1,895 @@
+"Date","Team","Opponent","Age","Assist1","Assist2","Goalie","Period","Time","Strength","ArenaName","Result","HomeAway","ENG","PS"
+1999-03-29,"NYR","NYI",38,NA,NA,"Wade Flaherty","3",1899-12-31 17:53:00,"EV","Madison Square Garden (IV)","W","H",0,0
+1999-02-04,"NYR","VAN",38,"Petr Nedved","Niklas Sundstrom","Garth Snow","2",1899-12-31 16:21:00,"EV","Madison Square Garden (IV)","W","H",0,0
+1999-01-10,"NYR","TBL",37,"Brian Leetch","Todd Harvey","Bill Ranford","3",1899-12-31 14:21:00,"PP","Madison Square Garden (IV)","W","H",0,0
+1998-12-16,"NYR","NJD",37,"Niklas Sundstrom",NA,"Martin Brodeur","3",1899-12-31 13:35:00,"EV","Continental Airlines Arena","L","A",0,0
+1998-12-02,"NYR","NYI",37,"Kevin Stevens",NA,"Tommy Salo","3",1899-12-31 04:10:00,"EV","Nassau Veterans Memorial Coliseum","W","A",0,0
+1998-12-01,"NYR","FLA",37,"Petr Nedved","Kevin Stevens","Sean Burke","2",1899-12-31 04:02:00,"PP","Madison Square Garden (IV)","OTW","H",0,0
+1998-11-29,"NYR","NSH",37,"Kevin Stevens","John MacLean","Mike Dunham","1",1899-12-31 09:15:00,"EV","Madison Square Garden (IV)","W","H",0,0
+1998-11-07,"NYR","TOR",37,"Marc Savard","Mathieu Schneider","Curtis Joseph","3",1899-12-31 19:22:00,"EV","Maple Leaf Gardens","T","A",0,0
+1998-10-17,"NYR","PIT",37,"Todd Harvey","Brian Leetch","Peter Skudra","2",1899-12-31 04:50:00,"PP","Pittsburgh Civic Arena","T","A",0,0
+1998-04-15,"NYR","NYI",37,"Alex Kovalev","Adam Graves",NA,"3",1899-12-31 19:13:00,"EV","Madison Square Garden (IV)","W","H",1,0
+1998-04-07,"NYR","MTL",37,"Niklas Sundstrom",NA,"Jocelyn Thibault","2",1899-12-31 07:34:00,"PP","Madison Square Garden (IV)","L","H",0,0
+1998-04-01,"NYR","BOS",37,"Niklas Sundstrom","Alex Kovalev","Byron Dafoe","3",1899-12-31 00:39:00,"EV","Madison Square Garden (IV)","L","H",0,0
+1998-03-22,"NYR","PHI",37,"Alex Kovalev",NA,"Sean Burke","2",1899-12-31 19:09:00,"EV","CoreStates Center","OTL","A",0,0
+1998-03-22,"NYR","PHI",37,"Brian Leetch","Bruce Driver","Sean Burke","3",1899-12-31 18:18:00,"EV","CoreStates Center","OTL","A",0,0
+1998-03-11,"NYR","SJS",37,"Alex Kovalev","Pat LaFontaine","Kelly Hrudey","2",1899-12-31 08:45:00,"PP","Madison Square Garden (IV)","W","H",0,0
+1998-03-09,"NYR","NJD",37,"Kevin Stevens",NA,"Martin Brodeur","3",1899-12-31 18:55:00,"EV","Madison Square Garden (IV)","T","H",0,0
+1998-03-07,"NYR","NJD",37,"Kevin Stevens",NA,"Martin Brodeur","2",1899-12-31 15:29:00,"PP","Continental Airlines Arena","L","A",0,0
+1998-03-04,"NYR","FLA",37,"Brian Leetch","Alex Kovalev","Kevin Weekes","1",1899-12-31 19:18:00,"PP","Miami Arena","W","A",0,0
+1998-03-04,"NYR","FLA",37,"Brian Leetch","Pat LaFontaine","Kevin Weekes","3",1899-12-31 06:58:00,"PP","Miami Arena","W","A",0,0
+1998-01-24,"NYR","NJD",36,"Pat LaFontaine","Brian Leetch","Martin Brodeur","1",1899-12-31 15:31:00,"PP","Madison Square Garden (IV)","T","H",0,0
+1998-01-03,"NYR","WSH",36,"Bruce Driver","Darren Langdon","Olaf Kolzig","2",1899-12-31 04:53:00,"EV","MCI Center","W","A",0,0
+1998-01-03,"NYR","WSH",36,"Niklas Sundstrom",NA,"Olaf Kolzig","3",1899-12-31 19:38:00,"EV","MCI Center","W","A",0,0
+1997-12-28,"NYR","BOS",36,"Alex Kovalev","Johan Lindbom","Byron Dafoe","1",1899-12-31 14:42:00,"EV","Madison Square Garden (IV)","W","H",0,0
+1997-12-02,"NYR","WSH",36,"Kevin Stevens","Niklas Sundstrom","Olaf Kolzig","2",1899-12-31 19:53:00,"EV","Madison Square Garden (IV)","OTL","H",0,0
+1997-11-28,"NYR","BUF",36,"Niklas Sundstrom",NA,"Dominik Hasek","3",1899-12-31 06:14:00,"EV","Marine Midland Arena","T","A",0,0
+1997-11-21,"NYR","CAR",36,"Jeff Finley",NA,"Sean Burke","2",1899-12-31 09:56:00,"EV","Greensboro Coliseum","W","A",0,0
+1997-11-07,"NYR","DAL",36,"Bill Berg","Brian Leetch","Ed Belfour","3",1899-12-31 12:52:00,"EV","Reunion Arena","T","A",0,0
+1997-11-05,"NYR","COL",36,"Mike Eastwood","Bill Berg",NA,"3",1899-12-31 19:31:00,"EV","McNichols Sports Arena","W","A",1,0
+1997-10-24,"NYR","TBL",36,"Niklas Sundstrom","Kevin Stevens","Corey Schwab","3",1899-12-31 09:17:00,"EV","Madison Square Garden (IV)","W","H",0,0
+1997-10-11,"NYR","VAN",36,"Kevin Stevens","Jeff Beukeboom","Kirk McLean","3",1899-12-31 08:00:00,"EV","General Motors Place","W","A",0,0
+1997-10-11,"NYR","VAN",36,"Niklas Sundstrom","Ulf Samuelsson","Kirk McLean","2",1899-12-31 11:34:00,"EV","General Motors Place","W","A",0,0
+1997-10-11,"NYR","VAN",36,"Kevin Stevens","Ulf Samuelsson","Kirk McLean","2",1899-12-31 17:30:00,"EV","General Motors Place","W","A",0,0
+1997-04-04,"NYR","BUF",36,"Brian Leetch","Niklas Sundstrom","Dominik Hasek","2",1899-12-31 00:42:00,"PP","Marine Midland Arena","L","A",0,0
+1997-04-03,"NYR","BOS",36,"Jeff Beukeboom","Brian Leetch","Jim Carey","1",1899-12-31 05:39:00,"EV","Madison Square Garden (IV)","W","H",0,0
+1997-03-24,"NYR","PIT",36,NA,NA,NA,"3",1899-12-31 19:09:00,"EV","Madison Square Garden (IV)","W","H",1,0
+1997-03-21,"NYR","DET",36,"Esa Tikkanen",NA,"Chris Osgood","3",1899-12-31 07:52:00,"EV","Madison Square Garden (IV)","W","H",0,0
+1997-03-19,"NYR","MTL",36,"Niklas Sundstrom","Bill Berg","Jocelyn Thibault","2",1899-12-31 16:03:00,"EV","Madison Square Garden (IV)","L","H",0,0
+1997-03-17,"NYR","OTT",36,"Bruce Driver",NA,"Ron Tugnutt","3",1899-12-31 15:08:00,"EV","Madison Square Garden (IV)","L","H",0,0
+1997-03-12,"NYR","WSH",36,"Brian Leetch","Mark Messier","Bill Ranford","1",1899-12-31 15:59:00,"EV","Madison Square Garden (IV)","W","H",0,0
+1997-03-06,"NYR","LAK",36,"Chris Ferraro","Bruce Driver","Byron Dafoe","1",1899-12-31 04:02:00,"PP","Great Western Forum","W","A",0,0
+1997-02-21,"NYR","HAR",36,"Doug Lidster","Mike Eastwood","Sean Burke","2",1899-12-31 17:54:00,"EV","Hartford Civic Center","L","A",0,0
+1996-12-30,"NYR","DAL",35,"Alexander Karpovtsev","Brian Noonan","Andy Moog","1",1899-12-31 01:26:00,"EV","Reunion Arena","W","A",0,0
+1996-12-30,"NYR","DAL",35,"Niklas Sundstrom","Luc Robitaille","Andy Moog","3",1899-12-31 18:44:00,"EV","Reunion Arena","W","A",0,0
+1996-12-16,"NYR","HAR",35,"Niklas Sundstrom","Jeff Beukeboom","Jean-Sebastien Giguere","3",1899-12-31 00:38:00,"EV","Madison Square Garden (IV)","W","H",0,0
+1996-12-07,"NYR","TOR",35,"Ulf Samuelsson",NA,"Felix Potvin","2",1899-12-31 06:49:00,"EV","Maple Leaf Gardens","W","A",0,0
+1996-12-06,"NYR","TOR",35,"Ulf Samuelsson",NA,"Marcel Cousineau","3",1899-12-31 16:57:00,"EV","Madison Square Garden (IV)","W","H",0,0
+1996-12-06,"NYR","TOR",35,"Luc Robitaille","Niklas Sundstrom","Marcel Cousineau","1",1899-12-31 10:25:00,"EV","Madison Square Garden (IV)","W","H",0,0
+1996-12-01,"NYR","MTL",35,"Pat Flatley",NA,"Jocelyn Thibault","3",1899-12-31 11:54:00,"EV","Madison Square Garden (IV)","W","H",0,0
+1996-11-16,"NYR","PIT",35,"Alexander Karpovtsev","Brian Noonan","Ken Wregget","2",1899-12-31 09:18:00,"PP","Pittsburgh Civic Arena","W","A",0,0
+1996-11-11,"NYR","VAN",35,"Alex Kovalev",NA,"Kirk McLean","2",1899-12-31 16:59:00,"EV","Madison Square Garden (IV)","L","H",0,0
+1996-11-02,"NYR","BOS",35,"Luc Robitaille",NA,"Scott Bailey","1",1899-12-31 05:57:00,"EV","FleetCenter","W","A",0,0
+1996-10-29,"NYR","FLA",35,"Christian Dube","Daniel Goneau","John Vanbiesbrouck","3",1899-12-31 15:20:00,"PP","Madison Square Garden (IV)","T","H",0,0
+1996-10-27,"NYR","BUF",35,"Niklas Sundstrom","Alexander Karpovtsev","Andrei Trefilov","2",1899-12-31 13:26:00,"EV","Madison Square Garden (IV)","W","H",0,0
+1996-10-25,"NYR","FLA",35,"Luc Robitaille","Bruce Driver","John Vanbiesbrouck","3",1899-12-31 10:10:00,"PP","Miami Arena","L","A",0,0
+1996-10-20,"NYR","TBL",35,"Niklas Sundstrom",NA,"Corey Schwab","1",1899-12-31 13:45:00,"EV","Ice Palace","L","A",0,0
+1996-10-14,"NYR","CGY",35,"Bruce Driver","Alex Kovalev","Trevor Kidd","3",1899-12-31 10:39:00,"PP","Madison Square Garden (IV)","W","H",0,0
+1996-10-10,"NYR","DAL",35,NA,NA,"Andy Moog","2",1899-12-31 19:13:00,"EV","Madison Square Garden (IV)","L","H",0,0
+1996-04-03,"STL","COL",35,NA,NA,"Patrick Roy","2",1899-12-31 07:54:00,"PP","McNichols Sports Arena","W","A",0,0
+1996-03-28,"STL","NJD",35,NA,NA,"Martin Brodeur","1",1899-12-31 06:39:00,"SH","Kiel Center","T","H",0,0
+1996-03-24,"STL","DET",35,NA,NA,"Chris Osgood","1",1899-12-31 15:55:00,"EV","Kiel Center","T","H",0,0
+1996-03-18,"STL","LAK",35,"Stephane Matteau","Brett Hull","Kelly Hrudey","2",1899-12-31 07:00:00,"EV","Great Western Forum","W","A",0,0
+1996-03-15,"STL","SJS",35,"Brett Hull","Shayne Corson","Geoff Sarjeant","3",1899-12-31 16:06:00,"EV","San Jose Arena","W","A",0,0
+1996-03-09,"STL","HAR",35,"Al MacInnis",NA,"Jason Muzzatti","2",1899-12-31 15:52:00,"EV","Kiel Center","W","H",0,0
+1996-03-09,"STL","HAR",35,"Chris Pronger",NA,NA,"3",1899-12-31 19:45:00,"EV","Kiel Center","W","H",1,0
+1996-02-29,"STL","VAN",35,"Stephane Matteau","Brett Hull","Kirk McLean","1",1899-12-31 16:24:00,"EV","General Motors Place","T","A",0,0
+1996-02-21,"LAK","EDM",35,"Shane Churla","Dmitri Khristich","Curtis Joseph","1",1899-12-31 08:27:00,"EV","Edmonton Coliseum","L","A",0,0
+1996-01-27,"LAK","MDA",35,"Dmitri Khristich","Vitali Yachmenev","Guy Hebert","1",1899-12-31 05:16:00,"EV","Great Western Forum","W","H",0,0
+1996-01-06,"LAK","SJS",34,"Darryl Sydor","Tony Granato","Chris Terreri","1",1899-12-31 11:03:00,"PP","Great Western Forum","W","H",0,0
+1996-01-05,"LAK","SJS",34,"Tony Granato",NA,NA,"3",1899-12-31 19:38:00,"EV","San Jose Arena","W","A",1,0
+1996-01-03,"LAK","WIN",34,"Dmitri Khristich","Rick Tocchet","Tim Cheveldae","1",1899-12-31 14:29:00,"EV","Great Western Forum","L","H",0,0
+1995-12-29,"LAK","EDM",34,"Eric Lacroix","Rick Tocchet","Bill Ranford","2",1899-12-31 11:32:00,"EV","Edmonton Coliseum","OTL","A",0,0
+1995-12-20,"LAK","VAN",34,NA,NA,"Kirk McLean","3",1899-12-31 18:09:00,"EV","Great Western Forum","T","H",0,0
+1995-12-06,"LAK","WIN",34,"Jari Kurri","Marty McSorley","Tim Cheveldae","2",1899-12-31 10:19:00,"PP","Great Western Forum","W","H",0,0
+1995-11-16,"LAK","NYI",34,"Vladimir Tsyplakov","Denis Tsygurov","Tommy Soderstrom","3",1899-12-31 11:29:00,"EV","Great Western Forum","W","H",0,0
+1995-11-14,"LAK","DET",34,"Dmitri Khristich","Rick Tocchet","Chris Osgood","3",1899-12-31 19:33:00,"EV","Great Western Forum","L","H",0,0
+1995-11-13,"LAK","MDA",34,"Tony Granato","Aki Berg","Guy Hebert","2",1899-12-31 15:53:00,"EV","Arrowhead Pond of Anaheim","W","A",0,0
+1995-11-11,"LAK","PIT",34,"Vitali Yachmenev","Darryl Sydor",NA,"3",1899-12-31 18:55:00,"EV","Great Western Forum","W","H",1,0
+1995-11-02,"LAK","NYR",34,NA,NA,"Mike Richter","3",1899-12-31 07:34:00,"PP","Great Western Forum","W","H",0,0
+1995-10-28,"LAK","TOR",34,"Dmitri Khristich","Denis Tsygurov","Felix Potvin","3",1899-12-31 08:10:00,"PP","Maple Leaf Gardens","T","A",0,0
+1995-10-12,"LAK","VAN",34,"Rob Blake","Vitali Yachmenev","Kirk McLean","1",1899-12-31 04:52:00,"PP","Great Western Forum","T","H",0,0
+1995-04-30,"LAK","MDA",34,"Dan Quinn",NA,"Guy Hebert","1",1899-12-31 17:24:00,"PP","Great Western Forum","W","H",0,0
+1995-04-06,"LAK","DAL",34,"Darryl Sydor",NA,"Andy Moog","2",1899-12-31 04:23:00,"EV","Great Western Forum","W","H",0,0
+1995-04-01,"LAK","WIN",34,"Tony Granato","Eric Lacroix","Nikolai Khabibulin","1",1899-12-31 01:24:00,"EV","Great Western Forum","T","H",0,0
+1995-04-01,"LAK","WIN",34,NA,NA,"Nikolai Khabibulin","1",1899-12-31 11:49:00,"EV","Great Western Forum","T","H",0,0
+1995-03-20,"LAK","STL",34,"Darryl Sydor",NA,"Curtis Joseph","1",1899-12-31 10:06:00,"EV","Great Western Forum","W","H",0,0
+1995-03-20,"LAK","STL",34,"Rob Cowie","Marty McSorley","Curtis Joseph","1",1899-12-31 15:43:00,"EV","Great Western Forum","W","H",0,0
+1995-03-13,"LAK","TOR",34,"Rick Tocchet","Tony Granato",NA,"3",1899-12-31 19:33:00,"EV","Maple Leaf Gardens","W","A",1,0
+1995-02-23,"LAK","CGY",34,"Kevin Brown",NA,"Trevor Kidd","2",1899-12-31 17:52:00,"EV","Great Western Forum","T","H",0,0
+1995-02-18,"LAK","VAN",34,"Tony Granato","Jari Kurri","Kirk McLean","2",1899-12-31 10:12:00,"PP","Great Western Forum","L","H",0,0
+1995-01-26,"LAK","STL",34,"Alexei Zhitnik","Rob Blake","Curtis Joseph","2",1899-12-31 03:28:00,"EV","Kiel Center","L","A",0,0
+1995-01-20,"LAK","TOR",33,"Rick Tocchet","Jari Kurri","Felix Potvin","1",1899-12-31 13:12:00,"PP","Great Western Forum","T","H",0,0
+1994-04-02,"LAK","EDM",33,"Kevin Todd","Rob Blake","Bill Ranford","3",1899-12-31 17:32:00,"PP","Great Western Forum","L","H",0,0
+1994-03-23,"LAK","VAN",33,"Marty McSorley","Luc Robitaille","Kirk McLean","2",1899-12-31 14:47:00,"PP","Great Western Forum","L","H",0,0
+1994-03-20,"LAK","SJS",33,"Alexei Zhitnik","Jari Kurri","Arturs Irbe","3",1899-12-31 19:11:00,"EV","San Jose Arena","T","A",0,0
+1994-03-20,"LAK","SJS",33,NA,NA,"Arturs Irbe","1",1899-12-31 06:16:00,"EV","San Jose Arena","T","A",0,0
+1994-03-15,"LAK","OTT",33,"Robert Lang","John Druce","Craig Billington","3",1899-12-31 03:15:00,"EV","Great Western Forum","W","H",0,0
+1994-03-02,"LAK","HAR",33,"Dixon Ward",NA,"Sean Burke","1",1899-12-31 11:54:00,"EV","Hartford Civic Center","W","A",0,0
+1994-02-26,"LAK","CGY",33,"Doug Houda",NA,"Mike Vernon","1",1899-12-31 11:49:00,"EV","Olympic Saddledome","L","A",0,0
+1994-02-25,"LAK","EDM",33,"Jari Kurri",NA,"Bill Ranford","2",1899-12-31 14:14:00,"SH","Northlands Coliseum","T","A",0,0
+1994-02-21,"LAK","TOR",33,"Jari Kurri",NA,"Felix Potvin","2",1899-12-31 11:05:00,"EV","Great Western Forum","L","H",0,0
+1994-02-21,"LAK","TOR",33,"Luc Robitaille","Rob Blake","Felix Potvin","2",1899-12-31 12:42:00,"PP","Great Western Forum","L","H",0,0
+1994-02-11,"LAK","MDA",33,"Tim Watters","Rob Blake",NA,"3",1899-12-31 18:48:00,"EV","Arrowhead Pond of Anaheim","W","A",1,0
+1994-02-11,"LAK","MDA",33,"Mike Donnelly","Jari Kurri","Guy Hebert","1",1899-12-31 10:23:00,"EV","Arrowhead Pond of Anaheim","W","A",0,0
+1994-02-05,"LAK","CGY",33,NA,NA,"Trevor Kidd","3",1899-12-31 18:00:00,"PP","Great Western Forum","OTL","H",0,0
+1994-02-02,"LAK","EDM",33,"Jari Kurri","Alexei Zhitnik","Bill Ranford","2",1899-12-31 12:08:00,"EV","Northlands Coliseum","L","A",0,0
+1994-01-27,"LAK","NYR",33,"Rob Blake","Jari Kurri","Mike Richter","2",1899-12-31 07:12:00,"PP","Great Western Forum","OTL","H",0,0
+1994-01-24,"LAK","CGY",32,NA,NA,"Andrei Trefilov","2",1899-12-31 12:22:00,"PP","America West Arena","T","A",0,0
+1994-01-16,"LAK","PHI",32,"Tony Granato","Mike Donnelly","Dominic Roussel","2",1899-12-31 19:17:00,"EV","The Spectrum","L","A",0,0
+1994-01-15,"LAK","NJD",32,"Jari Kurri",NA,NA,"3",1899-12-31 19:56:00,"EV","Brendan Byrne Arena","W","A",1,0
+1994-01-15,"LAK","NJD",32,NA,NA,"Chris Terreri","1",1899-12-31 07:56:00,"SH","Brendan Byrne Arena","W","A",0,0
+1994-01-12,"LAK","HAR",32,"Jari Kurri","Rob Blake","Sean Burke","1",1899-12-31 10:34:00,"PP","Great Western Forum","W","H",0,0
+1994-01-12,"LAK","HAR",32,"Jari Kurri","Tim Watters",NA,"3",1899-12-31 19:23:00,"SH","Great Western Forum","W","H",1,0
+1994-01-01,"LAK","TOR",32,"Charlie Huddy","Jari Kurri","Damian Rhodes","2",1899-12-31 12:55:00,"PP","Maple Leaf Gardens","W","A",0,0
+1993-12-28,"LAK","VAN",32,"Rob Blake","Luc Robitaille","Kirk McLean","3",1899-12-31 05:22:00,"PP","Great Western Forum","W","H",0,0
+1993-12-20,"LAK","CGY",32,"Mike Donnelly","Jari Kurri","Mike Vernon","1",1899-12-31 18:08:00,"EV","Olympic Saddledome","OTW","A",0,0
+1993-12-20,"LAK","CGY",32,"Alexei Zhitnik","Mike Donnelly","Mike Vernon","2",1899-12-31 17:31:00,"EV","Olympic Saddledome","OTW","A",0,0
+1993-12-13,"LAK","OTT",32,"Charlie Huddy",NA,"Craig Billington","3",1899-12-31 14:51:00,"SH","Civic Centre Arena","L","A",0,0
+1993-11-30,"LAK","WIN",32,"Jari Kurri",NA,"Bob Essensa","1",1899-12-31 13:00:00,"PP","Great Western Forum","L","H",0,0
+1993-11-30,"LAK","WIN",32,"Charlie Huddy",NA,"Bob Essensa","3",1899-12-31 16:40:00,"EV","Great Western Forum","L","H",0,0
+1993-11-25,"LAK","QUE",32,"Jari Kurri","Warren Rychel","Jocelyn Thibault","2",1899-12-31 08:58:00,"PP","Quebec Coliseum","L","A",0,0
+1993-11-03,"LAK","NJD",32,NA,NA,"Chris Terreri","3",1899-12-31 02:34:00,"EV","Great Western Forum","W","H",0,0
+1993-10-29,"LAK","WIN",32,"Mike Donnelly",NA,"Bob Essensa","3",1899-12-31 08:06:00,"PP","Winnipeg Arena","OTW","A",0,0
+1993-10-24,"LAK","NYR",32,"Mike Donnelly","Bob Jay","Mike Richter","2",1899-12-31 02:04:00,"EV","Madison Square Garden (IV)","L","A",0,0
+1993-10-22,"LAK","WSH",32,"Darryl Sydor","Jari Kurri","Don Beaupre","3",1899-12-31 00:37:00,"PP","US Airways Arena","L","A",0,0
+1993-10-20,"LAK","TBL",32,"Rob Blake","Luc Robitaille","Daren Puppa","2",1899-12-31 08:34:00,"PP","Thunderdome","W","A",0,0
+1993-10-16,"LAK","CGY",32,"Darryl Sydor","Luc Robitaille","Jason Muzzatti","3",1899-12-31 19:30:00,"EV","Great Western Forum","W","H",0,0
+1993-10-12,"LAK","NYI",32,"Luc Robitaille","Darryl Sydor","Ron Hextall","3",1899-12-31 18:16:00,"EV","Great Western Forum","W","H",0,0
+1993-10-09,"LAK","DET",32,"Luc Robitaille","Tomas Sandstrom","Peter Ing","3",1899-12-31 03:38:00,"EV","Great Western Forum","W","H",0,0
+1993-10-09,"LAK","DET",32,"Warren Rychel","Tomas Sandstrom","Peter Ing","3",1899-12-31 06:00:00,"EV","Great Western Forum","W","H",0,0
+1993-04-15,"LAK","VAN",32,"Tomas Sandstrom","Luc Robitaille","Kay Whitmore","2",1899-12-31 06:57:00,"EV","Great Western Forum","L","H",0,0
+1993-04-10,"LAK","SJS",32,"Charlie Huddy","Luc Robitaille","Arturs Irbe","1",1899-12-31 11:24:00,"EV","Cow Palace","OTW","A",0,0
+1993-03-29,"LAK","DET",32,"Alexei Zhitnik",NA,"Vincent Riendeau","3",1899-12-31 03:52:00,"EV","Joe Louis Arena","W","A",0,0
+1993-03-29,"LAK","DET",32,"Darryl Sydor","Luc Robitaille","Vincent Riendeau","3",1899-12-31 08:02:00,"EV","Joe Louis Arena","W","A",0,0
+1993-03-26,"LAK","EDM",32,"Tomas Sandstrom","Alexei Zhitnik","Bill Ranford","1",1899-12-31 16:16:00,"EV","Northlands Coliseum","W","A",0,0
+1993-03-18,"LAK","NYI",32,"Luc Robitaille","Charlie Huddy","Glenn Healy","3",1899-12-31 17:20:00,"EV","Great Western Forum","W","H",0,0
+1993-03-16,"LAK","WIN",32,"Mike Donnelly",NA,"Rick Tabaracci","2",1899-12-31 01:07:00,"EV","Great Western Forum","W","H",0,0
+1993-03-15,"LAK","BUF",32,"Tony Granato","Charlie Huddy",NA,"3",1899-12-31 19:24:00,"SH","Buffalo Memorial Auditorium","W","A",1,0
+1993-03-11,"LAK","PIT",32,"Tony Granato","Charlie Huddy","Tom Barrasso","2",1899-12-31 06:05:00,"EV","Pittsburgh Civic Arena","OTL","A",0,0
+1993-03-06,"LAK","EDM",32,"Tony Granato","Darryl Sydor","Bill Ranford","1",1899-12-31 02:12:00,"EV","Great Western Forum","W","H",0,0
+1993-03-02,"LAK","CGY",32,"Tim Watters",NA,"Jeff Reese","1",1899-12-31 12:08:00,"EV","Great Western Forum","W","H",0,0
+1993-03-02,"LAK","CGY",32,NA,NA,"Jeff Reese","2",1899-12-31 07:01:00,"SH","Great Western Forum","W","H",0,0
+1993-02-22,"LAK","TBL",32,"Luc Robitaille","Charlie Huddy","Wendell Young","2",1899-12-31 06:03:00,"EV","Expo Hall","W","A",0,0
+1993-02-17,"LAK","MNS",32,"Mike Donnelly","Tony Granato","Darcy Wakaluk","1",1899-12-31 11:51:00,"EV","Metropolitan Sports Center","W","A",0,0
+1993-01-08,"LAK","WIN",31,"Luc Robitaille","Tony Granato","Bob Essensa","1",1899-12-31 15:32:00,"EV","Winnipeg Arena","L","A",0,0
+1993-01-08,"LAK","WIN",31,"Paul Coffey","Dave Taylor","Bob Essensa","2",1899-12-31 06:12:00,"EV","Winnipeg Arena","L","A",0,0
+1992-03-26,"LAK","CGY",31,"Tony Granato","Tim Watters","Jeff Reese","1",1899-12-31 09:04:00,"EV","Olympic Saddledome","L","A",0,0
+1992-03-21,"LAK","CGY",31,"Marty McSorley","Tim Watters",NA,"3",1899-12-31 19:06:00,"EV","Great Western Forum","W","H",1,0
+1992-03-21,"LAK","CGY",31,"Jari Kurri",NA,"Mike Vernon","1",1899-12-31 01:11:00,"PP","Great Western Forum","W","H",0,0
+1992-03-07,"LAK","PIT",31,"Larry Robinson","John McIntyre","Tom Barrasso","3",1899-12-31 04:53:00,"SH","Great Western Forum","W","H",0,0
+1992-02-29,"LAK","MTL",31,"Luc Robitaille","Jari Kurri",NA,"3",1899-12-31 19:52:00,"EV","Great Western Forum","W","H",1,0
+1992-02-21,"LAK","CGY",31,"Larry Robinson","Tony Granato","Mike Vernon","1",1899-12-31 16:22:00,"EV","Olympic Saddledome","L","A",0,0
+1992-02-19,"LAK","EDM",31,"Tony Granato","Luc Robitaille","Bill Ranford","1",1899-12-31 04:12:00,"PP","Northlands Coliseum","L","A",0,0
+1992-02-17,"LAK","BOS",31,"Brian Benning","Luc Robitaille","Andy Moog","2",1899-12-31 17:04:00,"PP","Great Western Forum","W","H",0,0
+1992-02-17,"LAK","BOS",31,"John McIntyre",NA,NA,"3",1899-12-31 18:50:00,"SH","Great Western Forum","W","H",1,0
+1992-02-08,"LAK","PIT",31,"Jari Kurri","Rob Blake","Tom Barrasso","1",1899-12-31 14:21:00,"EV","Pittsburgh Civic Arena","W","A",0,0
+1992-02-08,"LAK","PIT",31,"Marty McSorley","Jari Kurri","Tom Barrasso","1",1899-12-31 08:23:00,"PP","Pittsburgh Civic Arena","W","A",0,0
+1992-02-01,"LAK","CHI",31,"Corey Millen",NA,NA,"3",1899-12-31 19:57:00,"EV","Great Western Forum","W","H",1,0
+1992-01-28,"LAK","STL",31,"Luc Robitaille","Corey Millen","Curtis Joseph","2",1899-12-31 04:10:00,"PP","Great Western Forum","T","H",0,0
+1992-01-09,"LAK","PHI",30,"Jari Kurri",NA,"Ron Hextall","2",1899-12-31 11:19:00,"PP","The Spectrum","L","A",0,0
+1992-01-04,"LAK","PHI",30,"Luc Robitaille","John McIntyre","Ken Wregget","2",1899-12-31 16:00:00,"EV","Great Western Forum","W","H",0,0
+1991-12-28,"LAK","EDM",30,"Larry Robinson","Rob Blake","Peter Ing","3",1899-12-31 17:38:00,"PP","Northlands Coliseum","W","A",0,0
+1991-12-26,"LAK","SJS",30,"David Goverde",NA,NA,"3",1899-12-31 18:56:00,"EV","Great Western Forum","W","H",1,0
+1991-12-21,"LAK","DET",30,"Jari Kurri","Charlie Huddy","Tim Cheveldae","1",1899-12-31 08:59:00,"EV","Great Western Forum","L","H",0,0
+1991-12-14,"LAK","VAN",30,"Brian Benning","Charlie Huddy","Kirk McLean","2",1899-12-31 16:16:00,"EV","Great Western Forum","T","H",0,0
+1991-12-12,"LAK","WIN",30,"Tony Granato","Jari Kurri","Stephane Beauregard","3",1899-12-31 11:22:00,"EV","Great Western Forum","W","H",0,0
+1991-12-03,"LAK","SJS",30,"Tony Granato","Tomas Sandstrom","Jeff Hackett","1",1899-12-31 09:51:00,"EV","Cow Palace","OTL","A",0,0
+1991-11-26,"LAK","TOR",30,"Charlie Huddy","Rob Blake","Grant Fuhr","2",1899-12-31 01:41:00,"PP","Great Western Forum","T","H",0,0
+1991-11-23,"LAK","SJS",30,"Tony Granato",NA,"Arturs Irbe","1",1899-12-31 01:22:00,"EV","Great Western Forum","W","H",0,0
+1991-11-23,"LAK","SJS",30,NA,NA,"Arturs Irbe","1",1899-12-31 16:22:00,"EV","Great Western Forum","W","H",0,0
+1991-11-23,"LAK","SJS",30,"Luc Robitaille","Brian Benning","Arturs Irbe","2",1899-12-31 10:36:00,"PP","Great Western Forum","W","H",0,0
+1991-11-21,"LAK","NYR",30,"Tony Granato","Tomas Sandstrom","John Vanbiesbrouck","2",1899-12-31 03:52:00,"PP","Great Western Forum","W","H",0,0
+1991-11-12,"LAK","VAN",30,"Bob Kudelski","Larry Robinson","Kirk McLean","1",1899-12-31 14:17:00,"PP","Pacific Coliseum","L","A",0,0
+1991-11-02,"LAK","TOR",30,"Charlie Huddy",NA,"Grant Fuhr","3",1899-12-31 01:13:00,"EV","Maple Leaf Gardens","W","A",0,0
+1991-11-02,"LAK","TOR",30,"Jari Kurri","Luc Robitaille","Grant Fuhr","3",1899-12-31 18:45:00,"EV","Maple Leaf Gardens","W","A",0,0
+1991-10-31,"LAK","BOS",30,"Luc Robitaille",NA,NA,"3",1899-12-31 19:37:00,"EV","Boston Garden","W","A",1,0
+1991-10-30,"LAK","HAR",30,"Tomas Sandstrom","Luc Robitaille","Kay Whitmore","3",1899-12-31 17:24:00,"PP","Hartford Civic Center","T","A",0,0
+1991-03-28,"LAK","MNS",30,"Larry Robinson","Tony Granato","Jon Casey","1",1899-12-31 10:31:00,"EV","Great Western Forum","W","H",0,0
+1991-03-26,"LAK","EDM",30,"Marty McSorley","Luc Robitaille","Bill Ranford","1",1899-12-31 08:23:00,"EV","Great Western Forum","W","H",0,0
+1991-03-26,"LAK","EDM",30,"Larry Robinson",NA,NA,"3",1899-12-31 19:54:00,"EV","Great Western Forum","W","H",1,0
+1991-03-07,"LAK","PIT",30,NA,NA,"Tom Barrasso","1",1899-12-31 15:16:00,"EV","Pittsburgh Civic Arena","L","A",0,0
+1991-02-24,"LAK","WIN",30,"Tomas Sandstrom","Tony Granato","Bob Essensa","2",1899-12-31 08:20:00,"EV","Winnipeg Arena","W","A",0,0
+1991-02-22,"LAK","WIN",30,NA,NA,"Rick Tabaracci","2",1899-12-31 12:05:00,"EV","Winnipeg Arena","W","A",0,0
+1991-02-20,"LAK","QUE",30,"Tony Granato","Marty McSorley","Jacques Cloutier","1",1899-12-31 10:00:00,"EV","Great Western Forum","W","H",0,0
+1991-02-18,"LAK","WSH",30,"Marty McSorley",NA,NA,"3",1899-12-31 19:33:00,"EV","Great Western Forum","W","H",1,0
+1991-02-02,"LAK","VAN",30,"Marty McSorley",NA,"Troy Gamble","2",1899-12-31 10:01:00,"EV","Great Western Forum","W","H",0,0
+1991-01-26,"LAK","VAN",30,"Tony Granato","Tomas Sandstrom","Kirk McLean","1",1899-12-31 00:12:00,"EV","Great Western Forum","W","H",0,0
+1991-01-26,"LAK","VAN",30,"Steve Duchesne","Tomas Sandstrom","Kirk McLean","2",1899-12-31 01:08:00,"EV","Great Western Forum","W","H",0,0
+1991-01-26,"LAK","VAN",30,"Tomas Sandstrom","Brian Benning","Kirk McLean","3",1899-12-31 01:19:00,"EV","Great Western Forum","W","H",0,0
+1991-01-25,"LAK","VAN",29,"Rob Blake","Dave Taylor","Troy Gamble","3",1899-12-31 14:42:00,"PP","Pacific Coliseum","W","A",0,0
+1991-01-17,"LAK","BOS",29,"Tony Granato","Tomas Sandstrom","Andy Moog","1",1899-12-31 06:47:00,"EV","Boston Garden","L","A",0,0
+1991-01-14,"LAK","NJD",29,"Steve Duchesne",NA,"Chris Terreri","1",1899-12-31 00:59:00,"EV","Brendan Byrne Arena","W","A",0,0
+1991-01-12,"LAK","VAN",29,"Rob Blake",NA,"Kirk McLean","1",1899-12-31 14:19:00,"PP","Great Western Forum","W","H",0,0
+1991-01-03,"LAK","NYI",29,"Brian Benning","Tomas Sandstrom","Glenn Healy","1",1899-12-31 11:48:00,"EV","Nassau Veterans Memorial Coliseum","W","A",0,0
+1991-01-03,"LAK","NYI",29,"Steve Duchesne",NA,"Glenn Healy","2",1899-12-31 05:09:00,"EV","Nassau Veterans Memorial Coliseum","W","A",0,0
+1991-01-03,"LAK","NYI",29,"Tomas Sandstrom",NA,"Glenn Healy","2",1899-12-31 07:14:00,"EV","Nassau Veterans Memorial Coliseum","W","A",0,0
+1990-12-29,"LAK","MTL",29,NA,NA,"Jean-Claude Bergeron","2",1899-12-31 01:53:00,"EV","Great Western Forum","L","H",0,0
+1990-12-20,"LAK","CGY",29,"Brian Benning","Bob Kudelski","Rick Wamsley","2",1899-12-31 15:27:00,"EV","Olympic Saddledome","OTW","A",0,0
+1990-12-15,"LAK","EDM",29,"Steve Duchesne","Luc Robitaille","Bill Ranford","2",1899-12-31 06:57:00,"PP","Great Western Forum","W","H",0,0
+1990-12-11,"LAK","NYR",29,"Tony Granato","Brad Jones","Mike Richter","3",1899-12-31 11:24:00,"EV","Great Western Forum","L","H",0,0
+1990-12-11,"LAK","NYR",29,"Tony Granato",NA,"Mike Richter","3",1899-12-31 19:58:00,"EV","Great Western Forum","L","H",0,0
+1990-12-05,"LAK","WIN",29,"John Tonelli","Bob Kudelski","Rick Tabaracci","3",1899-12-31 10:28:00,"EV","Great Western Forum","T","H",0,0
+1990-11-29,"LAK","STL",29,"Steve Duchesne","Luc Robitaille","Vincent Riendeau","3",1899-12-31 16:33:00,"PP","St. Louis Arena","T","A",0,0
+1990-11-25,"LAK","QUE",29,"Tomas Sandstrom","Rob Blake","Ron Tugnutt","2",1899-12-31 19:33:00,"EV","Quebec Coliseum","T","A",0,0
+1990-11-20,"LAK","NJD",29,"Dave Taylor",NA,"Chris Terreri","2",1899-12-31 07:58:00,"EV","Great Western Forum","W","H",0,0
+1990-11-14,"LAK","BUF",29,"Francis Breault",NA,"Clint Malarchuk","2",1899-12-31 12:53:00,"EV","Great Western Forum","W","H",0,0
+1990-11-10,"LAK","EDM",29,"Tony Granato","Steve Duchesne","Bill Ranford","2",1899-12-31 01:37:00,"EV","Great Western Forum","W","H",0,0
+1990-11-08,"LAK","DET",29,"Tomas Sandstrom","Steve Duchesne","Tim Cheveldae","2",1899-12-31 02:54:00,"EV","Great Western Forum","W","H",0,0
+1990-11-02,"LAK","WSH",29,"Marty McSorley","Bob Kudelski","Mike Liut","2",1899-12-31 16:16:00,"EV","Capital Center","L","A",0,0
+1990-10-31,"LAK","NYR",29,"Tomas Sandstrom","Steve Duchesne","Mike Richter","1",1899-12-31 15:59:00,"EV","Madison Square Garden (IV)","L","A",0,0
+1990-10-30,"LAK","NYI",29,"Rob Blake","Steve Duchesne","Danny Lorenz","1",1899-12-31 18:44:00,"PP","Nassau Veterans Memorial Coliseum","W","A",0,0
+1990-10-19,"LAK","HAR",29,"Steve Duchesne",NA,NA,"3",1899-12-31 18:48:00,"EV","Great Western Forum","W","H",1,0
+1990-10-17,"LAK","MNS",29,NA,NA,NA,"3",1899-12-31 19:46:00,"EV","Great Western Forum","W","H",1,0
+1990-10-13,"LAK","BOS",29,"Tony Granato","Tomas Sandstrom","Reggie Lemelin","1",1899-12-31 19:12:00,"EV","Great Western Forum","W","H",0,0
+1990-10-13,"LAK","BOS",29,NA,NA,"Andy Moog","3",1899-12-31 19:14:00,"PP","Great Western Forum","W","H",0,0
+1990-10-11,"LAK","EDM",29,"Steve Kasper","Luc Robitaille","Bill Ranford","3",1899-12-31 19:11:00,"EV","Great Western Forum","T","H",0,0
+1990-10-04,"LAK","NYI",29,"Luc Robitaille","Rob Blake","Glenn Healy","1",1899-12-31 12:40:00,"PP","Great Western Forum","W","H",0,0
+1990-10-04,"LAK","NYI",29,"Rob Blake",NA,"Glenn Healy","2",1899-12-31 18:46:00,"PP","Great Western Forum","W","H",0,0
+1990-03-17,"LAK","BOS",29,"Tomas Sandstrom",NA,"Reggie Lemelin","3",1899-12-31 18:20:00,"EV","Boston Garden","W","A",0,0
+1990-03-14,"LAK","BUF",29,NA,NA,"Daren Puppa","2",1899-12-31 05:52:00,"EV","Buffalo Memorial Auditorium","OTW","A",0,0
+1990-03-10,"LAK","PIT",29,"Luc Robitaille","Tim Watters","Alain Chevrier","2",1899-12-31 05:46:00,"EV","Great Western Forum","W","H",0,0
+1990-03-07,"LAK","MTL",29,"Steve Kasper","Bob Halkidis","Patrick Roy","2",1899-12-31 17:14:00,"EV","Great Western Forum","L","H",0,0
+1990-02-28,"LAK","EDM",29,"Marty McSorley","Mike Krushelnyski",NA,"3",1899-12-31 19:19:00,"SH","Great Western Forum","W","H",1,0
+1990-02-21,"LAK","MNS",29,"Steve Kasper",NA,NA,"3",1899-12-31 19:52:00,"EV","Great Western Forum","W","H",1,0
+1990-02-19,"LAK","WSH",29,"Steve Duchesne","Luc Robitaille","Jim Hrivnak","2",1899-12-31 14:54:00,"EV","Great Western Forum","W","H",0,0
+1990-02-17,"LAK","QUE",29,"Tomas Sandstrom","Petr Prajsler","Scott Gordon","3",1899-12-31 01:32:00,"EV","Great Western Forum","W","H",0,0
+1990-02-17,"LAK","QUE",29,"Tomas Sandstrom","Mike Allison","Scott Gordon","3",1899-12-31 08:27:00,"PP","Great Western Forum","W","H",0,0
+1990-02-14,"LAK","DET",29,"Brian Benning","Tomas Sandstrom","Tim Cheveldae","1",1899-12-31 04:29:00,"EV","Joe Louis Arena","L","A",0,0
+1990-02-14,"LAK","DET",29,"Tomas Sandstrom","Tim Watters","Tim Cheveldae","2",1899-12-31 18:30:00,"EV","Joe Louis Arena","L","A",0,0
+1990-02-01,"LAK","CHI",29,"Tomas Sandstrom","Larry Robinson","Jacques Cloutier","1",1899-12-31 19:23:00,"PP","Great Western Forum","L","H",0,0
+1990-01-27,"LAK","NYR",29,"John Tonelli","Tomas Sandstrom","Mike Richter","1",1899-12-31 18:35:00,"PP","Great Western Forum","L","H",0,0
+1990-01-18,"LAK","DET",28,"Mike Allison",NA,"Glen Hanlon","1",1899-12-31 00:50:00,"EV","Great Western Forum","W","H",0,0
+1990-01-18,"LAK","DET",28,"Larry Robinson",NA,"Glen Hanlon","1",1899-12-31 16:35:00,"EV","Great Western Forum","W","H",0,0
+1990-01-16,"LAK","BUF",28,NA,NA,"Daren Puppa","2",1899-12-31 13:57:00,"SH","Great Western Forum","L","H",0,0
+1990-01-11,"LAK","EDM",28,"Luc Robitaille","Larry Robinson","Bill Ranford","3",1899-12-31 14:56:00,"EV","Great Western Forum","T","H",0,0
+1990-01-09,"LAK","STL",28,"Bernie Nicholls","Bob Kudelski","Vincent Riendeau","2",1899-12-31 10:50:00,"PP","Great Western Forum","L","H",0,0
+1990-01-06,"LAK","TOR",28,"Mikko Makela","Mike Krushelnyski","Allan Bester","1",1899-12-31 12:18:00,"EV","Maple Leaf Gardens","L","A",0,0
+1990-01-01,"LAK","WSH",28,"Marty McSorley","John Tonelli","Don Beaupre","3",1899-12-31 06:49:00,"EV","Capital Center","W","A",0,0
+1990-01-01,"LAK","WSH",28,"Luc Robitaille","Steve Duchesne","Don Beaupre","3",1899-12-31 19:11:00,"EV","Capital Center","W","A",0,0
+1989-12-27,"LAK","CGY",28,"Luc Robitaille","Bernie Nicholls","Mike Vernon","2",1899-12-31 11:16:00,"PP","Great Western Forum","T","H",0,0
+1989-12-21,"LAK","QUE",28,"Mike Krushelnyski","John Tonelli","Ron Tugnutt","3",1899-12-31 12:10:00,"EV","Great Western Forum","W","H",0,0
+1989-12-19,"LAK","WIN",28,"Mikko Makela",NA,"Daniel Berthiaume","2",1899-12-31 16:58:00,"EV","Great Western Forum","W","H",0,0
+1989-12-19,"LAK","WIN",28,"Brian Benning","Luc Robitaille","Daniel Berthiaume","1",1899-12-31 02:55:00,"PP","Great Western Forum","W","H",0,0
+1989-12-15,"LAK","NJD",28,"Steve Kasper","Steve Duchesne","Chris Terreri","3",1899-12-31 07:48:00,"SH","Brendan Byrne Arena","L","A",0,0
+1989-12-13,"LAK","HAR",28,"Marty McSorley",NA,"Peter Sidorkiewicz","1",1899-12-31 14:50:00,"EV","Hartford Civic Center","W","A",0,0
+1989-12-08,"LAK","EDM",28,"Larry Robinson","Bernie Nicholls","Grant Fuhr","3",1899-12-31 14:30:00,"PP","Northlands Coliseum","OTL","A",0,0
+1989-11-30,"LAK","EDM",28,"Mikko Makela","Mike Krushelnyski","Grant Fuhr","1",1899-12-31 15:02:00,"EV","Great Western Forum","L","H",0,0
+1989-11-22,"LAK","CHI",28,"Steve Kasper",NA,"Jacques Cloutier","2",1899-12-31 11:40:00,"EV","Great Western Forum","W","H",0,0
+1989-11-08,"LAK","CGY",28,"Steve Duchesne",NA,"Rick Wamsley","2",1899-12-31 00:37:00,"EV","Great Western Forum","L","H",0,0
+1989-10-31,"LAK","PIT",28,"Bernie Nicholls",NA,"Wendell Young","1",1899-12-31 05:41:00,"EV","Pittsburgh Civic Arena","W","A",0,0
+1989-10-31,"LAK","PIT",28,"Petr Prajsler","Bernie Nicholls","Wendell Young","2",1899-12-31 01:40:00,"PP","Pittsburgh Civic Arena","W","A",0,0
+1989-10-31,"LAK","PIT",28,"Bernie Nicholls",NA,"Wendell Young","1",1899-12-31 04:41:00,"SH","Pittsburgh Civic Arena","W","A",0,0
+1989-10-21,"LAK","STL",28,"Larry Robinson","Bob Kudelski","Greg Millen","3",1899-12-31 16:47:00,"EV","St. Louis Arena","W","A",0,0
+1989-10-15,"LAK","EDM",28,"Dave Taylor","Steve Duchesne","Bill Ranford","3",1899-12-31 19:07:00,"EV","Northlands Coliseum","OTW","A",0,0
+1989-10-15,"LAK","EDM",28,"Bob Kudelski",NA,"Bill Ranford","OT",1899-12-31 03:24:00,"EV","Northlands Coliseum","OTW","A",0,0
+1989-10-11,"LAK","NYI",28,"John Tonelli","Marty McSorley","Mark Fitzpatrick","3",1899-12-31 01:27:00,"PP","Great Western Forum","L","H",0,0
+1989-10-07,"LAK","EDM",28,"Luc Robitaille","Larry Robinson","Bill Ranford","1",1899-12-31 10:53:00,"EV","Great Western Forum","L","H",0,0
+1989-10-07,"LAK","EDM",28,"Bob Kudelski","John Tonelli","Bill Ranford","2",1899-12-31 01:07:00,"PP","Great Western Forum","L","H",0,0
+1989-03-29,"LAK","WIN",28,"Kelly Hrudey",NA,"Pokey Reddick","1",1899-12-31 15:32:00,"EV","Great Western Forum","OTW","H",0,0
+1989-03-28,"LAK","WIN",28,"Steve Duchesne","Mike Krushelnyski","Bob Essensa","3",1899-12-31 10:51:00,"PP","Great Western Forum","T","H",0,0
+1989-03-12,"LAK","EDM",28,"Mike Allison",NA,"Grant Fuhr","3",1899-12-31 07:23:00,"EV","Northlands Coliseum","W","A",0,0
+1989-03-10,"LAK","VAN",28,"Mike Allison","Mike Krushelnyski","Kirk McLean","2",1899-12-31 02:24:00,"PP","Pacific Coliseum","L","A",0,0
+1989-03-04,"LAK","PHI",28,"Bernie Nicholls","John Tonelli","Ron Hextall","3",1899-12-31 16:07:00,"EV","Great Western Forum","W","H",0,0
+1989-03-04,"LAK","PHI",28,"Mike Allison",NA,"Ron Hextall","1",1899-12-31 16:00:00,"EV","Great Western Forum","W","H",0,0
+1989-03-02,"LAK","STL",28,NA,NA,"Greg Millen","1",1899-12-31 12:39:00,"EV","St. Louis Arena","L","A",0,0
+1989-03-01,"LAK","BUF",28,"Jay Miller","Marty McSorley","Jacques Cloutier","2",1899-12-31 18:56:00,"EV","Buffalo Memorial Auditorium","W","A",0,0
+1989-02-20,"LAK","TOR",28,"Mike Allison","Mike Krushelnyski","Allan Bester","2",1899-12-31 07:49:00,"EV","Great Western Forum","W","H",0,0
+1989-02-20,"LAK","TOR",28,"Mike Allison","Mike Krushelnyski","Allan Bester","3",1899-12-31 09:17:00,"EV","Great Western Forum","W","H",0,0
+1989-02-18,"LAK","QUE",28,"Bob Kudelski","John Tonelli","Ron Tugnutt","3",1899-12-31 13:01:00,"EV","Great Western Forum","W","H",0,0
+1989-02-18,"LAK","QUE",28,"Steve Kasper",NA,"Ron Tugnutt","3",1899-12-31 10:48:00,"SH","Great Western Forum","W","H",0,0
+1989-02-12,"LAK","CHI",28,"Tom Laidlaw",NA,"Alain Chevrier","3",1899-12-31 04:19:00,"SH","Chicago Stadium","W","A",0,0
+1989-02-12,"LAK","CHI",28,"Mike Krushelnyski","Mike Allison","Alain Chevrier","2",1899-12-31 19:24:00,"EV","Chicago Stadium","W","A",0,0
+1989-02-12,"LAK","CHI",28,"Mike Krushelnyski",NA,"Alain Chevrier","2",1899-12-31 10:21:00,"PP","Chicago Stadium","W","A",0,0
+1989-02-10,"LAK","WSH",28,"Mike Allison","Dale DeGray","Clint Malarchuk","3",1899-12-31 08:34:00,"EV","Capital Center","OTW","A",0,0
+1989-02-04,"LAK","BUF",28,"Bernie Nicholls","John Tonelli","Darcy Wakaluk","3",1899-12-31 10:34:00,"EV","Great Western Forum","W","H",0,0
+1989-02-04,"LAK","BUF",28,NA,NA,"Darcy Wakaluk","3",1899-12-31 18:12:00,"EV","Great Western Forum","W","H",0,0
+1989-02-04,"LAK","BUF",28,NA,NA,NA,"3",1899-12-31 19:59:00,"EV","Great Western Forum","W","H",1,0
+1989-02-02,"LAK","NJD",28,"John Tonelli","Tom Laidlaw","Sean Burke","3",1899-12-31 07:43:00,"EV","Great Western Forum","T","H",0,0
+1989-01-31,"LAK","CGY",28,"Luc Robitaille","Bernie Nicholls","Mike Vernon","3",1899-12-31 12:47:00,"PP","Great Western Forum","L","H",0,0
+1989-01-21,"LAK","HAR",27,"Bernie Nicholls",NA,"Peter Sidorkiewicz","2",1899-12-31 14:01:00,"EV","Hartford Civic Center","L","A",0,0
+1989-01-14,"LAK","HAR",27,"Marty McSorley",NA,"Mike Liut","2",1899-12-31 09:13:00,"EV","Great Western Forum","W","H",0,0
+1989-01-14,"LAK","HAR",27,"Bernie Nicholls","Steve Duchesne","Mike Liut","1",1899-12-31 06:45:00,"PP","Great Western Forum","W","H",0,0
+1989-01-08,"LAK","WIN",27,"Sylvain Couturier","Luc Robitaille","Pokey Reddick","3",1899-12-31 12:44:00,"EV","Winnipeg Arena","T","A",0,0
+1988-12-29,"LAK","VAN",27,"Bernie Nicholls","Marty McSorley","Steve Weeks","2",1899-12-31 04:00:00,"EV","Great Western Forum","L","H",0,0
+1988-12-23,"LAK","VAN",27,"Bernie Nicholls",NA,NA,"3",1899-12-31 19:54:00,"EV","Pacific Coliseum","W","A",1,0
+1988-12-23,"LAK","VAN",27,NA,NA,NA,"3",1899-12-31 17:54:00,"SH","Pacific Coliseum","W","A",1,0
+1988-12-21,"LAK","MNS",27,"Ron Duguay","Tom Laidlaw","Jon Casey","1",1899-12-31 03:08:00,"EV","Great Western Forum","W","H",0,0
+1988-12-16,"LAK","DET",27,NA,NA,NA,"3",1899-12-31 19:59:00,"EV","Joe Louis Arena","W","A",1,0
+1988-12-12,"LAK","NYR",27,"Bernie Nicholls","Bob Carpenter","John Vanbiesbrouck","2",1899-12-31 03:29:00,"EV","Madison Square Garden (IV)","W","A",0,0
+1988-12-08,"LAK","WIN",27,"Mike Allison",NA,"Pokey Reddick","3",1899-12-31 00:39:00,"EV","Great Western Forum","T","H",0,0
+1988-12-06,"LAK","WIN",27,"Luc Robitaille","Steve Duchesne","Pokey Reddick","3",1899-12-31 03:34:00,"EV","Great Western Forum","OTL","H",0,0
+1988-12-03,"LAK","CHI",27,"Bernie Nicholls",NA,NA,"3",1899-12-31 19:59:00,"EV","Great Western Forum","W","H",1,0
+1988-11-29,"LAK","NJD",27,"Gilles Hamel",NA,"Sean Burke","3",1899-12-31 19:41:00,"EV","Great Western Forum","W","H",0,0
+1988-11-29,"LAK","NJD",27,"Luc Robitaille","Steve Duchesne","Sean Burke","3",1899-12-31 11:17:00,"PP","Great Western Forum","W","H",0,0
+1988-11-26,"LAK","CGY",27,"Bob Carpenter",NA,"Mike Vernon","1",1899-12-31 12:54:00,"EV","Olympic Saddledome","L","A",0,0
+1988-11-23,"LAK","DET",27,"Dave Taylor","Luc Robitaille","Greg Stefan","1",1899-12-31 08:23:00,"EV","Joe Louis Arena","W","A",0,0
+1988-11-19,"LAK","BUF",27,"Bernie Nicholls",NA,"Jacques Cloutier","3",1899-12-31 15:57:00,"EV","Great Western Forum","W","H",0,0
+1988-11-15,"LAK","VAN",27,"Doug Crossman","Bernie Nicholls","Kirk McLean","3",1899-12-31 00:28:00,"EV","Great Western Forum","W","H",0,0
+1988-11-15,"LAK","VAN",27,"Bernie Nicholls","Luc Robitaille","Kirk McLean","3",1899-12-31 02:41:00,"PP","Great Western Forum","W","H",0,0
+1988-11-06,"LAK","CHI",27,"Steve Duchesne","Ron Duguay","Darren Pang","2",1899-12-31 08:09:00,"EV","Chicago Stadium","W","A",0,0
+1988-11-06,"LAK","CHI",27,NA,NA,NA,"3",1899-12-31 19:51:00,"PP","Chicago Stadium","W","A",1,0
+1988-11-01,"LAK","QUE",27,"Wayne McBean","Bob Carpenter","Bob Mason","2",1899-12-31 15:58:00,"EV","Quebec Coliseum","W","A",0,0
+1988-10-30,"LAK","WIN",27,NA,NA,"Pokey Reddick","1",1899-12-31 14:09:00,"EV","Winnipeg Arena","L","A",0,0
+1988-10-22,"LAK","MNS",27,"Bob Carpenter","Marty McSorley","Kari Takko","3",1899-12-31 03:47:00,"EV","Great Western Forum","W","H",0,0
+1988-10-22,"LAK","MNS",27,"Bob Carpenter",NA,"Jon Casey","1",1899-12-31 12:12:00,"PP","Great Western Forum","W","H",0,0
+1988-10-17,"LAK","CGY",27,"Marty McSorley","Luc Robitaille","Mike Vernon","2",1899-12-31 03:05:00,"PP","Olympic Saddledome","L","A",0,0
+1988-10-12,"LAK","BOS",27,"Dave Taylor",NA,"Andy Moog","3",1899-12-31 07:12:00,"EV","Great Western Forum","W","H",0,0
+1988-10-12,"LAK","BOS",27,"Bernie Nicholls","Ken Baumgartner","Andy Moog","2",1899-12-31 14:30:00,"SH","Great Western Forum","W","H",0,0
+1988-10-09,"LAK","NYI",27,"Steve Duchesne",NA,"Billy Smith","2",1899-12-31 19:46:00,"EV","Great Western Forum","OTW","H",0,0
+1988-10-08,"LAK","CGY",27,"Luc Robitaille","Dave Taylor","Rick Wamsley","1",1899-12-31 12:29:00,"EV","Great Western Forum","OTW","H",0,0
+1988-10-08,"LAK","CGY",27,"Larry Playfair","Bernie Nicholls","Rick Wamsley","3",1899-12-31 11:14:00,"SH","Great Western Forum","OTW","H",0,0
+1988-10-06,"LAK","DET",27,"Dave Taylor","Bernie Nicholls","Greg Stefan","1",1899-12-31 12:54:00,"PP","Great Western Forum","W","H",0,0
+1988-03-30,"EDM","MNS",27,"Jari Kurri","Steve Smith","Kari Takko","3",1899-12-31 14:33:00,"PP","Northlands Coliseum","W","H",0,0
+1988-03-28,"EDM","TOR",27,"Glenn Anderson","Bill Ranford",NA,"3",1899-12-31 19:44:00,"EV","Maple Leaf Gardens","W","A",1,0
+1988-03-26,"EDM","NYI",27,"Geoff Courtnall",NA,"Kelly Hrudey","3",1899-12-31 19:40:00,"EV","Nassau Veterans Memorial Coliseum","L","A",0,0
+1988-03-20,"EDM","MNS",27,"Craig Muni","Geoff Courtnall","Jon Casey","1",1899-12-31 08:07:00,"EV","Metropolitan Sports Center","T","A",0,0
+1988-03-01,"EDM","LAK",27,"Esa Tikkanen","Charlie Huddy","Roland Melanson","1",1899-12-31 12:26:00,"PP","Northlands Coliseum","W","H",0,0
+1988-02-28,"EDM","CGY",27,"Esa Tikkanen","Mark Messier","Mike Vernon","2",1899-12-31 10:14:00,"PP","Northlands Coliseum","L","H",0,0
+1988-02-11,"EDM","VAN",27,"Mark Messier",NA,"Frank Caprice","3",1899-12-31 17:52:00,"EV","Pacific Coliseum","W","A",0,0
+1988-02-06,"EDM","LAK",27,"Esa Tikkanen",NA,"Roland Melanson","1",1899-12-31 11:42:00,"EV","Great Western Forum","L","A",0,0
+1988-02-03,"EDM","NJD",27,"Craig Muni","Jari Kurri","Alain Chevrier","2",1899-12-31 08:19:00,"EV","Northlands Coliseum","W","H",0,0
+1988-01-30,"EDM","HAR",27,"Charlie Huddy","Jari Kurri","Mike Liut","2",1899-12-31 02:24:00,"SH","Northlands Coliseum","W","H",0,0
+1987-12-30,"EDM","PHI",26,"Esa Tikkanen","Grant Fuhr","Ron Hextall","3",1899-12-31 18:45:00,"EV","Northlands Coliseum","W","H",0,0
+1987-12-26,"EDM","CGY",26,"Craig Muni","Esa Tikkanen","Mike Vernon","3",1899-12-31 07:32:00,"EV","Olympic Saddledome","W","A",0,0
+1987-12-16,"EDM","LAK",26,"Jari Kurri","Steve Smith","Glenn Healy","3",1899-12-31 06:09:00,"EV","Great Western Forum","L","A",0,0
+1987-12-12,"EDM","VAN",26,NA,NA,"Kirk McLean","2",1899-12-31 01:35:00,"SH","Pacific Coliseum","W","A",0,0
+1987-12-12,"EDM","VAN",26,"Jari Kurri",NA,"Kirk McLean","3",1899-12-31 02:54:00,"SH","Pacific Coliseum","W","A",0,0
+1987-12-06,"EDM","MNS",26,"Steve Smith",NA,"Don Beaupre","1",1899-12-31 05:38:00,"EV","Northlands Coliseum","W","H",0,0
+1987-12-06,"EDM","MNS",26,"Jari Kurri","Esa Tikkanen","Don Beaupre","2",1899-12-31 15:13:00,"EV","Northlands Coliseum","W","H",0,0
+1987-12-06,"EDM","MNS",26,"Steve Smith","Grant Fuhr","Don Beaupre","3",1899-12-31 14:15:00,"EV","Northlands Coliseum","W","H",0,0
+1987-12-06,"EDM","MNS",26,"Craig Simpson","Esa Tikkanen","Don Beaupre","1",1899-12-31 14:34:00,"PP","Northlands Coliseum","W","H",0,0
+1987-12-06,"EDM","MNS",26,"Mark Messier","Jari Kurri","Kari Takko","1",1899-12-31 16:11:00,"PP","Northlands Coliseum","W","H",0,0
+1987-12-05,"EDM","TOR",26,"Esa Tikkanen","Jeff Beukeboom","Ken Wregget","3",1899-12-31 00:57:00,"EV","Northlands Coliseum","W","H",0,0
+1987-12-05,"EDM","TOR",26,"Esa Tikkanen",NA,"Ken Wregget","3",1899-12-31 18:59:00,"EV","Northlands Coliseum","W","H",0,0
+1987-11-27,"EDM","CHI",26,"Mark Messier",NA,"Darren Pang","2",1899-12-31 18:37:00,"SH","Northlands Coliseum","W","H",0,0
+1987-11-25,"EDM","NJD",26,"Mark Messier","Craig Muni","Alain Chevrier","2",1899-12-31 18:47:00,"SH","Northlands Coliseum","OTL","H",0,0
+1987-11-22,"EDM","WIN",26,"Glenn Anderson","Mark Messier","Pokey Reddick","1",1899-12-31 04:57:00,"EV","Winnipeg Arena","OTL","A",0,0
+1987-11-22,"EDM","WIN",26,"Esa Tikkanen",NA,"Pokey Reddick","1",1899-12-31 09:27:00,"EV","Winnipeg Arena","OTL","A",0,0
+1987-11-15,"EDM","CHI",26,"Mark Messier","Charlie Huddy","Darren Pang","2",1899-12-31 00:14:00,"PP","Chicago Stadium","L","A",0,0
+1987-11-07,"EDM","BUF",26,"Charlie Huddy","Esa Tikkanen","Tom Barrasso","1",1899-12-31 17:14:00,"EV","Northlands Coliseum","W","H",0,0
+1987-11-07,"EDM","BUF",26,"Jim Wiemer","Mark Messier","Tom Barrasso","2",1899-12-31 05:13:00,"PP","Northlands Coliseum","W","H",0,0
+1987-11-05,"EDM","CGY",26,"Jari Kurri","Steve Smith","Mike Vernon","3",1899-12-31 09:31:00,"EV","Olympic Saddledome","T","A",0,0
+1987-11-04,"EDM","NYR",26,"Esa Tikkanen",NA,"John Vanbiesbrouck","2",1899-12-31 01:31:00,"PP","Northlands Coliseum","W","H",0,0
+1987-11-04,"EDM","NYR",26,"Jari Kurri","Esa Tikkanen","John Vanbiesbrouck","1",1899-12-31 15:20:00,"EV","Northlands Coliseum","W","H",0,0
+1987-11-04,"EDM","NYR",26,"Esa Tikkanen","Charlie Huddy","John Vanbiesbrouck","1",1899-12-31 09:05:00,"PP","Northlands Coliseum","W","H",0,0
+1987-10-24,"EDM","VAN",26,"Esa Tikkanen",NA,"Richard Brodeur","1",1899-12-31 07:24:00,"EV","Northlands Coliseum","W","H",0,0
+1987-10-24,"EDM","VAN",26,"Steve Smith",NA,"Richard Brodeur","3",1899-12-31 15:05:00,"EV","Northlands Coliseum","W","H",0,0
+1987-10-21,"EDM","LAK",26,"Kevin Lowe",NA,"Glenn Healy","1",1899-12-31 18:35:00,"EV","Northlands Coliseum","W","H",0,0
+1987-10-21,"EDM","LAK",26,"Jeff Beukeboom","Mark Messier","Glenn Healy","3",1899-12-31 03:25:00,"EV","Northlands Coliseum","W","H",0,0
+1987-10-17,"EDM","BOS",26,"Jari Kurri",NA,"Reggie Lemelin","2",1899-12-31 13:19:00,"EV","Northlands Coliseum","W","H",0,0
+1987-10-14,"EDM","CGY",26,"Mike Krushelnyski","Steve Smith","Mike Vernon","2",1899-12-31 01:46:00,"EV","Northlands Coliseum","L","H",0,0
+1987-10-11,"EDM","LAK",26,"Grant Fuhr",NA,"Roland Melanson","2",1899-12-31 08:03:00,"EV","Great Western Forum","W","A",0,0
+1987-04-02,"EDM","CGY",26,"Mark Messier","Paul Coffey","Doug Dadswell","2",1899-12-31 12:51:00,"PP","Northlands Coliseum","T","H",0,0
+1987-03-19,"EDM","CGY",26,"Dave Hunter","Moe Lemay","Mike Vernon","2",1899-12-31 10:50:00,"EV","Olympic Saddledome","L","A",0,0
+1987-03-15,"EDM","HAR",26,"Esa Tikkanen",NA,"Mike Liut","2",1899-12-31 01:58:00,"EV","Northlands Coliseum","W","H",0,0
+1987-03-14,"EDM","BUF",26,"Esa Tikkanen","Jari Kurri","Tom Barrasso","1",1899-12-31 07:07:00,"EV","Northlands Coliseum","W","H",0,0
+1987-03-14,"EDM","BUF",26,"Mike Krushelnyski","Jari Kurri","Tom Barrasso","2",1899-12-31 18:59:00,"EV","Northlands Coliseum","W","H",0,0
+1987-03-11,"EDM","DET",26,"Glenn Anderson","Reijo Ruotsalainen","Greg Stefan","3",1899-12-31 18:41:00,"EV","Northlands Coliseum","W","H",0,0
+1987-03-06,"EDM","LAK",26,NA,NA,"Al Jensen","3",1899-12-31 19:39:00,"SH","Northlands Coliseum","W","H",0,0
+1987-03-04,"EDM","VAN",26,"Kent Nilsson","Paul Coffey","Frank Caprice","3",1899-12-31 11:33:00,"PP","Pacific Coliseum","W","A",0,0
+1987-02-22,"EDM","WIN",26,"Jari Kurri",NA,"Pokey Reddick","2",1899-12-31 14:24:00,"EV","Winnipeg Arena","L","A",0,0
+1987-02-18,"EDM","TOR",26,"Craig MacTavish","Paul Coffey","Allan Bester","1",1899-12-31 18:38:00,"EV","Northlands Coliseum","W","H",0,0
+1987-02-08,"EDM","STL",26,"Jari Kurri","Esa Tikkanen","Greg Millen","3",1899-12-31 01:06:00,"EV","Northlands Coliseum","W","H",0,0
+1987-02-08,"EDM","STL",26,"Esa Tikkanen","Craig Muni","Greg Millen","1",1899-12-31 05:44:00,"PP","Northlands Coliseum","W","H",0,0
+1987-02-04,"EDM","MNS",26,"Kevin Lowe","Mark Messier","Don Beaupre","3",1899-12-31 09:49:00,"EV","Metropolitan Sports Center","OTW","A",0,0
+1987-01-30,"EDM","MNS",26,"Jari Kurri","Esa Tikkanen","Don Beaupre","2",1899-12-31 13:21:00,"EV","Northlands Coliseum","T","H",0,0
+1987-01-24,"EDM","PIT",25,"Randy Gregg","Craig MacTavish","Gilles Meloche","2",1899-12-31 11:11:00,"SH","Northlands Coliseum","W","H",0,0
+1987-01-23,"EDM","NYR",25,"Esa Tikkanen","Steve Smith","John Vanbiesbrouck","1",1899-12-31 09:25:00,"PP","Northlands Coliseum","W","H",0,0
+1987-01-23,"EDM","NYR",25,"Steve Smith","Esa Tikkanen","John Vanbiesbrouck","2",1899-12-31 09:47:00,"PP","Northlands Coliseum","W","H",0,0
+1987-01-21,"EDM","WIN",25,"Steve Smith",NA,"Steve Penney","1",1899-12-31 06:24:00,"EV","Winnipeg Arena","W","A",0,0
+1987-01-21,"EDM","WIN",25,"Kevin Lowe",NA,NA,"3",1899-12-31 19:53:00,"EV","Winnipeg Arena","W","A",1,0
+1987-01-17,"EDM","TOR",25,"Craig Muni",NA,NA,"3",1899-12-31 18:43:00,"EV","Maple Leaf Gardens","W","A",1,0
+1987-01-15,"EDM","QUE",25,"Kevin McClelland",NA,"Clint Malarchuk","3",1899-12-31 09:03:00,"EV","Quebec Coliseum","W","A",0,0
+1987-01-13,"EDM","DET",25,"Mark Messier","Glenn Anderson","Glen Hanlon","2",1899-12-31 09:29:00,"EV","Joe Louis Arena","W","A",0,0
+1987-01-03,"EDM","LAK",25,"Randy Gregg","Jari Kurri","Bob Janecyk","2",1899-12-31 13:59:00,"SH","Great Western Forum","W","A",0,0
+1986-12-30,"EDM","VAN",25,"Paul Coffey","Randy Gregg","Richard Brodeur","1",1899-12-31 12:24:00,"PP","Pacific Coliseum","W","A",0,0
+1986-12-30,"EDM","VAN",25,"Esa Tikkanen","Glenn Anderson","Richard Brodeur","1",1899-12-31 15:36:00,"PP","Pacific Coliseum","W","A",0,0
+1986-12-28,"EDM","PHI",25,NA,NA,"Ron Hextall","2",1899-12-31 14:42:00,"EV","Northlands Coliseum","W","H",0,0
+1986-12-28,"EDM","PHI",25,"Randy Gregg","Jari Kurri","Ron Hextall","3",1899-12-31 16:29:00,"EV","Northlands Coliseum","W","H",0,0
+1986-12-20,"EDM","LAK",25,"Jari Kurri","Mike Krushelnyski","Darren Eliot","1",1899-12-31 08:36:00,"EV","Northlands Coliseum","T","H",0,0
+1986-12-20,"EDM","LAK",25,"Mike Krushelnyski","Jari Kurri","Darren Eliot","2",1899-12-31 13:46:00,"EV","Northlands Coliseum","T","H",0,0
+1986-12-19,"EDM","VAN",25,"Jari Kurri","Mark Messier",NA,"3",1899-12-31 19:50:00,"EV","Northlands Coliseum","W","H",1,0
+1986-12-19,"EDM","VAN",25,"Mark Messier","Jari Kurri","Richard Brodeur","3",1899-12-31 13:15:00,"PP","Northlands Coliseum","W","H",0,0
+1986-12-17,"EDM","QUE",25,"Esa Tikkanen","Craig Muni","Richard Sevigny","1",1899-12-31 01:28:00,"EV","Northlands Coliseum","W","H",0,0
+1986-12-17,"EDM","QUE",25,NA,NA,"Richard Sevigny","1",1899-12-31 11:31:00,"EV","Northlands Coliseum","W","H",0,0
+1986-12-17,"EDM","QUE",25,"Esa Tikkanen","Jari Kurri","Richard Sevigny","1",1899-12-31 12:38:00,"EV","Northlands Coliseum","W","H",0,0
+1986-12-17,"EDM","QUE",25,"Kevin Lowe","Mark Messier","Richard Sevigny","2",1899-12-31 16:05:00,"SH","Northlands Coliseum","W","H",0,0
+1986-12-10,"EDM","WIN",25,"Jari Kurri","Esa Tikkanen","Daniel Berthiaume","1",1899-12-31 07:56:00,"EV","Winnipeg Arena","W","A",0,0
+1986-12-10,"EDM","WIN",25,"Esa Tikkanen","Steve Smith","Daniel Berthiaume","2",1899-12-31 01:47:00,"EV","Winnipeg Arena","W","A",0,0
+1986-12-10,"EDM","WIN",25,"Mark Messier","Kevin Lowe","Daniel Berthiaume","1",1899-12-31 00:30:00,"SH","Winnipeg Arena","W","A",0,0
+1986-12-09,"EDM","MNS",25,"Esa Tikkanen","Randy Gregg","Don Beaupre","2",1899-12-31 14:01:00,"PP","Metropolitan Sports Center","W","A",0,0
+1986-12-07,"EDM","PHI",25,"Esa Tikkanen","Glenn Anderson","Ron Hextall","2",1899-12-31 01:32:00,"EV","The Spectrum","L","A",0,0
+1986-12-03,"EDM","NYI",25,"Esa Tikkanen",NA,"Kelly Hrudey","3",1899-12-31 16:37:00,"EV","Northlands Coliseum","W","H",0,0
+1986-11-26,"EDM","WIN",25,"Esa Tikkanen","Glenn Anderson","Pokey Reddick","3",1899-12-31 01:43:00,"EV","Northlands Coliseum","W","H",0,0
+1986-11-24,"EDM","CGY",25,"Glenn Anderson","Paul Coffey","Mike Vernon","3",1899-12-31 06:30:00,"EV","Olympic Saddledome","L","A",0,0
+1986-11-22,"EDM","VAN",25,"Esa Tikkanen","Glenn Anderson","Troy Gamble","1",1899-12-31 01:37:00,"EV","Northlands Coliseum","W","H",0,0
+1986-11-22,"EDM","VAN",25,"Kevin Lowe","Craig Muni","Troy Gamble","2",1899-12-31 01:40:00,"EV","Northlands Coliseum","W","H",0,0
+1986-11-22,"EDM","VAN",25,"Charlie Huddy","Jari Kurri",NA,"3",1899-12-31 19:42:00,"EV","Northlands Coliseum","W","H",1,0
+1986-11-19,"EDM","NYR",25,"Paul Coffey","Mike Krushelnyski","John Vanbiesbrouck","1",1899-12-31 17:37:00,"EV","Northlands Coliseum","OTW","H",0,0
+1986-11-16,"EDM","NYR",25,"Kevin Lowe",NA,"Doug Soetaert","2",1899-12-31 14:39:00,"EV","Madison Square Garden (IV)","W","A",0,0
+1986-11-13,"EDM","BOS",25,"Craig MacTavish","Craig Muni","Doug Keans","3",1899-12-31 06:37:00,"EV","Boston Garden","OTL","A",0,0
+1986-11-07,"EDM","CGY",25,"Paul Coffey","Mark Messier","Mike Vernon","3",1899-12-31 15:26:00,"PP","Olympic Saddledome","L","A",0,0
+1986-11-05,"EDM","CGY",25,"Mike Krushelnyski","Kevin Lowe","Mike Vernon","2",1899-12-31 03:39:00,"EV","Northlands Coliseum","L","H",0,0
+1986-10-31,"EDM","VAN",25,NA,NA,"Richard Brodeur","3",1899-12-31 14:08:00,"EV","Pacific Coliseum","W","A",0,0
+1986-10-31,"EDM","VAN",25,"Mark Messier","Charlie Huddy","Richard Brodeur","3",1899-12-31 12:22:00,"SH","Pacific Coliseum","W","A",0,0
+1986-10-29,"EDM","WSH",25,"Paul Coffey","Charlie Huddy",NA,"3",1899-12-31 19:04:00,"EV","Northlands Coliseum","W","H",1,0
+1986-10-24,"EDM","BOS",25,"Mark Messier",NA,"Pat Riggin","1",1899-12-31 05:26:00,"SH","Northlands Coliseum","W","H",0,0
+1986-10-24,"EDM","BOS",25,"Lee Fogolin","Jari Kurri","Doug Keans","2",1899-12-31 19:04:00,"EV","Northlands Coliseum","W","H",0,0
+1986-10-24,"EDM","BOS",25,"Mark Messier",NA,"Pat Riggin","1",1899-12-31 17:28:00,"PP","Northlands Coliseum","W","H",0,0
+1986-10-21,"EDM","CHI",25,"Dave Hunter","Glenn Anderson","Bob Sauve","1",1899-12-31 09:35:00,"EV","Northlands Coliseum","W","H",0,0
+1986-10-21,"EDM","CHI",25,"Mike Krushelnyski",NA,"Bob Sauve","3",1899-12-31 12:44:00,"EV","Northlands Coliseum","W","H",0,0
+1986-10-12,"EDM","WIN",25,"Mark Messier","Charlie Huddy","Pokey Reddick","2",1899-12-31 08:28:00,"EV","Winnipeg Arena","L","A",0,0
+1986-10-11,"EDM","MTL",25,"Glenn Anderson","Mark Messier","Patrick Roy","2",1899-12-31 01:27:00,"PP","Montreal Forum","OTW","A",0,0
+1986-10-11,"EDM","MTL",25,"Paul Coffey",NA,"Patrick Roy","2",1899-12-31 19:53:00,"PP","Montreal Forum","OTW","A",0,0
+1986-04-02,"EDM","VAN",25,"Jari Kurri","Paul Coffey","Wendell Young","3",1899-12-31 01:26:00,"PP","Northlands Coliseum","W","H",0,0
+1986-03-26,"EDM","PIT",25,"Mark Napier",NA,"Roberto Romano","3",1899-12-31 11:10:00,"EV","Pittsburgh Civic Arena","W","A",0,0
+1986-03-18,"EDM","WIN",25,"Paul Coffey",NA,"Brian Hayward","2",1899-12-31 18:00:00,"EV","Northlands Coliseum","W","H",0,0
+1986-03-14,"EDM","DET",25,"Glenn Anderson",NA,"Eddie Mio","3",1899-12-31 19:03:00,"EV","Northlands Coliseum","W","H",0,0
+1986-03-09,"EDM","LAK",25,"Glenn Anderson",NA,"Roland Melanson","2",1899-12-31 03:52:00,"EV","Great Western Forum","W","A",0,0
+1986-03-05,"EDM","LAK",25,"Lee Fogolin",NA,"Roland Melanson","3",1899-12-31 08:19:00,"EV","Northlands Coliseum","W","H",0,0
+1986-03-05,"EDM","LAK",25,"Paul Coffey","Randy Gregg","Roland Melanson","2",1899-12-31 16:19:00,"PP","Northlands Coliseum","W","H",0,0
+1986-02-26,"EDM","WIN",25,"Jari Kurri","Randy Gregg","Brian Hayward","3",1899-12-31 04:12:00,"EV","Winnipeg Arena","W","A",0,0
+1986-02-26,"EDM","WIN",25,"Jari Kurri","Charlie Huddy","Marc Behrend","3",1899-12-31 08:37:00,"EV","Winnipeg Arena","W","A",0,0
+1986-02-24,"EDM","MTL",25,"Jari Kurri","Charlie Huddy","Patrick Roy","1",1899-12-31 08:30:00,"EV","Northlands Coliseum","W","H",0,0
+1986-02-22,"EDM","BOS",25,"Glenn Anderson","Dave Lumley","Pat Riggin","2",1899-12-31 09:47:00,"EV","Northlands Coliseum","OTL","H",0,0
+1986-02-19,"EDM","TOR",25,"Jari Kurri","Paul Coffey","Ken Wregget","3",1899-12-31 19:11:00,"EV","Northlands Coliseum","W","H",0,0
+1986-02-19,"EDM","TOR",25,"Mark Messier",NA,"Ken Wregget","2",1899-12-31 14:31:00,"SH","Northlands Coliseum","W","H",0,0
+1986-02-16,"EDM","BUF",25,"Paul Coffey","Andy Moog","Jacques Cloutier","1",1899-12-31 11:53:00,"EV","Northlands Coliseum","W","H",0,0
+1986-01-25,"EDM","LAK",24,"Jari Kurri","Mike Krushelnyski","Darren Eliot","1",1899-12-31 15:48:00,"EV","Northlands Coliseum","W","H",0,0
+1986-01-24,"EDM","NJD",24,NA,NA,"Craig Billington","OT",1899-12-31 01:29:00,"EV","Northlands Coliseum","OTW","H",0,0
+1986-01-22,"EDM","PIT",24,"Don Jackson","Randy Gregg","Gilles Meloche","1",1899-12-31 19:13:00,"EV","Northlands Coliseum","L","H",0,0
+1986-01-15,"EDM","HAR",24,"Paul Coffey",NA,"Mike Liut","2",1899-12-31 06:44:00,"EV","Hartford Civic Center","W","A",0,0
+1986-01-15,"EDM","HAR",24,"Don Jackson",NA,NA,"3",1899-12-31 19:45:00,"EV","Hartford Civic Center","W","A",1,0
+1986-01-13,"EDM","BOS",24,"Glenn Anderson","Mark Messier","Pat Riggin","1",1899-12-31 07:15:00,"PP","Boston Garden","W","A",0,0
+1986-01-11,"EDM","MTL",24,NA,NA,"Doug Soetaert","3",1899-12-31 19:10:00,"EV","Montreal Forum","W","A",0,0
+1986-01-08,"EDM","TOR",24,"Jari Kurri","Paul Coffey","Tim Bernhardt","1",1899-12-31 14:03:00,"EV","Maple Leaf Gardens","L","A",0,0
+1986-01-08,"EDM","TOR",24,"Jari Kurri","Paul Coffey","Tim Bernhardt","2",1899-12-31 04:58:00,"EV","Maple Leaf Gardens","L","A",0,0
+1986-01-08,"EDM","TOR",24,"Glenn Anderson","Jari Kurri","Tim Bernhardt","2",1899-12-31 15:10:00,"EV","Maple Leaf Gardens","L","A",0,0
+1986-01-05,"EDM","CGY",24,"Jari Kurri",NA,"Reggie Lemelin","1",1899-12-31 08:51:00,"EV","Northlands Coliseum","W","H",0,0
+1986-01-02,"EDM","CGY",24,"Paul Coffey","Grant Fuhr","Reggie Lemelin","2",1899-12-31 03:35:00,"SH","Olympic Saddledome","W","A",0,0
+1985-12-31,"EDM","PHI",24,"Craig MacTavish",NA,"Bob Froese","2",1899-12-31 08:34:00,"EV","Northlands Coliseum","W","H",0,0
+1985-12-31,"EDM","PHI",24,"Jari Kurri",NA,"Bob Froese","2",1899-12-31 12:31:00,"EV","Northlands Coliseum","W","H",0,0
+1985-12-31,"EDM","PHI",24,"Jari Kurri","Charlie Huddy","Bob Froese","3",1899-12-31 08:17:00,"EV","Northlands Coliseum","W","H",0,0
+1985-12-22,"EDM","WIN",24,"Paul Coffey","Charlie Huddy","Brian Hayward","3",1899-12-31 11:23:00,"EV","Northlands Coliseum","L","H",0,0
+1985-12-22,"EDM","WIN",24,"Jari Kurri","Paul Coffey","Brian Hayward","2",1899-12-31 14:25:00,"PP","Northlands Coliseum","L","H",0,0
+1985-12-13,"EDM","WIN",24,NA,NA,"Marc Behrend","3",1899-12-31 17:14:00,"EV","Winnipeg Arena","W","A",0,0
+1985-12-13,"EDM","WIN",24,NA,NA,"Marc Behrend","3",1899-12-31 18:12:00,"EV","Winnipeg Arena","W","A",0,0
+1985-12-07,"EDM","MNS",24,"Glenn Anderson","Steve Smith","Don Beaupre","1",1899-12-31 15:03:00,"PP","Northlands Coliseum","W","H",0,0
+1985-11-30,"EDM","HAR",24,"Lee Fogolin",NA,"Steve Weeks","2",1899-12-31 08:19:00,"EV","Northlands Coliseum","W","H",0,0
+1985-11-27,"EDM","VAN",24,"Charlie Huddy","Dave Semenko","Richard Brodeur","2",1899-12-31 01:17:00,"EV","Northlands Coliseum","T","H",0,0
+1985-11-27,"EDM","VAN",24,"Glenn Anderson","Paul Coffey","Richard Brodeur","1",1899-12-31 15:51:00,"PP","Northlands Coliseum","T","H",0,0
+1985-11-20,"EDM","MTL",24,"Mike Krushelnyski","Mark Messier","Steve Penney","2",1899-12-31 13:41:00,"EV","Montreal Forum","OTW","A",0,0
+1985-11-19,"EDM","QUE",24,"Dave Semenko","Glenn Anderson","Clint Malarchuk","3",1899-12-31 07:31:00,"EV","Quebec Coliseum","W","A",0,0
+1985-11-16,"EDM","NYI",24,"Jari Kurri","Kevin Lowe","Kelly Hrudey","1",1899-12-31 12:53:00,"PP","Nassau Veterans Memorial Coliseum","T","A",0,0
+1985-11-12,"EDM","WSH",24,"Jari Kurri",NA,"Al Jensen","3",1899-12-31 03:00:00,"PP","Capital Center","L","A",0,0
+1985-11-06,"EDM","LAK",24,"Andy Moog","Glenn Anderson","Bob Janecyk","3",1899-12-31 18:20:00,"EV","Great Western Forum","T","A",0,0
+1985-11-05,"EDM","VAN",24,"Paul Coffey","Jari Kurri","Richard Brodeur","1",1899-12-31 12:43:00,"EV","Pacific Coliseum","W","A",0,0
+1985-11-05,"EDM","VAN",24,"Jari Kurri","Mark Messier",NA,"3",1899-12-31 19:38:00,"EV","Pacific Coliseum","W","A",1,0
+1985-11-03,"EDM","TOR",24,"Paul Coffey",NA,"Tim Bernhardt","1",1899-12-31 10:26:00,"EV","Northlands Coliseum","W","H",0,0
+1985-11-03,"EDM","TOR",24,"Mike Krushelnyski",NA,"Tim Bernhardt","2",1899-12-31 02:10:00,"EV","Northlands Coliseum","W","H",0,0
+1985-11-03,"EDM","TOR",24,"Jari Kurri","Mark Messier","Tim Bernhardt","2",1899-12-31 15:47:00,"PP","Northlands Coliseum","W","H",0,0
+1985-10-28,"EDM","CGY",24,"Jari Kurri",NA,"Reggie Lemelin","2",1899-12-31 14:00:00,"EV","Olympic Saddledome","W","A",0,0
+1985-10-25,"EDM","CGY",24,"Lee Fogolin",NA,"Marc D'Amour","2",1899-12-31 03:47:00,"SH","Northlands Coliseum","W","H",0,0
+1985-10-20,"EDM","LAK",24,"Mike Krushelnyski","Paul Coffey","Bob Janecyk","1",1899-12-31 15:21:00,"PP","Great Western Forum","W","A",0,0
+1985-10-10,"EDM","WIN",24,"Kevin McClelland","Kevin Lowe","Brian Hayward","1",1899-12-31 03:22:00,"EV","Northlands Coliseum","W","H",0,0
+1985-10-10,"EDM","WIN",24,"Mike Krushelnyski",NA,"Brian Hayward","3",1899-12-31 03:52:00,"PP","Northlands Coliseum","W","H",0,0
+1985-04-05,"EDM","CGY",24,"Paul Coffey",NA,"Reggie Lemelin","1",1899-12-31 02:40:00,"EV","Northlands Coliseum","T","H",0,0
+1985-04-02,"EDM","LAK",24,"Mark Napier","Mike Krushelnyski","Bob Janecyk","1",1899-12-31 00:46:00,"EV","Great Western Forum","W","A",0,0
+1985-04-02,"EDM","LAK",24,"Mike Krushelnyski","Paul Coffey","Bob Janecyk","1",1899-12-31 13:42:00,"EV","Great Western Forum","W","A",0,0
+1985-04-02,"EDM","LAK",24,"Mark Napier",NA,NA,"3",1899-12-31 19:52:00,"EV","Great Western Forum","W","A",1,0
+1985-03-31,"EDM","CBH",24,"Mark Napier","Paul Coffey","Warren Skorodenski","1",1899-12-31 03:28:00,"EV","Chicago Stadium","W","A",0,0
+1985-03-29,"EDM","HAR",24,"Paul Coffey","Dave Hunter","Steve Weeks","1",1899-12-31 01:46:00,"EV","Hartford Civic Center","L","A",0,0
+1985-03-26,"EDM","NYI",24,"Jari Kurri",NA,"Kelly Hrudey","2",1899-12-31 03:48:00,"EV","Nassau Veterans Memorial Coliseum","W","A",0,0
+1985-03-22,"EDM","TOR",24,"Mark Messier","Kevin Lowe","Tim Bernhardt","3",1899-12-31 06:32:00,"SH","Northlands Coliseum","T","H",0,0
+1985-03-13,"EDM","DET",24,"Jari Kurri","Charlie Huddy","Corrado Micalef","1",1899-12-31 17:10:00,"EV","Northlands Coliseum","W","H",0,0
+1985-03-09,"EDM","NYR",24,"Kevin Lowe","Randy Gregg","Glen Hanlon","2",1899-12-31 05:26:00,"EV","Northlands Coliseum","T","H",0,0
+1985-03-03,"EDM","WIN",24,"Mike Krushelnyski","Jari Kurri","Brian Hayward","3",1899-12-31 14:39:00,"EV","Northlands Coliseum","L","H",0,0
+1985-02-27,"EDM","MTL",24,"Paul Coffey",NA,"Doug Soetaert","2",1899-12-31 18:15:00,"EV","Northlands Coliseum","L","H",0,0
+1985-02-22,"EDM","QUE",24,"Mike Krushelnyski","Paul Coffey","Mario Gosselin","2",1899-12-31 15:58:00,"EV","Northlands Coliseum","W","H",0,0
+1985-02-19,"EDM","TOR",24,"Mark Napier","Larry Melnyk","Ken Wregget","2",1899-12-31 14:23:00,"EV","Maple Leaf Gardens","W","A",0,0
+1985-02-19,"EDM","TOR",24,"Don Jackson","Mike Krushelnyski","Tim Bernhardt","3",1899-12-31 01:36:00,"EV","Maple Leaf Gardens","W","A",0,0
+1985-02-18,"EDM","BUF",24,"Jari Kurri",NA,"Tom Barrasso","1",1899-12-31 11:23:00,"EV","Buffalo Memorial Auditorium","W","A",0,0
+1985-02-18,"EDM","BUF",24,"Mike Krushelnyski",NA,"Tom Barrasso","2",1899-12-31 02:43:00,"EV","Buffalo Memorial Auditorium","W","A",0,0
+1985-02-15,"EDM","NYR",24,"Paul Coffey","Mike Krushelnyski","Glen Hanlon","1",1899-12-31 02:14:00,"EV","Madison Square Garden (IV)","L","A",0,0
+1985-02-15,"EDM","NYR",24,"Jari Kurri","Don Jackson","Glen Hanlon","2",1899-12-31 19:48:00,"EV","Madison Square Garden (IV)","L","A",0,0
+1985-02-03,"EDM","HAR",24,"Paul Coffey",NA,"Greg Millen","2",1899-12-31 03:15:00,"SH","Northlands Coliseum","W","H",0,0
+1985-01-28,"EDM","CGY",24,"Raimo Summanen","Jari Kurri","Reggie Lemelin","1",1899-12-31 01:57:00,"EV","Northlands Coliseum","W","H",0,0
+1985-01-26,"EDM","PIT",24,"Jari Kurri",NA,"Denis Herron","1",1899-12-31 12:48:00,"EV","Northlands Coliseum","W","H",0,0
+1985-01-26,"EDM","PIT",24,"Raimo Summanen","Charlie Huddy","Denis Herron","2",1899-12-31 17:27:00,"EV","Northlands Coliseum","W","H",0,0
+1985-01-26,"EDM","PIT",24,"Jari Kurri",NA,"Denis Herron","2",1899-12-31 04:25:00,"SH","Northlands Coliseum","W","H",0,0
+1985-01-25,"EDM","NJD",23,"Mike Krushelnyski","Jari Kurri","Ron Low","2",1899-12-31 14:04:00,"EV","Northlands Coliseum","W","H",0,0
+1985-01-21,"EDM","LAK",23,"Pat Hughes",NA,"Bob Janecyk","3",1899-12-31 00:56:00,"SH","Northlands Coliseum","W","H",0,0
+1985-01-19,"EDM","VAN",23,"Gord Sherven","Lee Fogolin","Richard Brodeur","2",1899-12-31 04:26:00,"EV","Northlands Coliseum","W","H",0,0
+1985-01-18,"EDM","VAN",23,"Paul Coffey","Charlie Huddy","Richard Brodeur","2",1899-12-31 15:21:00,"EV","Pacific Coliseum","T","A",0,0
+1985-01-16,"EDM","NYI",23,"Mike Krushelnyski","Glenn Anderson","Kelly Hrudey","1",1899-12-31 12:38:00,"PP","Northlands Coliseum","T","H",0,0
+1985-01-13,"EDM","BUF",23,"Paul Coffey",NA,"Tom Barrasso","2",1899-12-31 19:05:00,"PP","Buffalo Memorial Auditorium","W","A",0,0
+1985-01-10,"EDM","MTL",23,"Mike Krushelnyski","Jari Kurri","Steve Penney","2",1899-12-31 04:42:00,"EV","Montreal Forum","W","A",0,0
+1985-01-08,"EDM","QUE",23,"Jari Kurri",NA,"Dan Bouchard","1",1899-12-31 01:46:00,"EV","Quebec Coliseum","W","A",0,0
+1985-01-06,"EDM","WIN",23,"Paul Coffey",NA,"Marc Behrend","3",1899-12-31 07:23:00,"EV","Winnipeg Arena","W","A",0,0
+1984-12-30,"EDM","VAN",23,"Mark Messier",NA,"Richard Brodeur","1",1899-12-31 12:41:00,"EV","Pacific Coliseum","T","A",0,0
+1984-12-29,"EDM","DET",23,"Mark Messier","Jari Kurri","Corrado Micalef","2",1899-12-31 09:51:00,"PP","Northlands Coliseum","W","H",0,0
+1984-12-29,"EDM","DET",23,"Jari Kurri","Mark Messier","Corrado Micalef","3",1899-12-31 01:24:00,"PP","Northlands Coliseum","W","H",0,0
+1984-12-29,"EDM","DET",23,"Jari Kurri",NA,"Corrado Micalef","2",1899-12-31 16:30:00,"SH","Northlands Coliseum","W","H",0,0
+1984-12-22,"EDM","CGY",23,"Jari Kurri","Mike Krushelnyski","Don Edwards","3",1899-12-31 10:12:00,"EV","Northlands Coliseum","W","H",0,0
+1984-12-22,"EDM","CGY",23,"Mike Krushelnyski","Jari Kurri","Don Edwards","1",1899-12-31 03:45:00,"PP","Northlands Coliseum","W","H",0,0
+1984-12-19,"EDM","LAK",23,"Mike Krushelnyski","Jari Kurri","Darren Eliot","3",1899-12-31 18:12:00,"EV","Northlands Coliseum","W","H",0,0
+1984-12-19,"EDM","LAK",23,"Pat Hughes","Paul Coffey","Darren Eliot","1",1899-12-31 07:42:00,"SH","Northlands Coliseum","W","H",0,0
+1984-12-15,"EDM","STL",23,"Paul Coffey","Dave Hunter","Rick Wamsley","2",1899-12-31 01:15:00,"EV","St. Louis Arena","W","A",0,0
+1984-12-15,"EDM","STL",23,"Jari Kurri",NA,"Rick Wamsley","2",1899-12-31 05:37:00,"EV","St. Louis Arena","W","A",0,0
+1984-12-15,"EDM","STL",23,"Jari Kurri",NA,"Rick Wamsley","2",1899-12-31 15:32:00,"EV","St. Louis Arena","W","A",0,0
+1984-12-15,"EDM","STL",23,"Jari Kurri","Larry Melnyk","Mike Liut","3",1899-12-31 05:42:00,"EV","St. Louis Arena","W","A",0,0
+1984-12-15,"EDM","STL",23,NA,NA,"Rick Wamsley","1",1899-12-31 08:23:00,"EV","St. Louis Arena","W","A",0,0
+1984-12-13,"EDM","LAK",23,"Jari Kurri","Paul Coffey","Bob Janecyk","1",1899-12-31 18:47:00,"EV","Great Western Forum","L","A",0,0
+1984-12-07,"EDM","MNS",23,"Dave Hunter",NA,"Roland Melanson","2",1899-12-31 07:18:00,"SH","Northlands Coliseum","W","H",0,0
+1984-12-05,"EDM","NYI",23,"Glenn Anderson","Paul Coffey","Billy Smith","2",1899-12-31 02:22:00,"PP","Northlands Coliseum","W","H",0,0
+1984-11-27,"EDM","TOR",23,"Mike Krushelnyski","Jari Kurri","Ken Wregget","1",1899-12-31 01:11:00,"EV","Maple Leaf Gardens","W","A",0,0
+1984-11-27,"EDM","TOR",23,"Mike Krushelnyski","Jari Kurri","Ken Wregget","2",1899-12-31 05:57:00,"EV","Maple Leaf Gardens","W","A",0,0
+1984-11-27,"EDM","TOR",23,"Charlie Huddy","Paul Coffey","Ken Wregget","2",1899-12-31 06:51:00,"EV","Maple Leaf Gardens","W","A",0,0
+1984-11-24,"EDM","STL",23,"Mike Krushelnyski","Charlie Huddy","Mike Liut","2",1899-12-31 01:46:00,"PP","Northlands Coliseum","W","H",0,0
+1984-11-24,"EDM","STL",23,"Charlie Huddy",NA,"Mike Liut","1",1899-12-31 12:23:00,"PP","Northlands Coliseum","W","H",0,0
+1984-11-21,"EDM","WIN",23,"Mike Krushelnyski","Randy Gregg","Marc Behrend","3",1899-12-31 01:51:00,"EV","Northlands Coliseum","W","H",0,0
+1984-11-15,"EDM","CGY",23,NA,NA,"Don Edwards","1",1899-12-31 16:06:00,"SH","Olympic Saddledome","L","A",0,0
+1984-11-11,"EDM","PHI",23,"Glenn Anderson",NA,"Pelle Lindbergh","2",1899-12-31 08:43:00,"EV","The Spectrum","L","A",0,0
+1984-11-11,"EDM","PHI",23,"Mike Krushelnyski",NA,"Pelle Lindbergh","3",1899-12-31 07:02:00,"EV","The Spectrum","L","A",0,0
+1984-11-09,"EDM","WSH",23,"Willy Lindstrom",NA,"Pat Riggin","3",1899-12-31 02:29:00,"EV","Capital Center","W","A",0,0
+1984-11-09,"EDM","WSH",23,"Lee Fogolin",NA,NA,"3",1899-12-31 19:12:00,"SH","Capital Center","W","A",1,0
+1984-11-06,"EDM","PIT",23,"Jari Kurri",NA,"Denis Herron","3",1899-12-31 16:03:00,"EV","Pittsburgh Civic Arena","T","A",0,0
+1984-11-04,"EDM","WIN",23,"Jari Kurri",NA,"Marc Behrend","2",1899-12-31 07:19:00,"EV","Winnipeg Arena","W","A",0,0
+1984-10-30,"EDM","VAN",23,"Jari Kurri","Paul Coffey","Richard Brodeur","2",1899-12-31 16:00:00,"EV","Northlands Coliseum","W","H",0,0
+1984-10-21,"EDM","CGY",23,"Jari Kurri","Paul Coffey","Don Edwards","2",1899-12-31 12:28:00,"EV","Northlands Coliseum","W","H",0,0
+1984-10-21,"EDM","CGY",23,"Pat Hughes","Lee Fogolin","Don Edwards","2",1899-12-31 18:57:00,"SH","Northlands Coliseum","W","H",0,0
+1984-10-19,"EDM","WIN",23,NA,NA,"Brian Hayward","2",1899-12-31 19:33:00,"EV","Winnipeg Arena","W","A",0,0
+1984-10-19,"EDM","WIN",23,"Jari Kurri","Charlie Huddy",NA,"3",1899-12-31 18:39:00,"EV","Winnipeg Arena","W","A",1,0
+1984-10-18,"EDM","MNS",23,NA,NA,"Don Beaupre","3",1899-12-31 12:43:00,"EV","Metropolitan Sports Center","W","A",0,0
+1984-10-18,"EDM","MNS",23,"Paul Coffey","Charlie Huddy","Don Beaupre","1",1899-12-31 07:11:00,"SH","Metropolitan Sports Center","W","A",0,0
+1984-10-18,"EDM","MNS",23,"Jari Kurri",NA,"Don Beaupre","1",1899-12-31 02:17:00,"EV","Metropolitan Sports Center","W","A",0,0
+1984-10-16,"EDM","BOS",23,NA,NA,"Cleon Daskalakis","1",1899-12-31 06:58:00,"EV","Northlands Coliseum","W","H",0,0
+1984-10-16,"EDM","BOS",23,"Jari Kurri",NA,"Cleon Daskalakis","3",1899-12-31 12:51:00,"EV","Northlands Coliseum","W","H",0,0
+1984-10-14,"EDM","QUE",23,"Charlie Huddy","Paul Coffey","Richard Sevigny","3",1899-12-31 04:45:00,"EV","Northlands Coliseum","W","H",0,0
+1984-03-27,"EDM","CGY",23,"Jari Kurri","Raimo Summanen","Don Edwards","3",1899-12-31 00:35:00,"EV","Olympic Saddledome","W","A",0,0
+1984-03-27,"EDM","CGY",23,"Jari Kurri",NA,"Don Edwards","3",1899-12-31 19:03:00,"EV","Olympic Saddledome","W","A",0,0
+1984-03-25,"EDM","WIN",23,"Paul Coffey","Glenn Anderson","Doug Soetaert","1",1899-12-31 16:56:00,"EV","Northlands Coliseum","W","H",0,0
+1984-03-24,"EDM","STL",23,"Paul Coffey","Ken Linseman","Mike Liut","2",1899-12-31 04:28:00,"PP","Northlands Coliseum","L","H",0,0
+1984-03-17,"EDM","LAK",23,"Paul Coffey","Jari Kurri","Markus Mattsson","3",1899-12-31 06:20:00,"PP","Northlands Coliseum","W","H",0,0
+1984-03-13,"EDM","QUE",23,NA,NA,"Dan Bouchard","1",1899-12-31 08:44:00,"PP","Quebec Coliseum","OTW","A",0,0
+1984-03-11,"EDM","VAN",23,"Paul Coffey","Jari Kurri","John Garrett","2",1899-12-31 00:34:00,"EV","Northlands Coliseum","W","H",0,0
+1984-03-11,"EDM","VAN",23,"Jari Kurri",NA,"John Garrett","3",1899-12-31 14:01:00,"PP","Northlands Coliseum","W","H",0,0
+1984-03-10,"EDM","NYR",23,"Glenn Anderson","Grant Fuhr","Glen Hanlon","2",1899-12-31 18:36:00,"PP","Northlands Coliseum","L","H",0,0
+1984-03-04,"EDM","MTL",23,"Jari Kurri",NA,"Richard Sevigny","3",1899-12-31 03:09:00,"EV","Northlands Coliseum","W","H",0,0
+1984-03-04,"EDM","MTL",23,"Paul Coffey",NA,"Richard Sevigny","1",1899-12-31 09:58:00,"SH","Northlands Coliseum","W","H",0,0
+1984-02-27,"EDM","WIN",23,"Glenn Anderson","Paul Coffey","Marc Behrend","2",1899-12-31 08:12:00,"PP","Winnipeg Arena","OTW","A",0,0
+1984-02-25,"EDM","TOR",23,"Jari Kurri","Rick Chartraw","Allan Bester","2",1899-12-31 18:26:00,"EV","Northlands Coliseum","W","H",0,0
+1984-02-25,"EDM","TOR",23,"Dave Hunter","Paul Coffey","Allan Bester","3",1899-12-31 17:18:00,"EV","Northlands Coliseum","W","H",0,0
+1984-02-22,"EDM","PIT",23,"Pat Hughes","Dave Hunter","Roberto Romano","1",1899-12-31 07:01:00,"EV","Pittsburgh Civic Arena","W","A",0,0
+1984-02-22,"EDM","PIT",23,"Pat Hughes",NA,"Roberto Romano","2",1899-12-31 04:23:00,"EV","Pittsburgh Civic Arena","W","A",0,0
+1984-02-22,"EDM","PIT",23,"Jari Kurri","Charlie Huddy","Roberto Romano","2",1899-12-31 11:25:00,"EV","Pittsburgh Civic Arena","W","A",0,0
+1984-02-22,"EDM","PIT",23,"Paul Coffey","Jari Kurri","Roberto Romano","3",1899-12-31 05:34:00,"EV","Pittsburgh Civic Arena","W","A",0,0
+1984-02-21,"EDM","STL",23,"Ken Linseman","Jari Kurri","Mike Liut","1",1899-12-31 14:25:00,"PP","St. Louis Arena","W","A",0,0
+1984-02-21,"EDM","STL",23,"Paul Coffey","Mark Messier","Mike Liut","1",1899-12-31 18:57:00,"PP","St. Louis Arena","W","A",0,0
+1984-02-21,"EDM","STL",23,"Dave Hunter","Pat Hughes","Mike Liut","2",1899-12-31 12:51:00,"EV","St. Louis Arena","W","A",0,0
+1984-02-21,"EDM","STL",23,NA,NA,"Mike Liut","3",1899-12-31 18:59:00,"EV","St. Louis Arena","W","A",0,0
+1984-02-19,"EDM","PIT",23,"Glenn Anderson","Mark Messier","Roberto Romano","2",1899-12-31 05:24:00,"EV","Northlands Coliseum","W","H",0,0
+1984-02-19,"EDM","PIT",23,NA,NA,"Roberto Romano","2",1899-12-31 06:18:00,"EV","Northlands Coliseum","W","H",0,0
+1984-02-15,"EDM","WIN",23,"Jari Kurri","Jaroslav Pouzar","Doug Soetaert","3",1899-12-31 11:32:00,"EV","Northlands Coliseum","W","H",0,0
+1984-02-15,"EDM","WIN",23,"Jari Kurri",NA,"Doug Soetaert","3",1899-12-31 06:12:00,"SH","Northlands Coliseum","W","H",0,0
+1984-01-27,"EDM","NJD",23,"Glenn Anderson","Grant Fuhr","Ron Low","1",1899-12-31 16:11:00,"EV","Northlands Coliseum","T","H",0,0
+1984-01-25,"EDM","VAN",22,"Glenn Anderson","Jaroslav Pouzar","Frank Caprice","2",1899-12-31 16:09:00,"PP","Pacific Coliseum","W","A",0,0
+1984-01-25,"EDM","VAN",22,"Glenn Anderson",NA,NA,"3",1899-12-31 19:38:00,"EV","Pacific Coliseum","W","A",1,0
+1984-01-20,"EDM","LAK",22,NA,NA,"Marco Baron","2",1899-12-31 18:29:00,"EV","Northlands Coliseum","W","H",0,0
+1984-01-20,"EDM","LAK",22,"Paul Coffey",NA,"Marco Baron","2",1899-12-31 13:46:00,"SH","Northlands Coliseum","W","H",0,0
+1984-01-18,"EDM","VAN",22,"Don Jackson","Grant Fuhr","Richard Brodeur","1",1899-12-31 06:30:00,"EV","Northlands Coliseum","W","H",0,0
+1984-01-18,"EDM","VAN",22,"Pat Hughes","Dave Hunter","Richard Brodeur","1",1899-12-31 09:18:00,"EV","Northlands Coliseum","W","H",0,0
+1984-01-18,"EDM","VAN",22,"Paul Coffey",NA,"Richard Brodeur","1",1899-12-31 17:56:00,"EV","Northlands Coliseum","W","H",0,0
+1984-01-11,"EDM","CBH",22,NA,NA,NA,"3",1899-12-31 19:58:00,"EV","Chicago Stadium","W","A",1,0
+1984-01-09,"EDM","DET",22,NA,NA,"Greg Stefan","1",1899-12-31 16:38:00,"SH","Joe Louis Arena","W","A",0,0
+1984-01-09,"EDM","DET",22,NA,NA,"Greg Stefan","2",1899-12-31 13:42:00,"EV","Joe Louis Arena","W","A",0,0
+1984-01-07,"EDM","HAR",22,"Mark Messier","Paul Coffey","Greg Millen","1",1899-12-31 13:33:00,"EV","Northlands Coliseum","W","H",0,0
+1984-01-07,"EDM","HAR",22,"Kevin Lowe","Lee Fogolin","Greg Millen","3",1899-12-31 11:17:00,"EV","Northlands Coliseum","W","H",0,0
+1984-01-07,"EDM","HAR",22,"Glenn Anderson","Mark Messier",NA,"3",1899-12-31 19:17:00,"EV","Northlands Coliseum","W","H",1,0
+1984-01-04,"EDM","MNS",22,"Charlie Huddy",NA,"Don Beaupre","1",1899-12-31 07:41:00,"EV","Northlands Coliseum","W","H",0,0
+1984-01-04,"EDM","MNS",22,"Charlie Huddy","Paul Coffey","Don Beaupre","1",1899-12-31 18:58:00,"EV","Northlands Coliseum","W","H",0,0
+1984-01-04,"EDM","MNS",22,"Mark Messier","Jari Kurri","Gilles Meloche","2",1899-12-31 17:23:00,"EV","Northlands Coliseum","W","H",0,0
+1984-01-04,"EDM","MNS",22,"Glenn Anderson","Mark Messier","Gilles Meloche","2",1899-12-31 12:46:00,"PP","Northlands Coliseum","W","H",0,0
+1984-01-03,"EDM","CGY",22,"Paul Coffey","Willy Lindstrom","Don Edwards","1",1899-12-31 09:19:00,"EV","Olympic Saddledome","W","A",0,0
+1983-12-26,"EDM","CGY",22,NA,NA,"Don Edwards","2",1899-12-31 06:50:00,"SH","Olympic Saddledome","W","A",0,0
+1983-12-23,"EDM","CGY",22,"Ken Linseman","Jari Kurri","Reggie Lemelin","1",1899-12-31 07:18:00,"EV","Northlands Coliseum","T","H",0,0
+1983-12-21,"EDM","WIN",22,NA,NA,"Brian Hayward","2",1899-12-31 03:10:00,"PP","Northlands Coliseum","W","H",0,0
+1983-12-21,"EDM","WIN",22,"Jari Kurri",NA,"Brian Hayward","1",1899-12-31 19:48:00,"SH","Northlands Coliseum","W","H",0,0
+1983-12-21,"EDM","WIN",22,"Mark Messier","Paul Coffey",NA,"3",1899-12-31 19:41:00,"SH","Northlands Coliseum","W","H",1,0
+1983-12-18,"EDM","WIN",22,NA,NA,"Brian Hayward","2",1899-12-31 04:12:00,"EV","Winnipeg Arena","W","A",0,0
+1983-12-18,"EDM","WIN",22,"Paul Coffey",NA,"Brian Hayward","1",1899-12-31 10:21:00,"PP","Winnipeg Arena","W","A",0,0
+1983-12-17,"EDM","QUE",22,"Paul Coffey","Willy Lindstrom","Dan Bouchard","3",1899-12-31 11:19:00,"EV","Northlands Coliseum","W","H",0,0
+1983-12-14,"EDM","NYR",22,"Willy Lindstrom","Jari Kurri","Glen Hanlon","1",1899-12-31 00:08:00,"EV","Madison Square Garden (IV)","W","A",0,0
+1983-12-14,"EDM","NYR",22,"Jari Kurri","Paul Coffey","Glen Hanlon","3",1899-12-31 04:40:00,"EV","Madison Square Garden (IV)","W","A",0,0
+1983-12-14,"EDM","NYR",22,"Jari Kurri","Charlie Huddy","Glen Hanlon","3",1899-12-31 10:19:00,"PP","Madison Square Garden (IV)","W","A",0,0
+1983-12-13,"EDM","NYI",22,"Willy Lindstrom","Paul Coffey","Billy Smith","3",1899-12-31 18:07:00,"PP","Nassau Veterans Memorial Coliseum","L","A",0,0
+1983-11-30,"EDM","PHI",22,"Jari Kurri","Grant Fuhr","Bob Froese","2",1899-12-31 16:51:00,"EV","Northlands Coliseum","T","H",0,0
+1983-11-25,"EDM","MNS",22,"Kevin Lowe","Jari Kurri","Gilles Meloche","1",1899-12-31 11:55:00,"EV","Metropolitan Sports Center","T","A",0,0
+1983-11-21,"EDM","WIN",22,"Paul Coffey","Jari Kurri","Brian Hayward","2",1899-12-31 13:32:00,"PP","Northlands Coliseum","W","H",0,0
+1983-11-19,"EDM","NJD",22,"Kevin Lowe","Pat Hughes","Ron Low","1",1899-12-31 05:43:00,"EV","Northlands Coliseum","W","H",0,0
+1983-11-19,"EDM","NJD",22,"Jari Kurri","Todd Strueby","Ron Low","2",1899-12-31 12:52:00,"EV","Northlands Coliseum","W","H",0,0
+1983-11-19,"EDM","NJD",22,"Glenn Anderson",NA,"Glenn Resch","3",1899-12-31 18:05:00,"SH","Northlands Coliseum","W","H",0,0
+1983-11-12,"EDM","DET",22,NA,NA,"Greg Stefan","1",1899-12-31 07:25:00,"EV","Joe Louis Arena","W","A",0,0
+1983-11-12,"EDM","DET",22,"Randy Gregg",NA,"Greg Stefan","1",1899-12-31 09:59:00,"EV","Joe Louis Arena","W","A",0,0
+1983-11-12,"EDM","DET",22,"Jari Kurri",NA,"Greg Stefan","3",1899-12-31 19:16:00,"EV","Joe Louis Arena","W","A",0,0
+1983-11-09,"EDM","WSH",22,"Mark Messier",NA,"Al Jensen","1",1899-12-31 11:27:00,"SH","Capital Center","W","A",0,0
+1983-11-08,"EDM","QUE",22,"Jari Kurri","Charlie Huddy","Clint Malarchuk","2",1899-12-31 13:50:00,"EV","Quebec Coliseum","W","A",0,0
+1983-11-06,"EDM","WIN",22,"Jari Kurri","Jaroslav Pouzar","Doug Soetaert","2",1899-12-31 16:29:00,"EV","Winnipeg Arena","W","A",0,0
+1983-11-06,"EDM","WIN",22,"Jari Kurri","Grant Fuhr","Doug Soetaert","3",1899-12-31 12:39:00,"EV","Winnipeg Arena","W","A",0,0
+1983-11-06,"EDM","WIN",22,"Randy Gregg","Grant Fuhr",NA,"3",1899-12-31 19:53:00,"EV","Winnipeg Arena","W","A",1,0
+1983-11-06,"EDM","WIN",22,"Jari Kurri",NA,"Doug Soetaert","2",1899-12-31 11:40:00,"SH","Winnipeg Arena","W","A",0,0
+1983-11-02,"EDM","WSH",22,NA,NA,"Al Jensen","1",1899-12-31 08:31:00,"EV","Northlands Coliseum","W","H",0,0
+1983-11-02,"EDM","WSH",22,"Mark Messier","Jari Kurri","Al Jensen","1",1899-12-31 19:49:00,"PP","Northlands Coliseum","W","H",0,0
+1983-10-30,"EDM","NYR",22,"Charlie Huddy","Paul Coffey","Steve Weeks","2",1899-12-31 15:26:00,"EV","Madison Square Garden (IV)","OTW","A",0,0
+1983-10-26,"EDM","TOR",22,"Mark Messier","Jari Kurri","Rick St. Croix","2",1899-12-31 02:43:00,"PP","Maple Leaf Gardens","L","A",0,0
+1983-10-20,"EDM","LAK",22,"Paul Coffey",NA,"Mike Blake","3",1899-12-31 05:32:00,"PP","Great Western Forum","L","A",0,0
+1983-10-19,"EDM","VAN",22,"Mark Messier","Paul Coffey","Richard Brodeur","3",1899-12-31 05:51:00,"EV","Pacific Coliseum","W","A",0,0
+1983-10-19,"EDM","VAN",22,NA,NA,NA,"3",1899-12-31 18:55:00,"EV","Pacific Coliseum","W","A",1,0
+1983-10-16,"EDM","CGY",22,"Glenn Anderson","Jari Kurri","Don Edwards","3",1899-12-31 19:07:00,"EV","Northlands Coliseum","W","H",0,0
+1983-10-15,"EDM","CGY",22,"Paul Coffey","Jari Kurri","Reggie Lemelin","2",1899-12-31 01:06:00,"PP","Olympic Saddledome","W","A",0,0
+1983-10-12,"EDM","DET",22,"Dave Hunter","Randy Gregg","Eddie Mio","1",1899-12-31 10:06:00,"EV","Northlands Coliseum","W","H",0,0
+1983-10-12,"EDM","DET",22,"Glenn Anderson","Mark Messier","Eddie Mio","2",1899-12-31 00:27:00,"PP","Northlands Coliseum","W","H",0,0
+1983-10-09,"EDM","MNS",22,"Dave Lumley","Randy Gregg","Gilles Meloche","1",1899-12-31 19:59:00,"EV","Northlands Coliseum","OTW","H",0,0
+1983-10-07,"EDM","WIN",22,"Jari Kurri","Lee Fogolin","Brian Hayward","2",1899-12-31 15:47:00,"EV","Winnipeg Arena","W","A",0,0
+1983-10-07,"EDM","WIN",22,"Lee Fogolin","Jari Kurri","Brian Hayward","2",1899-12-31 09:56:00,"SH","Winnipeg Arena","W","A",0,0
+1983-10-05,"EDM","TOR",22,"Lee Fogolin",NA,"Rick St. Croix","3",1899-12-31 02:33:00,"SH","Northlands Coliseum","W","H",0,0
+1983-04-03,"EDM","CGY",22,"Kevin Lowe",NA,"Don Edwards","2",1899-12-31 16:29:00,"EV","Northlands Coliseum","T","H",0,0
+1983-04-01,"EDM","WIN",22,"Jari Kurri","Charlie Huddy","Doug Soetaert","1",1899-12-31 13:49:00,"EV","Northlands Coliseum","W","H",0,0
+1983-03-29,"EDM","VAN",22,"Glenn Anderson","Jari Kurri","Richard Brodeur","3",1899-12-31 03:18:00,"EV","Pacific Coliseum","W","A",0,0
+1983-03-26,"EDM","LAK",22,"Paul Coffey",NA,"Gary Laskoski","2",1899-12-31 02:21:00,"PP","Great Western Forum","W","A",0,0
+1983-03-26,"EDM","LAK",22,"Glenn Anderson","Jari Kurri","Gary Laskoski","3",1899-12-31 18:04:00,"PP","Great Western Forum","W","A",0,0
+1983-03-21,"EDM","TOR",22,"Paul Coffey","Charlie Huddy","Mike Palmateer","2",1899-12-31 03:14:00,"PP","Maple Leaf Gardens","W","A",0,0
+1983-03-19,"EDM","DET",22,"Glenn Anderson","Charlie Huddy","Gilles Gilbert","1",1899-12-31 12:04:00,"PP","Northlands Coliseum","W","H",0,0
+1983-03-16,"EDM","VAN",22,"Paul Coffey","Willy Lindstrom","John Garrett","3",1899-12-31 16:00:00,"EV","Northlands Coliseum","W","H",0,0
+1983-03-13,"EDM","BUF",22,"Jari Kurri","Willy Lindstrom","Bob Sauve","3",1899-12-31 03:24:00,"EV","Northlands Coliseum","W","H",0,0
+1983-03-08,"EDM","HAR",22,"Charlie Huddy",NA,"Mike Veisor","1",1899-12-31 16:30:00,"EV","Hartford Civic Center","W","A",0,0
+1983-03-08,"EDM","HAR",22,"Don Jackson","Jari Kurri","Mike Veisor","2",1899-12-31 08:29:00,"EV","Hartford Civic Center","W","A",0,0
+1983-03-08,"EDM","HAR",22,"Glenn Anderson",NA,"Mike Veisor","3",1899-12-31 02:29:00,"EV","Hartford Civic Center","W","A",0,0
+1983-03-06,"EDM","BOS",22,"Kevin Lowe","Jari Kurri","Marco Baron","1",1899-12-31 14:15:00,"EV","Boston Garden","L","A",0,0
+1983-03-05,"EDM","TOR",22,"Charlie Huddy",NA,"Mike Palmateer","1",1899-12-31 02:29:00,"EV","Maple Leaf Gardens","W","A",0,0
+1983-03-05,"EDM","TOR",22,NA,NA,"Mike Palmateer","2",1899-12-31 13:56:00,"EV","Maple Leaf Gardens","W","A",0,0
+1983-03-02,"EDM","WSH",22,"Paul Coffey","Jari Kurri",NA,"3",1899-12-31 19:29:00,"EV","Capital Center","W","A",1,0
+1983-03-01,"EDM","NJD",22,NA,NA,"Glenn Resch","2",1899-12-31 16:25:00,"SH","Brendan Byrne Arena","W","A",0,0
+1983-02-25,"EDM","STL",22,"Paul Coffey","Garry Lariviere","Rick Heinz","3",1899-12-31 08:26:00,"EV","Northlands Coliseum","T","H",0,0
+1983-02-23,"EDM","WSH",22,"Kevin Lowe","Jaroslav Pouzar","Al Jensen","1",1899-12-31 07:03:00,"PP","Northlands Coliseum","W","H",0,0
+1983-02-23,"EDM","WSH",22,"Randy Gregg","Jari Kurri","Al Jensen","3",1899-12-31 01:26:00,"SH","Northlands Coliseum","W","H",0,0
+1983-02-22,"EDM","CGY",22,"Jari Kurri","Charlie Huddy","Don Edwards","3",1899-12-31 16:05:00,"EV","Stampede Corral","L","A",0,0
+1983-02-19,"EDM","PIT",22,"Kevin Lowe",NA,"Denis Herron","2",1899-12-31 10:48:00,"EV","Pittsburgh Civic Arena","W","A",0,0
+1983-02-19,"EDM","PIT",22,"Lee Fogolin","Kevin Lowe","Nick Ricci","3",1899-12-31 14:41:00,"EV","Pittsburgh Civic Arena","W","A",0,0
+1983-02-14,"EDM","MTL",22,"Glenn Anderson","Ken Linseman","Rick Wamsley","2",1899-12-31 09:33:00,"PP","Montreal Forum","L","A",0,0
+1983-02-14,"EDM","MTL",22,"Ken Linseman","Mark Messier","Rick Wamsley","2",1899-12-31 16:56:00,"PP","Montreal Forum","L","A",0,0
+1983-02-11,"EDM","QUE",22,"Paul Coffey",NA,"Clint Malarchuk","3",1899-12-31 17:23:00,"EV","Northlands Coliseum","W","H",0,0
+1983-02-04,"EDM","MTL",22,"Tom Roulston","Andy Moog","Rick Wamsley","2",1899-12-31 05:30:00,"EV","Northlands Coliseum","W","H",0,0
+1983-01-26,"EDM","TOR",22,"Jari Kurri","Mark Messier","Rick St. Croix","1",1899-12-31 04:12:00,"EV","Northlands Coliseum","T","H",0,0
+1983-01-26,"EDM","TOR",22,"Glenn Anderson","Mark Messier","Rick St. Croix","1",1899-12-31 12:33:00,"PP","Northlands Coliseum","T","H",0,0
+1983-01-23,"EDM","LAK",21,"Jari Kurri","Mark Messier","Mario Lessard","3",1899-12-31 05:16:00,"EV","Northlands Coliseum","W","H",0,0
+1983-01-22,"EDM","VAN",21,"Paul Coffey",NA,"Richard Brodeur","3",1899-12-31 19:48:00,"EV","Pacific Coliseum","L","A",0,0
+1983-01-19,"EDM","VAN",21,NA,NA,"Richard Brodeur","3",1899-12-31 10:52:00,"EV","Northlands Coliseum","W","H",0,0
+1983-01-18,"EDM","LAK",21,"Paul Coffey",NA,"Doug Keans","2",1899-12-31 00:21:00,"PP","Great Western Forum","T","A",0,0
+1983-01-15,"EDM","MNS",21,NA,NA,"Gilles Meloche","3",1899-12-31 06:36:00,"EV","Metropolitan Sports Center","W","A",0,0
+1983-01-12,"EDM","CBH",21,"Pat Hughes",NA,"Murray Bannerman","2",1899-12-31 03:41:00,"EV","Chicago Stadium","W","A",0,0
+1983-01-12,"EDM","CBH",21,"Paul Coffey","Jari Kurri","Murray Bannerman","3",1899-12-31 00:32:00,"PP","Chicago Stadium","W","A",0,0
+1983-01-07,"EDM","PIT",21,"Jari Kurri","Kevin Lowe","Denis Herron","2",1899-12-31 19:19:00,"EV","Northlands Coliseum","W","H",0,0
+1983-01-07,"EDM","PIT",21,"Jari Kurri","Jaroslav Pouzar","Denis Herron","1",1899-12-31 12:27:00,"EV","Northlands Coliseum","W","H",0,0
+1983-01-05,"EDM","WIN",21,"Jari Kurri","Paul Coffey","Ed Staniowski","1",1899-12-31 11:37:00,"EV","Winnipeg Arena","W","A",0,0
+1983-01-05,"EDM","WIN",21,"Jari Kurri","Paul Coffey","Ed Staniowski","3",1899-12-31 15:08:00,"SH","Winnipeg Arena","W","A",0,0
+1983-01-04,"EDM","CGY",21,"Randy Gregg",NA,"Don Edwards","1",1899-12-31 17:41:00,"EV","Stampede Corral","W","A",0,0
+1982-12-31,"EDM","VAN",21,"Jari Kurri","Paul Coffey","Richard Brodeur","2",1899-12-31 17:38:00,"EV","Pacific Coliseum","W","A",0,0
+1982-12-31,"EDM","VAN",21,"Paul Coffey","Charlie Huddy","Richard Brodeur","2",1899-12-31 12:04:00,"PP","Pacific Coliseum","W","A",0,0
+1982-12-23,"EDM","LAK",21,"Jari Kurri","Ken Linseman","Mario Lessard","2",1899-12-31 18:29:00,"EV","Great Western Forum","W","A",0,0
+1982-12-22,"EDM","MNS",21,"Charlie Huddy",NA,"Don Beaupre","2",1899-12-31 02:27:00,"EV","Northlands Coliseum","W","H",0,0
+1982-12-17,"EDM","NJD",21,"Glenn Anderson","Mark Messier","Glenn Resch","2",1899-12-31 11:26:00,"PP","Northlands Coliseum","W","H",0,0
+1982-12-11,"EDM","MNS",21,NA,NA,"Don Beaupre","1",1899-12-31 16:34:00,"SH","Metropolitan Sports Center","L","A",0,0
+1982-12-07,"EDM","STL",21,"Randy Gregg","Ken Linseman","Mike Liut","3",1899-12-31 09:10:00,"EV","Northlands Coliseum","W","H",0,0
+1982-12-07,"EDM","STL",21,"Paul Coffey","Glenn Anderson","Mike Liut","2",1899-12-31 06:23:00,"PP","Northlands Coliseum","W","H",0,0
+1982-12-05,"EDM","LAK",21,"Charlie Huddy",NA,"Gary Laskoski","2",1899-12-31 07:35:00,"EV","Northlands Coliseum","W","H",0,0
+1982-12-04,"EDM","CGY",21,"Jari Kurri",NA,"Reggie Lemelin","3",1899-12-31 00:33:00,"EV","Northlands Coliseum","W","H",0,0
+1982-11-26,"EDM","WIN",21,"Jari Kurri","Randy Gregg","Ed Staniowski","1",1899-12-31 17:42:00,"EV","Winnipeg Arena","W","A",0,0
+1982-11-26,"EDM","WIN",21,"Jari Kurri","Jaroslav Pouzar","Ed Staniowski","3",1899-12-31 07:01:00,"EV","Winnipeg Arena","W","A",0,0
+1982-11-24,"EDM","WSH",21,"Dave Lumley",NA,"Pat Riggin","2",1899-12-31 00:40:00,"EV","Northlands Coliseum","T","H",0,0
+1982-11-21,"EDM","QUE",21,NA,NA,"Clint Malarchuk","1",1899-12-31 14:44:00,"EV","Northlands Coliseum","L","H",0,0
+1982-11-21,"EDM","QUE",21,"Charlie Huddy","Kevin Lowe","Clint Malarchuk","2",1899-12-31 04:24:00,"EV","Northlands Coliseum","L","H",0,0
+1982-11-21,"EDM","QUE",21,"Jari Kurri","Pat Hughes","Clint Malarchuk","2",1899-12-31 12:25:00,"PP","Northlands Coliseum","L","H",0,0
+1982-11-14,"EDM","NYR",21,"Charlie Huddy","Jaroslav Pouzar","Steve Weeks","2",1899-12-31 01:15:00,"EV","Madison Square Garden (IV)","W","A",0,0
+1982-11-14,"EDM","NYR",21,"Mark Messier","Paul Coffey","Steve Weeks","2",1899-12-31 13:23:00,"PP","Madison Square Garden (IV)","W","A",0,0
+1982-11-13,"EDM","PHI",21,"Jaroslav Pouzar","Paul Coffey","Pelle Lindbergh","2",1899-12-31 04:18:00,"EV","The Spectrum","W","A",0,0
+1982-11-11,"EDM","NJD",21,"Ken Linseman","Mark Messier","Glenn Resch","2",1899-12-31 15:17:00,"PP","Brendan Byrne Arena","W","A",0,0
+1982-11-05,"EDM","NYR",21,"Jari Kurri","Kevin Lowe","Eddie Mio","3",1899-12-31 10:16:00,"EV","Northlands Coliseum","W","H",0,0
+1982-11-03,"EDM","WIN",21,"Glenn Anderson","Dave Hunter","Doug Soetaert","3",1899-12-31 07:20:00,"EV","Northlands Coliseum","W","H",0,0
+1982-10-31,"EDM","VAN",21,"Jari Kurri","Mark Messier","Richard Brodeur","1",1899-12-31 14:20:00,"EV","Northlands Coliseum","L","H",0,0
+1982-10-29,"EDM","LAK",21,"Laurie Boschman","Paul Coffey","Mike Blake","3",1899-12-31 17:34:00,"SH","Northlands Coliseum","W","H",0,0
+1982-10-17,"EDM","BUF",21,"Tom Roulston","Charlie Huddy","Bob Sauve","2",1899-12-31 10:59:00,"EV","Buffalo Memorial Auditorium","L","A",0,0
+1982-10-14,"EDM","HAR",21,"Charlie Huddy",NA,"Greg Millen","2",1899-12-31 04:27:00,"EV","Hartford Civic Center","T","A",0,0
+1982-10-12,"EDM","CGY",21,"Jari Kurri","Randy Gregg","Don Edwards","1",1899-12-31 11:35:00,"PP","Stampede Corral","L","A",0,0
+1982-10-09,"EDM","VAN",21,"Andy Moog",NA,NA,"3",1899-12-31 19:32:00,"SH","Pacific Coliseum","W","A",1,0
+1982-10-09,"EDM","VAN",21,"Jaroslav Pouzar","Kevin Lowe","Richard Brodeur","2",1899-12-31 12:09:00,"EV","Pacific Coliseum","W","A",0,0
+1982-10-08,"EDM","NYI",21,"Paul Coffey","Jari Kurri","Billy Smith","1",1899-12-31 14:27:00,"PP","Northlands Coliseum","L","H",0,0
+1982-03-28,"EDM","LAK",21,"Glenn Anderson",NA,"Mike Blake","3",1899-12-31 01:50:00,"EV","Great Western Forum","W","A",0,0
+1982-03-26,"EDM","CLR",21,"Pat Hughes","Lee Fogolin","Glenn Resch","2",1899-12-31 17:56:00,"EV","McNichols Sports Arena","T","A",0,0
+1982-03-25,"EDM","CGY",21,"Dave Lumley",NA,"Reggie Lemelin","2",1899-12-31 08:10:00,"SH","Stampede Corral","W","A",0,0
+1982-03-25,"EDM","CGY",21,"Charlie Huddy",NA,"Reggie Lemelin","2",1899-12-31 08:37:00,"SH","Stampede Corral","W","A",0,0
+1982-03-19,"EDM","CGY",21,"Glenn Anderson",NA,"Reggie Lemelin","3",1899-12-31 13:04:00,"EV","Northlands Coliseum","T","H",0,0
+1982-03-17,"EDM","PIT",21,"Matti Hagman","Mark Messier","Michel Dion","1",1899-12-31 12:16:00,"PP","Northlands Coliseum","W","H",0,0
+1982-03-17,"EDM","PIT",21,"Jari Kurri","Risto Siltanen","Michel Dion","2",1899-12-31 13:52:00,"EV","Northlands Coliseum","W","H",0,0
+1982-03-17,"EDM","PIT",21,"Paul Coffey",NA,"Michel Dion","3",1899-12-31 11:33:00,"EV","Northlands Coliseum","W","H",0,0
+1982-03-15,"EDM","LAK",21,"Jari Kurri","Charlie Huddy","Mario Lessard","2",1899-12-31 15:55:00,"EV","Northlands Coliseum","T","H",0,0
+1982-03-15,"EDM","LAK",21,"Jari Kurri","Paul Coffey","Mario Lessard","2",1899-12-31 17:54:00,"SH","Northlands Coliseum","T","H",0,0
+1982-02-28,"EDM","WSH",21,"Dave Lumley",NA,"Dave Parro","2",1899-12-31 07:18:00,"EV","Capital Center","W","A",0,0
+1982-02-28,"EDM","WSH",21,"Jari Kurri",NA,NA,"3",1899-12-31 19:20:00,"EV","Capital Center","W","A",1,0
+1982-02-27,"EDM","PIT",21,"Jari Kurri","Kevin Lowe",NA,"3",1899-12-31 19:05:00,"EV","Pittsburgh Civic Arena","W","A",1,0
+1982-02-24,"EDM","BUF",21,"Risto Siltanen","Pat Hughes","Don Edwards","3",1899-12-31 19:43:00,"PP","Buffalo Memorial Auditorium","W","A",0,0
+1982-02-24,"EDM","BUF",21,NA,NA,"Don Edwards","3",1899-12-31 13:24:00,"EV","Buffalo Memorial Auditorium","W","A",0,0
+1982-02-24,"EDM","BUF",21,"Mark Messier","Jari Kurri","Don Edwards","3",1899-12-31 18:16:00,"EV","Buffalo Memorial Auditorium","W","A",0,0
+1982-02-21,"EDM","DET",21,"Glenn Anderson","Risto Siltanen","Bob Sauve","3",1899-12-31 16:34:00,"EV","Joe Louis Arena","W","A",0,0
+1982-02-19,"EDM","HAR",21,"Jari Kurri","Charlie Huddy","Greg Millen","2",1899-12-31 11:28:00,"EV","Northlands Coliseum","W","H",0,0
+1982-02-19,"EDM","HAR",21,"Mark Messier",NA,"Greg Millen","3",1899-12-31 09:56:00,"EV","Northlands Coliseum","W","H",0,0
+1982-02-19,"EDM","HAR",21,"Jari Kurri","Risto Siltanen","Greg Millen","1",1899-12-31 18:36:00,"PP","Northlands Coliseum","W","H",0,0
+1982-02-17,"EDM","MNS",21,"Risto Siltanen",NA,"Don Beaupre","2",1899-12-31 06:48:00,"EV","Northlands Coliseum","W","H",0,0
+1982-02-17,"EDM","MNS",21,"Glenn Anderson","Jari Kurri","Don Beaupre","3",1899-12-31 04:45:00,"EV","Northlands Coliseum","W","H",0,0
+1982-02-12,"EDM","WSH",21,"Jari Kurri",NA,"Dave Parro","2",1899-12-31 09:02:00,"EV","Northlands Coliseum","W","H",0,0
+1982-02-07,"EDM","NYR",21,"Paul Coffey","Jari Kurri","Eddie Mio","3",1899-12-31 11:20:00,"EV","Northlands Coliseum","W","H",0,0
+1982-02-03,"EDM","MTL",21,"Paul Coffey","Jari Kurri","Rick Wamsley","2",1899-12-31 19:16:00,"EV","Northlands Coliseum","L","H",0,0
+1982-01-31,"EDM","PHI",21,"Paul Coffey","Glenn Anderson","Rick St. Croix","1",1899-12-31 12:58:00,"EV","Northlands Coliseum","W","H",0,0
+1982-01-31,"EDM","PHI",21,"Paul Coffey",NA,"Rick St. Croix","2",1899-12-31 07:55:00,"EV","Northlands Coliseum","W","H",0,0
+1982-01-31,"EDM","PHI",21,"Matti Hagman","Paul Coffey","Rick St. Croix","3",1899-12-31 05:31:00,"EV","Northlands Coliseum","W","H",0,0
+1982-01-29,"EDM","BUF",21,"Dave Lumley","Glenn Anderson","Don Edwards","3",1899-12-31 08:51:00,"EV","Northlands Coliseum","W","H",0,0
+1982-01-27,"EDM","CBH",21,"Pat Hughes","Paul Coffey","Tony Esposito","3",1899-12-31 11:39:00,"PP","Chicago Stadium","T","A",0,0
+1982-01-26,"EDM","STL",21,"Paul Coffey","Dave Lumley","Gary Edwards","3",1899-12-31 09:49:00,"PP","The Checkerdome","W","A",0,0
+1982-01-22,"EDM","VAN",20,"Glenn Anderson","Jari Kurri","Richard Brodeur","3",1899-12-31 13:32:00,"EV","Pacific Coliseum","W","A",0,0
+1982-01-20,"EDM","STL",20,"Glenn Anderson","Garry Lariviere","Gary Edwards","1",1899-12-31 09:04:00,"EV","Northlands Coliseum","W","H",0,0
+1982-01-20,"EDM","STL",20,"Charlie Huddy",NA,"Gary Edwards","3",1899-12-31 15:30:00,"EV","Northlands Coliseum","W","H",0,0
+1982-01-20,"EDM","STL",20,"Charlie Huddy","Paul Coffey","Gary Edwards","2",1899-12-31 18:59:00,"PP","Northlands Coliseum","W","H",0,0
+1982-01-16,"EDM","TOR",20,"Glenn Anderson","Paul Coffey","Michel Larocque","2",1899-12-31 12:34:00,"EV","Maple Leaf Gardens","L","A",0,0
+1982-01-14,"EDM","PHI",20,"Stan Weir",NA,"Pete Peeters","3",1899-12-31 17:12:00,"EV","The Spectrum","L","A",0,0
+1982-01-13,"EDM","WSH",20,"Dave Lumley","Garry Lariviere","Dave Parro","1",1899-12-31 01:58:00,"EV","Capital Center","T","A",0,0
+1982-01-09,"EDM","CGY",20,"Jari Kurri","Charlie Huddy","Pat Riggin","1",1899-12-31 07:38:00,"SH","Northlands Coliseum","W","H",0,0
+1982-01-06,"EDM","CLR",20,"Kevin Lowe",NA,"Phil Myre","1",1899-12-31 08:24:00,"EV","Northlands Coliseum","W","H",0,0
+1982-01-06,"EDM","CLR",20,"Paul Coffey",NA,"Phil Myre","3",1899-12-31 15:41:00,"EV","Northlands Coliseum","W","H",0,0
+1982-01-02,"EDM","BOS",20,"Mark Messier",NA,"Marco Baron","2",1899-12-31 04:07:00,"EV","Northlands Coliseum","T","H",0,0
+1981-12-30,"EDM","PHI",20,"Dave Lumley",NA,"Pete Peeters","2",1899-12-31 03:54:00,"EV","Northlands Coliseum","W","H",0,0
+1981-12-30,"EDM","PHI",20,"Paul Coffey",NA,"Pete Peeters","3",1899-12-31 05:13:00,"EV","Northlands Coliseum","W","H",0,0
+1981-12-30,"EDM","PHI",20,"Glenn Anderson","Grant Fuhr",NA,"3",1899-12-31 19:57:00,"EV","Northlands Coliseum","W","H",1,0
+1981-12-30,"EDM","PHI",20,"Paul Coffey","Glenn Anderson","Pete Peeters","1",1899-12-31 07:47:00,"PP","Northlands Coliseum","W","H",0,0
+1981-12-30,"EDM","PHI",20,"Dave Lumley","Dave Semenko","Pete Peeters","1",1899-12-31 10:12:00,"EV","Northlands Coliseum","W","H",0,0
+1981-12-27,"EDM","LAK",20,"Doug Hicks","Mark Messier","Mario Lessard","1",1899-12-31 01:39:00,"EV","Northlands Coliseum","W","H",0,0
+1981-12-27,"EDM","LAK",20,"Glenn Anderson","Brett Callighen","Mario Lessard","1",1899-12-31 19:43:00,"EV","Northlands Coliseum","W","H",0,0
+1981-12-27,"EDM","LAK",20,"Paul Coffey","Jari Kurri","Mario Lessard","2",1899-12-31 15:11:00,"SH","Northlands Coliseum","W","H",0,0
+1981-12-27,"EDM","LAK",20,NA,NA,"Mario Lessard","3",1899-12-31 07:26:00,"SH","Northlands Coliseum","W","H",0,0
+1981-12-23,"EDM","VAN",20,"Dave Lumley",NA,"Glen Hanlon","3",1899-12-31 18:46:00,"EV","Northlands Coliseum","W","H",0,0
+1981-12-20,"EDM","CGY",20,"Brett Callighen","Pat Hughes","Reggie Lemelin","2",1899-12-31 15:19:00,"EV","Northlands Coliseum","L","H",0,0
+1981-12-20,"EDM","CGY",20,"Risto Siltanen","Doug Hicks","Reggie Lemelin","2",1899-12-31 10:25:00,"PP","Northlands Coliseum","L","H",0,0
+1981-12-19,"EDM","MNS",20,"Doug Hicks",NA,"Gilles Meloche","1",1899-12-31 06:58:00,"EV","Northlands Coliseum","W","H",0,0
+1981-12-19,"EDM","MNS",20,"Jari Kurri","Dave Lumley","Gilles Meloche","1",1899-12-31 14:31:00,"EV","Northlands Coliseum","W","H",0,0
+1981-12-19,"EDM","MNS",20,"Stan Weir","Dave Lumley","Gilles Meloche","3",1899-12-31 08:35:00,"EV","Northlands Coliseum","W","H",0,0
+1981-12-17,"EDM","CGY",20,"Mark Messier","Garry Lariviere","Pat Riggin","3",1899-12-31 14:41:00,"EV","Stampede Corral","W","A",0,0
+1981-12-16,"EDM","CLR",20,"Dave Semenko","Dave Lumley","Glenn Resch","1",1899-12-31 00:59:00,"PP","McNichols Sports Arena","W","A",0,0
+1981-12-13,"EDM","NYI",20,"Dave Lumley","Lee Fogolin","Billy Smith","3",1899-12-31 18:58:00,"EV","Northlands Coliseum","W","H",0,0
+1981-12-09,"EDM","LAK",20,"Kevin Lowe","Paul Coffey","Doug Keans","2",1899-12-31 08:06:00,"PP","Great Western Forum","T","A",0,0
+1981-11-29,"EDM","WIN",20,"Dave Lumley","Paul Coffey","Ed Staniowski","1",1899-12-31 09:44:00,"EV","Winnipeg Arena","W","A",0,0
+1981-11-27,"EDM","CBH",20,"Dave Lumley","Doug Hicks","Murray Bannerman","3",1899-12-31 00:29:00,"EV","Northlands Coliseum","W","H",0,0
+1981-11-27,"EDM","CBH",20,"Risto Siltanen","Dave Semenko","Murray Bannerman","3",1899-12-31 15:00:00,"EV","Northlands Coliseum","W","H",0,0
+1981-11-25,"EDM","LAK",20,"Dave Lumley","Dave Hunter","Jim Rutherford","1",1899-12-31 05:06:00,"EV","Northlands Coliseum","W","H",0,0
+1981-11-25,"EDM","LAK",20,"Doug Hicks",NA,"Jim Rutherford","3",1899-12-31 01:30:00,"EV","Northlands Coliseum","W","H",0,0
+1981-11-25,"EDM","LAK",20,"Glenn Anderson",NA,"Jim Rutherford","1",1899-12-31 11:08:00,"PP","Northlands Coliseum","W","H",0,0
+1981-11-25,"EDM","LAK",20,"Doug Hicks","Risto Siltanen","Jim Rutherford","2",1899-12-31 05:18:00,"PP","Northlands Coliseum","W","H",0,0
+1981-11-23,"EDM","DET",20,"Jari Kurri",NA,"Gilles Gilbert","2",1899-12-31 06:05:00,"EV","Northlands Coliseum","W","H",0,0
+1981-11-21,"EDM","VAN",20,"Dave Lumley","Dave Semenko","Richard Brodeur","3",1899-12-31 15:27:00,"PP","Northlands Coliseum","W","H",0,0
+1981-11-21,"EDM","VAN",20,"Kevin Lowe","Dave Lumley","Richard Brodeur","2",1899-12-31 05:57:00,"PP","Northlands Coliseum","W","H",0,0
+1981-11-17,"EDM","STL",20,NA,NA,"Mike Liut","3",1899-12-31 12:50:00,"EV","The Checkerdome","W","A",0,0
+1981-11-17,"EDM","STL",20,"Mark Messier","Glenn Anderson","Mike Liut","3",1899-12-31 15:49:00,"EV","The Checkerdome","W","A",0,0
+1981-11-15,"EDM","NYR",20,NA,NA,"Steve Weeks","1",1899-12-31 14:42:00,"EV","Madison Square Garden (IV)","W","A",0,0
+1981-11-14,"EDM","NYI",20,"Brett Callighen","Garry Unger","Roland Melanson","3",1899-12-31 19:21:00,"EV","Nassau Veterans Memorial Coliseum","T","A",0,0
+1981-11-11,"EDM","HAR",20,"Jari Kurri","Brett Callighen","Greg Millen","2",1899-12-31 02:09:00,"EV","Hartford Civic Center","T","A",0,0
+1981-11-11,"EDM","HAR",20,"Lee Fogolin",NA,"Greg Millen","3",1899-12-31 15:20:00,"EV","Hartford Civic Center","T","A",0,0
+1981-11-04,"EDM","TOR",20,NA,NA,NA,"3",1899-12-31 19:56:00,"EV","Northlands Coliseum","W","H",1,0
+1981-11-04,"EDM","TOR",20,"Jari Kurri","Garry Lariviere","Michel Larocque","1",1899-12-31 06:00:00,"EV","Northlands Coliseum","W","H",0,0
+1981-10-31,"EDM","QUE",20,"Jari Kurri","Paul Coffey","Dan Bouchard","2",1899-12-31 04:09:00,"EV","Northlands Coliseum","W","H",0,0
+1981-10-31,"EDM","QUE",20,"Garry Lariviere",NA,"Michel Plasse","3",1899-12-31 01:54:00,"EV","Northlands Coliseum","W","H",0,0
+1981-10-31,"EDM","QUE",20,"Garry Unger","Doug Hicks","Michel Plasse","3",1899-12-31 16:06:00,"EV","Northlands Coliseum","W","H",0,0
+1981-10-31,"EDM","QUE",20,"Lee Fogolin","Brett Callighen","Michel Plasse","3",1899-12-31 17:29:00,"EV","Northlands Coliseum","W","H",0,0
+1981-10-28,"EDM","NYR",20,"Risto Siltanen","Paul Coffey","Steve Baker","2",1899-12-31 19:04:00,"PP","Madison Square Garden (IV)","W","A",0,0
+1981-10-28,"EDM","NYR",20,"Paul Coffey","Risto Siltanen","Steve Baker","2",1899-12-31 19:46:00,"PP","Madison Square Garden (IV)","W","A",0,0
+1981-10-24,"EDM","CLR",20,"Paul Coffey","Jari Kurri","Glenn Resch","2",1899-12-31 14:34:00,"PP","McNichols Sports Arena","W","A",0,0
+1981-10-23,"EDM","PIT",20,"Brett Callighen","Lee Fogolin","Paul Harrison","1",1899-12-31 08:25:00,"EV","Northlands Coliseum","W","H",0,0
+1981-10-20,"EDM","CGY",20,"Paul Coffey","Jari Kurri","Pat Riggin","2",1899-12-31 11:28:00,"EV","Stampede Corral","W","A",0,0
+1981-10-18,"EDM","CBH",20,"Glenn Anderson","Paul Coffey","Tony Esposito","1",1899-12-31 01:36:00,"EV","Chicago Stadium","L","A",0,0
+1981-10-16,"EDM","CGY",20,"Glenn Anderson","Brett Callighen","Pat Riggin","2",1899-12-31 06:21:00,"EV","Northlands Coliseum","W","H",0,0
+1981-10-14,"EDM","WIN",20,"Paul Coffey",NA,"Ed Staniowski","1",1899-12-31 10:55:00,"EV","Northlands Coliseum","L","H",0,0
+1981-10-10,"EDM","LAK",20,"Glenn Anderson","Risto Siltanen","Mario Lessard","3",1899-12-31 01:12:00,"PP","Great Western Forum","W","A",0,0
+1981-04-04,"EDM","WIN",20,"Brett Callighen","Gary Edwards","Markus Mattsson","3",1899-12-31 05:44:00,"EV","Northlands Coliseum","W","H",0,0
+1981-04-03,"EDM","VAN",20,"Jari Kurri",NA,"Richard Brodeur","2",1899-12-31 05:11:00,"EV","Pacific Coliseum","W","A",0,0
+1981-03-25,"EDM","HAR",20,"Mark Messier",NA,NA,"3",1899-12-31 19:04:00,"EV","Hartford Civic Center","W","A",1,0
+1981-03-21,"EDM","LAK",20,NA,NA,"Mario Lessard","1",1899-12-31 10:30:00,"EV","Northlands Coliseum","T","H",0,0
+1981-03-20,"EDM","MNS",20,"Jari Kurri","Risto Siltanen","Don Beaupre","2",1899-12-31 19:53:00,"EV","Northlands Coliseum","T","H",0,0
+1981-03-15,"EDM","CGY",20,"Brett Callighen","Jari Kurri","Pat Riggin","3",1899-12-31 10:14:00,"PP","Stampede Corral","T","A",0,0
+1981-03-07,"EDM","PHI",20,NA,NA,"Rick St. Croix","1",1899-12-31 04:17:00,"EV","The Spectrum","W","A",0,0
+1981-03-07,"EDM","PHI",20,"Brett Callighen",NA,"Rick St. Croix","3",1899-12-31 03:53:00,"EV","The Spectrum","W","A",0,0
+1981-03-07,"EDM","PHI",20,"Brett Callighen","Jari Kurri","Rick St. Croix","2",1899-12-31 02:40:00,"PP","The Spectrum","W","A",0,0
+1981-03-07,"EDM","PHI",20,"Dave Lumley","Risto Siltanen",NA,"3",1899-12-31 19:18:00,"PP","The Spectrum","W","A",1,0
+1981-03-04,"EDM","NYR",20,"Dave Lumley",NA,"Steve Baker","2",1899-12-31 16:22:00,"SH","Madison Square Garden (IV)","T","A",0,0
+1981-03-03,"EDM","NYI",20,"Jari Kurri","Kevin Lowe","Billy Smith","3",1899-12-31 05:05:00,"EV","Nassau Veterans Memorial Coliseum","T","A",0,0
+1981-03-03,"EDM","NYI",20,"Brett Callighen","Jari Kurri","Billy Smith","2",1899-12-31 02:20:00,"PP","Nassau Veterans Memorial Coliseum","T","A",0,0
+1981-02-27,"EDM","DET",20,"Pat Price","Mark Messier",NA,"3",1899-12-31 18:31:00,"EV","Northlands Coliseum","W","H",1,0
+1981-02-25,"EDM","PHI",20,"Pat Price","Brett Callighen","Pete Peeters","2",1899-12-31 18:02:00,"EV","Northlands Coliseum","W","H",0,0
+1981-02-25,"EDM","PHI",20,"Glenn Anderson","Curt Brackenbury","Pete Peeters","3",1899-12-31 16:00:00,"EV","Northlands Coliseum","W","H",0,0
+1981-02-24,"EDM","LAK",20,"Paul Coffey",NA,"Mario Lessard","2",1899-12-31 11:09:00,"PP","Great Western Forum","L","A",0,0
+1981-02-18,"EDM","STL",20,"Kevin Lowe","Mark Messier","Ed Staniowski","3",1899-12-31 08:07:00,"SH","Northlands Coliseum","W","H",0,0
+1981-02-18,"EDM","STL",20,"Curt Brackenbury","Risto Siltanen","Mike Liut","2",1899-12-31 04:44:00,"EV","Northlands Coliseum","W","H",0,0
+1981-02-18,"EDM","STL",20,NA,NA,"Mike Liut","3",1899-12-31 05:49:00,"EV","Northlands Coliseum","W","H",0,0
+1981-02-18,"EDM","STL",20,"Paul Coffey","Kevin Lowe","Mike Liut","3",1899-12-31 05:58:00,"EV","Northlands Coliseum","W","H",0,0
+1981-02-18,"EDM","STL",20,"Doug Hicks","Risto Siltanen","Ed Staniowski","3",1899-12-31 15:47:00,"EV","Northlands Coliseum","W","H",0,0
+1981-02-13,"EDM","QUE",20,"Jari Kurri","Brett Callighen","Dan Bouchard","1",1899-12-31 04:08:00,"EV","Northlands Coliseum","L","H",0,0
+1981-02-08,"EDM","CGY",20,"Lee Fogolin","Brett Callighen","Pat Riggin","2",1899-12-31 04:07:00,"EV","Northlands Coliseum","L","H",0,0
+1981-02-06,"EDM","WIN",20,"Paul Coffey","Jari Kurri","Pierre Hamel","3",1899-12-31 06:37:00,"EV","Northlands Coliseum","W","H",0,0
+1981-02-06,"EDM","WIN",20,"Jari Kurri","Pat Price","Pierre Hamel","3",1899-12-31 14:18:00,"EV","Northlands Coliseum","W","H",0,0
+1981-02-06,"EDM","WIN",20,"Kevin Lowe",NA,"Pierre Hamel","3",1899-12-31 06:23:00,"EV","Northlands Coliseum","W","H",0,0
+1981-02-04,"EDM","CBH",20,"Doug Hicks","Risto Siltanen","Tony Esposito","2",1899-12-31 08:09:00,"PP","Chicago Stadium","L","A",0,0
+1981-01-30,"EDM","CBH",20,"Paul Coffey","Dave Lumley","Tony Esposito","3",1899-12-31 15:34:00,"EV","Northlands Coliseum","W","H",0,0
+1981-01-28,"EDM","MTL",20,"Blair MacDonald",NA,"Richard Sevigny","3",1899-12-31 11:14:00,"EV","Northlands Coliseum","W","H",0,0
+1981-01-21,"EDM","VAN",19,"Blair MacDonald","Kevin Lowe","Gary Bromley","3",1899-12-31 12:48:00,"PP","Northlands Coliseum","W","H",0,0
+1981-01-17,"EDM","STL",19,"Dave Semenko",NA,"Ed Staniowski","3",1899-12-31 16:53:00,"EV","The Checkerdome","L","A",0,0
+1981-01-14,"EDM","TOR",19,"Jari Kurri","Brett Callighen","Jim Rutherford","2",1899-12-31 19:25:00,"EV","Maple Leaf Gardens","W","A",0,0
+1981-01-14,"EDM","TOR",19,"Doug Hicks",NA,"Jim Rutherford","3",1899-12-31 10:14:00,"EV","Maple Leaf Gardens","W","A",0,0
+1981-01-11,"EDM","QUE",19,NA,NA,"Ron Grahame","2",1899-12-31 04:44:00,"SH","Quebec Coliseum","W","A",0,0
+1981-01-07,"EDM","WSH",19,"Jari Kurri","Brett Callighen","Dave Parro","1",1899-12-31 12:52:00,"EV","Northlands Coliseum","W","H",0,0
+1981-01-07,"EDM","WSH",19,"Dave Hunter",NA,"Dave Parro","2",1899-12-31 19:35:00,"SH","Northlands Coliseum","W","H",0,0
+1981-01-03,"EDM","TOR",19,"Paul Coffey","Jari Kurri","Vincent Tremblay","1",1899-12-31 02:44:00,"EV","Northlands Coliseum","W","H",0,0
+1980-12-30,"EDM","CGY",19,"Pat Price","Mark Messier","Reggie Lemelin","3",1899-12-31 15:51:00,"PP","Stampede Corral","L","A",0,0
+1980-12-23,"EDM","LAK",19,NA,NA,"Doug Keans","2",1899-12-31 04:38:00,"EV","Great Western Forum","L","A",0,0
+1980-12-23,"EDM","LAK",19,"Mark Messier",NA,"Doug Keans","3",1899-12-31 05:18:00,"EV","Great Western Forum","L","A",0,0
+1980-12-23,"EDM","LAK",19,"Dave Semenko","Jari Kurri","Doug Keans","3",1899-12-31 15:03:00,"PP","Great Western Forum","L","A",0,0
+1980-12-07,"EDM","HAR",19,"Blair MacDonald","Charlie Huddy","Mike Veisor","1",1899-12-31 18:35:00,"EV","Northlands Coliseum","W","H",0,0
+1980-12-05,"EDM","NYR",19,"Charlie Huddy","Mark Messier","Wayne Thomas","2",1899-12-31 10:59:00,"EV","Northlands Coliseum","L","H",0,0
+1980-11-29,"EDM","BOS",19,"Blair MacDonald","Jari Kurri","Rogie Vachon","1",1899-12-31 01:51:00,"EV","Boston Garden","L","A",0,0
+1980-11-26,"EDM","CBH",19,"Blair MacDonald","Jari Kurri","Tony Esposito","2",1899-12-31 16:06:00,"EV","Northlands Coliseum","W","H",0,0
+1980-11-16,"EDM","CBH",19,"Don Ashby","Blair MacDonald","Tony Esposito","1",1899-12-31 13:50:00,"EV","Chicago Stadium","W","A",0,0
+1980-11-15,"EDM","TOR",19,"Blair MacDonald","Risto Siltanen","Jiri Crha","2",1899-12-31 14:20:00,"PP","Maple Leaf Gardens","L","A",0,0
+1980-11-03,"EDM","PIT",19,"Mark Messier","Curt Brackenbury","Greg Millen","2",1899-12-31 10:08:00,"EV","Northlands Coliseum","T","H",0,0
+1980-11-03,"EDM","PIT",19,"Glenn Anderson","Matti Hagman","Greg Millen","1",1899-12-31 13:37:00,"PP","Northlands Coliseum","T","H",0,0
+1980-10-19,"EDM","NYR",19,"Dave Semenko","Blair MacDonald","Wayne Thomas","3",1899-12-31 11:02:00,"PP","Madison Square Garden (IV)","W","A",0,0
+1980-10-18,"EDM","NYI",19,"Blair MacDonald","Pat Price","Billy Smith","1",1899-12-31 08:07:00,"PP","Nassau Veterans Memorial Coliseum","T","A",0,0
+1980-10-18,"EDM","NYI",19,NA,NA,"Billy Smith","2",1899-12-31 16:40:00,"PP","Nassau Veterans Memorial Coliseum","T","A",0,0
+1980-10-10,"EDM","QUE",19,"Blair MacDonald",NA,"Michel Plasse","2",1899-12-31 04:48:00,"EV","Northlands Coliseum","L","H",0,0
+1980-10-10,"EDM","QUE",19,"Lee Fogolin","Jari Kurri","Michel Plasse","2",1899-12-31 17:11:00,"PP","Northlands Coliseum","L","H",0,0
+1980-04-04,"EDM","CLR",19,"Colin Campbell","Dave Hunter","Hardy Astrom","3",1899-12-31 05:47:00,"EV","Northlands Coliseum","W","H",0,0
+1980-04-02,"EDM","MNS",19,"Colin Campbell","Dave Hunter","Gary Edwards","2",1899-12-31 09:46:00,"EV","Northlands Coliseum","T","H",0,0
+1980-03-29,"EDM","TOR",19,"Don Ashby",NA,"Mike Palmateer","3",1899-12-31 06:41:00,"EV","Maple Leaf Gardens","W","A",0,0
+1980-03-29,"EDM","TOR",19,"Blair MacDonald","Don Ashby","Mike Palmateer","1",1899-12-31 19:59:00,"EV","Maple Leaf Gardens","W","A",0,0
+1980-03-25,"EDM","ATF",19,NA,NA,"Jim Craig","3",1899-12-31 05:25:00,"EV","Omni Coliseum","W","A",0,0
+1980-03-25,"EDM","ATF",19,"Dave Hunter",NA,"Jim Craig","3",1899-12-31 06:28:00,"EV","Omni Coliseum","W","A",0,0
+1980-03-21,"EDM","PIT",19,"Lee Fogolin","Blair MacDonald","Greg Millen","3",1899-12-31 01:34:00,"EV","Northlands Coliseum","W","H",0,0
+1980-03-21,"EDM","PIT",19,"Kevin Lowe","Dave Semenko","Greg Millen","3",1899-12-31 05:11:00,"EV","Northlands Coliseum","W","H",0,0
+1980-03-21,"EDM","PIT",19,"Pat Price",NA,"Greg Millen","3",1899-12-31 12:39:00,"EV","Northlands Coliseum","W","H",0,0
+1980-03-15,"EDM","MTL",19,NA,NA,"Denis Herron","3",1899-12-31 04:18:00,"EV","Northlands Coliseum","L","H",0,0
+1980-03-12,"EDM","QUE",19,NA,NA,NA,"3",1899-12-31 19:37:00,"EV","Quebec Coliseum","W","A",1,0
+1980-03-12,"EDM","QUE",19,NA,NA,"Michel Dion","3",1899-12-31 06:24:00,"EV","Quebec Coliseum","W","A",0,0
+1980-03-08,"EDM","PIT",19,"Blair MacDonald",NA,"Greg Millen","2",1899-12-31 15:45:00,"EV","Pittsburgh Civic Arena","L","A",0,0
+1980-03-06,"EDM","MTL",19,"Blair MacDonald","Don Ashby","Denis Herron","2",1899-12-31 16:56:00,"EV","Montreal Forum","L","A",0,0
+1980-03-04,"EDM","NYI",19,"Blair MacDonald",NA,"Glenn Resch","3",1899-12-31 12:35:00,"EV","Nassau Veterans Memorial Coliseum","L","A",0,0
+1980-03-04,"EDM","NYI",19,"Blair MacDonald","Don Ashby","Glenn Resch","3",1899-12-31 03:48:00,"PP","Nassau Veterans Memorial Coliseum","L","A",0,0
+1980-02-17,"EDM","STL",19,"Brett Callighen",NA,"Mike Liut","3",1899-12-31 07:34:00,"EV","Northlands Coliseum","T","H",0,0
+1980-02-08,"EDM","ATF",19,"Blair MacDonald","Pat Price","Dan Bouchard","1",1899-12-31 18:55:00,"EV","Northlands Coliseum","L","H",0,0
+1980-02-06,"EDM","STL",19,"Risto Siltanen","Jim Corsi","Mike Liut","1",1899-12-31 06:15:00,"EV","Northlands Coliseum","L","H",0,0
+1980-02-03,"EDM","LAK",19,"Cam Connor","Kevin Lowe","Mario Lessard","2",1899-12-31 10:16:00,"EV","Northlands Coliseum","W","H",0,0
+1980-02-01,"EDM","WIN",19,"Risto Siltanen",NA,"Pierre Hamel","1",1899-12-31 05:42:00,"EV","Northlands Coliseum","W","H",0,0
+1980-02-01,"EDM","WIN",19,"Doug Hicks","Brett Callighen","Markus Mattsson","3",1899-12-31 13:59:00,"EV","Northlands Coliseum","W","H",0,0
+1980-02-01,"EDM","WIN",19,"Risto Siltanen","Doug Hicks","Pierre Hamel","2",1899-12-31 00:10:00,"PP","Northlands Coliseum","W","H",0,0
+1980-01-30,"EDM","LAK",19,"Blair MacDonald","Pat Price","Mario Lessard","1",1899-12-31 18:03:00,"EV","Great Western Forum","W","A",0,0
+1980-01-27,"EDM","PHI",19,"Brett Callighen","Dave Lumley","Pete Peeters","2",1899-12-31 14:28:00,"EV","Northlands Coliseum","L","H",0,0
+1980-01-23,"EDM","PIT",18,"Doug Hicks","Brett Callighen","Rob Holland","3",1899-12-31 19:41:00,"EV","Northlands Coliseum","W","H",0,0
+1980-01-19,"EDM","PIT",18,"Risto Siltanen","Doug Hicks","Greg Millen","2",1899-12-31 11:24:00,"PP","Pittsburgh Civic Arena","W","A",0,0
+1980-01-19,"EDM","PIT",18,"Blair MacDonald","Pat Price","Greg Millen","3",1899-12-31 06:17:00,"EV","Pittsburgh Civic Arena","W","A",0,0
+1980-01-16,"EDM","WSH",18,"Brett Callighen","Blair MacDonald","Wayne Stephenson","2",1899-12-31 11:44:00,"EV","Capital Center","W","A",0,0
+1980-01-09,"EDM","QUE",18,"Doug Hicks","Risto Siltanen","Ron Low","2",1899-12-31 10:41:00,"PP","Quebec Coliseum","L","A",0,0
+1980-01-05,"EDM","LAK",18,"Kevin Lowe","Risto Siltanen","Mario Lessard","2",1899-12-31 08:47:00,"PP","Northlands Coliseum","T","H",0,0
+1980-01-05,"EDM","LAK",18,"Pat Price","Brett Callighen","Mario Lessard","3",1899-12-31 10:51:00,"PP","Northlands Coliseum","T","H",0,0
+1979-12-28,"EDM","VAN",18,NA,NA,"Curt Ridley","2",1899-12-31 17:39:00,"SH","Pacific Coliseum","W","A",0,0
+1979-12-26,"EDM","CLR",18,"Brett Callighen","Blair MacDonald","Hardy Astrom","1",1899-12-31 13:37:00,"EV","Northlands Coliseum","W","H",0,0
+1979-12-22,"EDM","LAK",18,"Blair MacDonald","Brett Callighen","Mario Lessard","2",1899-12-31 18:04:00,"PP","Great Western Forum","L","A",0,0
+1979-12-22,"EDM","LAK",18,"Brett Callighen","Kevin Lowe","Mario Lessard","3",1899-12-31 19:55:00,"EV","Great Western Forum","L","A",0,0
+1979-12-19,"EDM","DET",18,"Risto Siltanen","Blair MacDonald","Rogie Vachon","1",1899-12-31 01:28:00,"EV","Northlands Coliseum","L","H",0,0
+1979-12-19,"EDM","DET",18,"Eddie Mio","Blair MacDonald","Rogie Vachon","2",1899-12-31 00:20:00,"EV","Northlands Coliseum","L","H",0,0
+1979-12-16,"EDM","WIN",18,"Blair MacDonald","Mark Messier","Lindsay Middlebrook","3",1899-12-31 06:36:00,"EV","Northlands Coliseum","L","H",0,0
+1979-12-14,"EDM","MTL",18,"Kari Makkonen","Blair MacDonald","Michel Larocque","2",1899-12-31 01:40:00,"PP","Northlands Coliseum","W","H",0,0
+1979-12-09,"EDM","HAR",18,"Pat Price",NA,"Al Smith","3",1899-12-31 06:36:00,"EV","Northlands Coliseum","W","H",0,0
+1979-11-30,"EDM","NYI",18,"Doug Hicks","Risto Siltanen","Billy Smith","1",1899-12-31 14:08:00,"PP","Northlands Coliseum","W","H",0,0
+1979-11-21,"EDM","TOR",18,"Risto Siltanen",NA,"Paul Harrison","3",1899-12-31 13:39:00,"PP","Maple Leaf Gardens","T","A",0,0
+1979-11-21,"EDM","TOR",18,"Blair MacDonald",NA,"Paul Harrison","2",1899-12-31 08:30:00,"PP","Maple Leaf Gardens","T","A",0,0
+1979-11-18,"EDM","BUF",18,"Mark Messier",NA,"Bob Sauve","3",1899-12-31 18:13:00,"EV","Buffalo Memorial Auditorium","L","A",0,0
+1979-11-13,"EDM","WSH",18,"Lee Fogolin",NA,"Wayne Stephenson","2",1899-12-31 12:06:00,"EV","Capital Center","W","A",0,0
+1979-11-07,"EDM","DET",18,"Brett Callighen","Blair MacDonald","Rogie Vachon","2",1899-12-31 16:06:00,"PP",NA,"L","A",0,0
+1979-11-02,"EDM","NYI",18,"Doug Hicks",NA,"Glenn Resch","1",1899-12-31 02:18:00,"EV","Northlands Coliseum","W","H",0,0
+1979-11-02,"EDM","NYI",18,"Dave Lumley","Doug Hicks","Glenn Resch","1",1899-12-31 03:56:00,"EV","Northlands Coliseum","W","H",0,0
+1979-10-21,"EDM","MNS",18,"Brett Callighen","Risto Siltanen","Gary Edwards","3",1899-12-31 14:51:00,"EV","Northlands Coliseum","T","H",0,0
+1979-10-14,"EDM","VAN",18,"Brett Callighen","Blair MacDonald","Glen Hanlon","3",1899-12-31 18:51:00,"PP","Northlands Coliseum","T","H",0,0
