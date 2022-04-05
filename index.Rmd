@@ -7,4 +7,4 @@ output:
         toc_float: TRUE
 ---
 
-This is my JSC370 Final Project website.
+This is my JSC370 Final Project website. See the "Some Interactive Visuals" tab to see work done for Lab 12.
