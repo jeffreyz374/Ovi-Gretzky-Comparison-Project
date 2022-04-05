@@ -1,6 +1,6 @@
 ---
 title: "JSC370 Final Project"
-author: "Your Name"
+author: "Jeffrey Zhou"
 output: 
     html_document:
         toc: TRUE
@@ -61,8 +61,6 @@ source("process_COVID_data.R")
 ## Second step
 
 Then I will add some code to create the **plotly** figures
-
-Note: You need to name each code chunk, like this one: `plot1`
 
 ```{r plot1, class.source="code-r-small"}
 
