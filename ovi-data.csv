@@ -1,0 +1,777 @@
+"Date","Team","Opponent","Age","Assist1","Assist2","Goalie","Period","Time","Strength","ArenaName","HomeAway","Result","ENG","PS"
+"2022-04-12","WSH","PHI",36,"Conor Sheary","Evgeny Kuznetsov","Carter Hart","1","06:01:00","EV","Capital One Arena","H","W",0,0
+"2022-04-10","WSH","BOS",36,"Evgeny Kuznetsov","John Carlson",NA,"3","19:58:00","EV","Capital One Arena","H","W",1,0
+"2022-04-09","WSH","PIT",36,"John Carlson","Nicklas Backstrom","Tristan Jarry","2","04:49:00","PP","PPG Paints Arena","A","W",0,0
+"2022-04-06","WSH","TBL",36,"John Carlson","Evgeny Kuznetsov","Andrei Vasilevskiy","1","15:10:00","EV","Capital One Arena","H","W",0,0
+"2022-03-26","WSH","NJD",36,"Evgeny Kuznetsov","Nicklas Backstrom","Nico Daws","3","11:48:00","PP","Capital One Arena","H","W",0,0
+"2022-03-25","WSH","BUF",36,"Evgeny Kuznetsov",NA,"Dustin Tokarski","2","16:47:00","EV","KeyBank Center","A","SOW",0,0
+"2022-03-20","WSH","DAL",36,"John Carlson","Evgeny Kuznetsov","Jake Oettinger","2","04:53:00","PP","Capital One Arena","H","L",0,0
+"2022-03-18","WSH","CAR",36,"Nicklas Backstrom",NA,"Antti Raanta","3","14:56:00","PP","PNC Arena","A","SOW",0,0
+"2022-03-17","WSH","CBJ",36,"Conor Sheary","Tom Wilson","Elvis Merzlikins","2","10:44:00","PP","Nationwide Arena","A","W",0,0
+"2022-03-15","WSH","NYI",36,"Evgeny Kuznetsov",NA,"Semyon Varlamov","3","15:02:00","EV","Capital One Arena","H","SOW",0,0
+"2022-03-08","WSH","CGY",36,"Tom Wilson","Nick Jensen",NA,"3","18:12:00","EV","Scotiabank Saddledome","A","W",1,0
+"2022-03-08","WSH","CGY",36,"Evgeny Kuznetsov",NA,"Daniel Vladar","2","13:23:00","EV","Scotiabank Saddledome","A","W",0,0
+"2022-03-05","WSH","SEA",36,"John Carlson","Nicklas Backstrom","Chris Driedger","3","00:47:00","PP","Capital One Arena","H","W",0,0
+"2022-03-03","WSH","CAR",36,"John Carlson","T.J. Oshie","Frederik Andersen","2","15:05:00","PP","Capital One Arena","H","W",0,0
+"2022-02-24","WSH","NYR",36,"Evgeny Kuznetsov",NA,"Igor Shesterkin","3","18:58:00","EV","Madison Square Garden (IV)","A","L",0,0
+"2022-02-15","WSH","NSH",36,"John Carlson","Tom Wilson","Juuse Saros","3","04:33:00","PP","Bridgestone Arena","A","W",0,0
+"2022-02-15","WSH","NSH",36,NA,NA,NA,"3","18:37:00","EV","Bridgestone Arena","A","W",1,0
+"2022-01-22","WSH","OTT",36,"Nicklas Backstrom",NA,"Matt Murray","3","09:43:00","EV","Capital One Arena","H","OTW",0,0
+"2022-01-22","WSH","OTT",36,"Trevor van Riemsdyk","Evgeny Kuznetsov","Matt Murray","3","01:39:00","EV","Capital One Arena","H","OTW",0,0
+"2022-01-18","WSH","WPG",36,"Garnet Hathaway",NA,"Connor Hellebuyck","1","16:58:00","EV","Capital One Arena","H","OTW",0,0
+"2022-01-16","WSH","VAN",36,"Justin Schultz","Evgeny Kuznetsov","Thatcher Demko","1","10:31:00","PP","Capital One Arena","H","L",0,0
+"2022-01-15","WSH","NYI",36,"Evgeny Kuznetsov","Nicklas Backstrom",NA,"3","19:49:00","EV","UBS Arena","A","W",1,0
+"2021-12-31","WSH","DET",36,"Evgeny Kuznetsov","Nicklas Backstrom","Thomas Greiss","3","17:09:00","PP","Little Caesars Arena","A","W",0,0
+"2021-12-31","WSH","DET",36,"Garnet Hathaway","John Carlson",NA,"3","19:19:00","EV","Little Caesars Arena","A","W",1,0
+"2021-12-17","WSH","WPG",36,"Daniel Sprong","John Carlson",NA,"3","19:09:00","EV","Canada Life Centre","A","W",1,0
+"2021-12-15","WSH","CHI",36,"T.J. Oshie","Nicklas Backstrom","Marc-Andre Fleury","2","03:36:00","PP","United Center","A","OTL",0,0
+"2021-12-04","WSH","CBJ",36,"John Carlson",NA,"Daniil Tarasov","2","03:12:00","EV","Capital One Arena","H","W",0,0
+"2021-11-28","WSH","CAR",36,"Dmitry Orlov","Tom Wilson","Frederik Andersen","2","11:58:00","EV","PNC Arena","A","W",0,0
+"2021-11-26","WSH","FLA",36,"Tom Wilson","Aliaksei Protas","Sergei Bobrovsky","2","02:50:00","PP","Capital One Arena","H","W",0,0
+"2021-11-26","WSH","FLA",36,"Evgeny Kuznetsov","Tom Wilson","Sergei Bobrovsky","3","04:02:00","EV","Capital One Arena","H","W",0,0
+"2021-11-26","WSH","FLA",36,"Aliaksei Protas","Evgeny Kuznetsov","Spencer Knight","2","03:46:00","EV","Capital One Arena","H","W",0,0
+"2021-11-21","WSH","SEA",36,"Dmitry Orlov","Tom Wilson","Philipp Grubauer","3","03:09:00","EV","Climate Pledge Arena","A","L",0,0
+"2021-11-20","WSH","SJS",36,"John Carlson","T.J. Oshie","Adin Hill","1","13:58:00","PP","SAP Center at San Jose","A","W",0,0
+"2021-11-20","WSH","SJS",36,"Nic Dowd",NA,NA,"3","18:56:00","EV","SAP Center at San Jose","A","W",1,0
+"2021-11-12","WSH","CBJ",36,"Evgeny Kuznetsov","Tom Wilson","Joonas Korpisalo","1","10:19:00","EV","Nationwide Arena","A","W",0,0
+"2021-11-08","WSH","BUF",36,"Dmitry Orlov","Evgeny Kuznetsov","Dustin Tokarski","2","08:55:00","EV","Capital One Arena","H","W",0,0
+"2021-11-04","WSH","FLA",36,"Lars Eller",NA,"Spencer Knight","2","18:11:00","EV","BB&T Center","A","OTL",0,0
+"2021-10-29","WSH","ARI",36,"Evgeny Kuznetsov","John Carlson",NA,"3","19:39:00","EV","Capital One Arena","H","W",1,0
+"2021-10-27","WSH","DET",36,"Lars Eller","Anthony Mantha","Thomas Greiss","1","19:05:00","PP","Capital One Arena","H","OTL",0,0
+"2021-10-25","WSH","OTT",36,"Tom Wilson",NA,"Filip Gustavsson","3","10:46:00","EV","Canadian Tire Centre","A","W",0,0
+"2021-10-25","WSH","OTT",36,NA,NA,"Filip Gustavsson","2","16:27:00","EV","Canadian Tire Centre","A","W",0,0
+"2021-10-23","WSH","CGY",36,NA,NA,"Daniel Vladar","2","18:03:00","EV","Capital One Arena","H","OTL",0,0
+"2021-10-19","WSH","COL",36,"Tom Wilson","Evgeny Kuznetsov",NA,"3","17:39:00","EV","Capital One Arena","H","W",1,0
+"2021-10-16","WSH","TBL",36,"Trevor van Riemsdyk","Tom Wilson","Andrei Vasilevskiy","2","18:51:00","EV","Capital One Arena","H","OTL",0,0
+"2021-10-13","WSH","NYR",36,"Evgeny Kuznetsov","Trevor van Riemsdyk","Alexandar Georgiev","3","12:01:00","SH","Capital One Arena","H","W",0,0
+"2021-10-13","WSH","NYR",36,"Anthony Mantha","John Carlson","Alexandar Georgiev","3","02:37:00","PP","Capital One Arena","H","W",0,0
+"2021-04-17","WSH","PHI",35,"John Carlson","Evgeny Kuznetsov","Alex Lyon","2","06:15:00","PP","Wells Fargo Center","A","W",0,0
+"2021-04-17","WSH","PHI",35,"John Carlson","Evgeny Kuznetsov","Alex Lyon","1","03:38:00","PP","Wells Fargo Center","A","W",0,0
+"2021-04-13","WSH","PHI",35,"Tom Wilson","Conor Sheary","Brian Elliott","3","05:10:00","PP","Capital One Arena","H","W",0,0
+"2021-04-09","WSH","BUF",35,"Brenden Dillon","John Carlson","Dustin Tokarski","1","11:39:00","EV","KeyBank Center","A","W",0,0
+"2021-04-08","WSH","BOS",35,"John Carlson","T.J. Oshie","Jeremy Swayman","2","10:08:00","PP","Capital One Arena","H","L",0,0
+"2021-04-04","WSH","NJD",35,"Nicklas Backstrom","Evgeny Kuznetsov","Mackenzie Blackwood","2","08:09:00","PP","Prudential Center","A","W",0,0
+"2021-03-28","WSH","NYR",35,"T.J. Oshie","Dmitry Orlov","Keith Kinkaid","2","12:29:00","EV","Capital One Arena","H","W",0,0
+"2021-03-26","WSH","NJD",35,"Evgeny Kuznetsov","T.J. Oshie","Scott Wedgewood","3","16:28:00","EV","Capital One Arena","H","W",0,0
+"2021-03-26","WSH","NJD",35,"Evgeny Kuznetsov",NA,"Scott Wedgewood","1","05:58:00","EV","Capital One Arena","H","W",0,0
+"2021-03-25","WSH","NJD",35,"Daniel Sprong","John Carlson","Mackenzie Blackwood","2","07:15:00","EV","Capital One Arena","H","W",0,0
+"2021-03-19","WSH","NYR",35,"John Carlson","Zdeno Chara","Alexandar Georgiev","3","16:27:00","EV","Capital One Arena","H","W",0,0
+"2021-03-19","WSH","NYR",35,"Evgeny Kuznetsov","Justin Schultz","Alexandar Georgiev","3","13:18:00","EV","Capital One Arena","H","W",0,0
+"2021-03-16","WSH","NYI",35,"Justin Schultz","Nicklas Backstrom","Semyon Varlamov","2","15:24:00","PP","Capital One Arena","H","W",0,0
+"2021-03-15","WSH","BUF",35,"Conor Sheary",NA,"Carter Hutton","3","16:21:00","EV","KeyBank Center","A","W",0,0
+"2021-03-13","WSH","PHI",35,"Nicklas Backstrom","John Carlson","Carter Hart","2","13:10:00","PP","Wells Fargo Center","A","W",0,0
+"2021-03-11","WSH","PHI",35,NA,NA,"Brian Elliott","1","08:37:00","EV","Wells Fargo Center","A","W",0,0
+"2021-03-07","WSH","PHI",35,"T.J. Oshie","Zdeno Chara","Carter Hart","2","15:11:00","EV","Wells Fargo Center","A","W",0,0
+"2021-02-28","WSH","NJD",35,"Lars Eller","Nick Jensen","Mackenzie Blackwood","2","13:37:00","EV","Prudential Center","A","W",0,0
+"2021-02-21","WSH","NJD",35,"T.J. Oshie","Nicklas Backstrom","Aaron Dell","3","16:56:00","PP","Capital One Arena","H","W",0,0
+"2021-02-07","WSH","PHI",35,"Tom Wilson","Lars Eller","Carter Hart","1","11:11:00","PP","Capital One Arena","H","L",0,0
+"2021-02-07","WSH","PHI",35,"Nicklas Backstrom","Tom Wilson","Carter Hart","2","04:08:00","EV","Capital One Arena","H","L",0,0
+"2021-02-04","WSH","NYR",35,"Nicklas Backstrom",NA,"Igor Shesterkin","3","11:01:00","EV","Madison Square Garden (IV)","A","L",0,0
+"2021-01-30","WSH","BOS",35,"Nicklas Backstrom","John Carlson","Tuukka Rask","OT","00:28:00","EV","Capital One Arena","H","OTW",0,0
+"2021-01-17","WSH","PIT",35,"Evgeny Kuznetsov","Tom Wilson","Casey DeSmith","1","14:24:00","EV","PPG Paints Arena","A","SOL",0,0
+"2020-03-09","WSH","BUF",34,"Evgeny Kuznetsov",NA,"Linus Ullmark","3","03:33:00","EV","KeyBank Center","A","SOL",0,0
+"2020-03-05","WSH","NYR",34,"Ilya Kovalchuk","John Carlson","Alexandar Georgiev","3","19:17:00","EV","Madison Square Garden (IV)","A","OTL",0,0
+"2020-03-05","WSH","NYR",34,"John Carlson","Nicklas Backstrom","Alexandar Georgiev","3","09:22:00","EV","Madison Square Garden (IV)","A","OTL",0,0
+"2020-03-01","WSH","MIN",34,"John Carlson","Nicklas Backstrom","Alex Stalock","1","07:21:00","PP","Xcel Energy Center","A","W",0,0
+"2020-03-01","WSH","MIN",34,"Evgeny Kuznetsov","Ilya Kovalchuk","Alex Stalock","1","10:59:00","EV","Xcel Energy Center","A","W",0,0
+"2020-02-25","WSH","WPG",34,"Evgeny Kuznetsov","Dmitry Orlov","Laurent Brossoit","1","01:55:00","EV","Capital One Arena","H","SOW",0,0
+"2020-02-22","WSH","NJD",34,"Evgeny Kuznetsov","Nick Jensen","Mackenzie Blackwood","3","04:50:00","EV","Prudential Center","A","L",0,0
+"2020-02-20","WSH","MTL",34,"Nicklas Backstrom",NA,"Carey Price","1","07:29:00","EV","Capital One Arena","H","OTL",0,0
+"2020-02-04","WSH","LAK",34,"John Carlson",NA,NA,"3","18:14:00","EV","Capital One Arena","H","W",1,0
+"2020-02-04","WSH","LAK",34,"John Carlson",NA,"Jonathan Quick","3","15:00:00","EV","Capital One Arena","H","W",0,0
+"2020-02-04","WSH","LAK",34,"T.J. Oshie",NA,"Jonathan Quick","3","13:50:00","EV","Capital One Arena","H","W",0,0
+"2020-01-31","WSH","OTT",34,"John Carlson",NA,NA,"3","19:45:00","PP","Canadian Tire Centre","A","W",1,0
+"2020-01-31","WSH","OTT",34,"Nicklas Backstrom","Tom Wilson","Marcus Hogberg","2","10:27:00","EV","Canadian Tire Centre","A","W",0,0
+"2020-01-29","WSH","NSH",34,NA,NA,"Juuse Saros","1","16:26:00","EV","Capital One Arena","H","L",0,0
+"2020-01-18","WSH","NYI",34,"T.J. Oshie",NA,NA,"3","19:04:00","EV","Nassau Veterans Memorial Coliseum","A","W",1,0
+"2020-01-18","WSH","NYI",34,"John Carlson",NA,"Semyon Varlamov","3","05:18:00","EV","Nassau Veterans Memorial Coliseum","A","W",0,0
+"2020-01-18","WSH","NYI",34,"Nicklas Backstrom",NA,"Semyon Varlamov","1","10:22:00","EV","Nassau Veterans Memorial Coliseum","A","W",0,0
+"2020-01-16","WSH","NJD",34,"John Carlson","Nicklas Backstrom","Louis Domingue","1","15:17:00","PP","Capital One Arena","H","W",0,0
+"2020-01-16","WSH","NJD",34,"Tom Wilson","John Carlson","Cory Schneider","3","15:42:00","EV","Capital One Arena","H","W",0,0
+"2020-01-16","WSH","NJD",34,"Nicklas Backstrom",NA,"Louis Domingue","1","19:08:00","EV","Capital One Arena","H","W",0,0
+"2020-01-13","WSH","CAR",34,"Jakub Vrana","John Carlson","Petr Mrazek","1","17:18:00","PP","Capital One Arena","H","W",0,0
+"2020-01-13","WSH","CAR",34,"Tom Wilson",NA,"Petr Mrazek","1","11:58:00","EV","Capital One Arena","H","W",0,0
+"2020-01-07","WSH","OTT",34,"John Carlson","Tom Wilson","Marcus Hogberg","3","16:19:00","EV","Capital One Arena","H","W",0,0
+"2020-01-07","WSH","OTT",34,"Dmitry Orlov","Tom Wilson","Craig Anderson","2","17:15:00","EV","Capital One Arena","H","W",0,0
+"2019-12-28","WSH","CAR",34,"Dmitry Orlov","Lars Eller","Petr Mrazek","2","09:56:00","PP","PNC Arena","A","L",0,0
+"2019-12-23","WSH","BOS",34,"Tom Wilson","John Carlson","Tuukka Rask","2","14:35:00","EV","TD Garden","A","L",0,0
+"2019-12-20","WSH","NJD",34,"Nicklas Backstrom","Tom Wilson","Mackenzie Blackwood","1","18:25:00","EV","Prudential Center","A","W",0,0
+"2019-12-09","WSH","CBJ",34,"Dmitry Orlov","Nicklas Backstrom","Joonas Korpisalo","3","00:40:00","EV","Capital One Arena","H","L",0,0
+"2019-11-30","WSH","DET",34,NA,NA,NA,"3","19:05:00","EV","Little Caesars Arena","A","W",1,0
+"2019-11-30","WSH","DET",34,"T.J. Oshie","Radko Gudas",NA,"3","18:25:00","EV","Little Caesars Arena","A","W",1,0
+"2019-11-30","WSH","DET",34,"John Carlson","Evgeny Kuznetsov","Jonathan Bernier","2","09:21:00","EV","Little Caesars Arena","A","W",0,0
+"2019-11-29","WSH","TBL",34,"Dmitry Orlov","Travis Boyd","Andrei Vasilevskiy","3","11:36:00","PP","Capital One Arena","H","OTW",0,0
+"2019-11-27","WSH","FLA",34,"Evgeny Kuznetsov",NA,"Sergei Bobrovsky","1","17:57:00","EV","Capital One Arena","H","W",0,0
+"2019-11-18","WSH","ANA",34,"Evgeny Kuznetsov","John Carlson","John Gibson","2","06:39:00","PP","Capital One Arena","H","W",0,0
+"2019-11-15","WSH","MTL",34,"John Carlson","Nicklas Backstrom","Carey Price","3","05:34:00","PP","Capital One Arena","H","L",0,0
+"2019-11-07","WSH","FLA",34,"Dmitry Orlov","Nicklas Backstrom","Sergei Bobrovsky","2","12:14:00","EV","BB&T Center","A","OTW",0,0
+"2019-11-07","WSH","FLA",34,"Evgeny Kuznetsov","John Carlson","Sergei Bobrovsky","2","06:13:00","PP","BB&T Center","A","OTW",0,0
+"2019-10-29","WSH","TOR",34,"T.J. Oshie","Nicklas Backstrom","Frederik Andersen","3","04:10:00","EV","Scotiabank Arena","A","OTW",0,0
+"2019-10-29","WSH","TOR",34,"Dmitry Orlov","Jakub Vrana","Frederik Andersen","OT","04:00:00","PP","Scotiabank Arena","A","OTW",0,0
+"2019-10-24","WSH","EDM",34,"Jonas Siegenthaler","John Carlson","Mikko Koskinen","2","06:27:00","EV","Rogers Place","A","OTL",0,0
+"2019-10-24","WSH","EDM",34,"Tom Wilson","Jakub Vrana","Mikko Koskinen","2","13:40:00","PP","Rogers Place","A","OTL",0,0
+"2019-10-22","WSH","CGY",34,"Nicklas Backstrom","Radko Gudas","Cam Talbot","2","16:35:00","EV","Scotiabank Saddledome","A","W",0,0
+"2019-10-20","WSH","CHI",34,"John Carlson","Michal Kempny","Corey Crawford","3","03:52:00","EV","United Center","A","W",0,0
+"2019-10-14","WSH","COL",34,"Evgeny Kuznetsov","John Carlson","Philipp Grubauer","3","17:39:00","EV","Capital One Arena","H","L",0,0
+"2019-10-12","WSH","DAL",34,"Tom Wilson",NA,NA,"3","19:03:00","EV","American Airlines Center","A","W",1,0
+"2019-10-10","WSH","NSH",34,"John Carlson","Evgeny Kuznetsov","Pekka Rinne","2","04:46:00","PP","Bridgestone Arena","A","L",0,0
+"2019-10-10","WSH","NSH",34,"John Carlson","Nicklas Backstrom","Pekka Rinne","2","17:36:00","PP","Bridgestone Arena","A","L",0,0
+"2019-10-02","WSH","STL",34,"John Carlson","Lars Eller","Jordan Binnington","1","15:37:00","EV","Enterprise Center","A","OTW",0,0
+"2019-03-30","WSH","TBL",33,"T.J. Oshie","Nicklas Backstrom","Andrei Vasilevskiy","3","14:35:00","EV","Amalie Arena","A","W",0,0
+"2019-03-30","WSH","TBL",33,"John Carlson","Evgeny Kuznetsov","Andrei Vasilevskiy","3","16:15:00","PP","Amalie Arena","A","W",0,0
+"2019-03-26","WSH","CAR",33,"Tom Wilson","Evgeny Kuznetsov","Petr Mrazek","3","04:31:00","EV","Capital One Arena","H","W",0,0
+"2019-03-16","WSH","TBL",33,"Dmitry Orlov","Brett Connolly","Andrei Vasilevskiy","3","12:56:00","EV","Amalie Arena","A","L",0,0
+"2019-03-16","WSH","TBL",33,"T.J. Oshie","John Carlson","Andrei Vasilevskiy","2","07:33:00","PP","Amalie Arena","A","L",0,0
+"2019-03-06","WSH","PHI",33,"Nicklas Backstrom","John Carlson","Brian Elliott","2","02:32:00","PP","Wells Fargo Center","A","W",0,0
+"2019-03-01","WSH","NYI",33,"T.J. Oshie","Evgeny Kuznetsov","Thomas Greiss","3","04:34:00","PP","Nassau Veterans Memorial Coliseum","A","W",0,0
+"2019-02-23","WSH","BUF",33,"Evgeny Kuznetsov",NA,"Carter Hutton","2","02:28:00","EV","KeyBank Center","A","L",0,0
+"2019-02-21","WSH","TOR",33,"John Carlson","T.J. Oshie","Frederik Andersen","2","03:54:00","PP","Scotiabank Arena","A","W",0,0
+"2019-02-18","WSH","LAK",33,"John Carlson","Jakub Vrana","Jack Campbell","1","11:48:00","PP","STAPLES Center","A","W",0,0
+"2019-02-18","WSH","LAK",33,"John Carlson","Nicklas Backstrom","Jack Campbell","2","05:27:00","PP","STAPLES Center","A","W",0,0
+"2019-02-17","WSH","ANA",33,"John Carlson","Jakub Vrana","Ryan Miller","1","04:58:00","EV","Honda Center","A","L",0,0
+"2019-02-14","WSH","SJS",33,"Evgeny Kuznetsov","Tom Wilson","Martin Jones","2","04:14:00","EV","SAP Center at San Jose","A","W",0,0
+"2019-02-11","WSH","LAK",33,"Evgeny Kuznetsov","T.J. Oshie","Jonathan Quick","1","03:07:00","PP","Capital One Arena","H","W",0,0
+"2019-01-23","WSH","TOR",33,"T.J. Oshie","Michal Kempny","Frederik Andersen","2","03:51:00","EV","Scotiabank Arena","A","L",0,0
+"2019-01-22","WSH","SJS",33,"Nicklas Backstrom","T.J. Oshie","Martin Jones","2","05:41:00","EV","Capital One Arena","H","OTL",0,0
+"2019-01-22","WSH","SJS",33,"Jakub Vrana","Evgeny Kuznetsov","Martin Jones","3","05:52:00","EV","Capital One Arena","H","OTL",0,0
+"2019-01-22","WSH","SJS",33,"Nicklas Backstrom","T.J. Oshie","Martin Jones","1","10:41:00","PP","Capital One Arena","H","OTL",0,0
+"2019-01-14","WSH","STL",33,"Dmitry Orlov","Travis Boyd","Jake Allen","1","07:50:00","PP","Capital One Arena","H","L",0,0
+"2019-01-10","WSH","BOS",33,"Tom Wilson",NA,"Jaroslav Halak","2","14:50:00","EV","TD Garden","A","W",0,0
+"2019-01-10","WSH","BOS",33,NA,NA,NA,"3","18:25:00","EV","TD Garden","A","W",1,0
+"2019-01-03","WSH","STL",33,"Michal Kempny","John Carlson","Jake Allen","1","15:34:00","EV","Enterprise Center","A","L",0,0
+"2018-12-15","WSH","BUF",33,"Nicklas Backstrom","Dmitry Orlov","Carter Hutton","2","13:46:00","EV","Capital One Arena","H","SOW",0,0
+"2018-12-14","WSH","CAR",33,"Jonas Siegenthaler","Nic Dowd","Scott Darling","1","03:56:00","EV","PNC Arena","A","SOW",0,0
+"2018-12-14","WSH","CAR",33,"Nic Dowd","John Carlson","Scott Darling","2","17:25:00","EV","PNC Arena","A","SOW",0,0
+"2018-12-14","WSH","CAR",33,"John Carlson","Nicklas Backstrom","Scott Darling","3","09:49:00","PP","PNC Arena","A","SOW",0,0
+"2018-12-11","WSH","DET",33,"Nicklas Backstrom","Michal Kempny","Jonathan Bernier","1","12:59:00","EV","Capital One Arena","H","W",0,0
+"2018-12-11","WSH","DET",33,"John Carlson","Nicklas Backstrom","Jonathan Bernier","2","09:05:00","EV","Capital One Arena","H","W",0,0
+"2018-12-11","WSH","DET",33,"Christian Djoos","Nicklas Backstrom","Jimmy Howard","3","09:33:00","EV","Capital One Arena","H","W",0,0
+"2018-12-08","WSH","CBJ",33,"Michal Kempny","John Carlson","Sergei Bobrovsky","1","19:41:00","EV","Nationwide Arena","A","W",0,0
+"2018-12-06","WSH","ARI",33,"Nicklas Backstrom",NA,NA,"3","19:57:00","EV","Gila River Arena","A","W",1,0
+"2018-12-04","WSH","VEG",33,"Brett Connolly","Madison Bowey","Marc-Andre Fleury","2","11:42:00","EV","T-Mobile Arena","A","L",0,0
+"2018-11-30","WSH","NJD",33,NA,NA,NA,"3","18:30:00","EV","Capital One Arena","H","W",1,0
+"2018-11-26","WSH","NYI",33,"Tom Wilson","Nicklas Backstrom",NA,"3","19:38:00","EV","Barclays Center","A","W",1,0
+"2018-11-24","WSH","NYR",33,"John Carlson","Dmitry Orlov","Alexandar Georgiev","2","19:30:00","EV","Madison Square Garden (IV)","A","W",0,0
+"2018-11-23","WSH","DET",33,"Nic Dowd","Tom Wilson","Jonathan Bernier","3","08:34:00","EV","Capital One Arena","H","W",0,0
+"2018-11-19","WSH","MTL",33,"Tom Wilson","Dmitry Orlov","Carey Price","1","14:40:00","EV","Bell Centre","A","OTW",0,0
+"2018-11-19","WSH","MTL",33,"John Carlson","Tom Wilson","Carey Price","3","01:02:00","PP","Bell Centre","A","OTW",0,0
+"2018-11-16","WSH","COL",33,"Nicklas Backstrom","Tom Wilson","Philipp Grubauer","2","18:29:00","EV","Pepsi Center","A","OTW",0,0
+"2018-11-07","WSH","PIT",33,"John Carlson","Nicklas Backstrom","Casey DeSmith","2","07:09:00","PP","Capital One Arena","H","W",0,0
+"2018-11-05","WSH","EDM",33,"John Carlson","Evgeny Kuznetsov","Cam Talbot","2","13:09:00","PP","Capital One Arena","H","W",0,0
+"2018-11-01","WSH","MTL",33,"Evgeny Kuznetsov","Jakub Vrana","Carey Price","2","06:49:00","EV","Bell Centre","A","L",0,0
+"2018-11-01","WSH","MTL",33,"Dmitry Orlov","Matt Niskanen","Carey Price","2","12:53:00","EV","Bell Centre","A","L",0,0
+"2018-10-22","WSH","VAN",33,"T.J. Oshie","Nicklas Backstrom","Anders Nilsson","2","19:34:00","EV","Rogers Arena","A","W",0,0
+"2018-10-22","WSH","VAN",33,"John Carlson","Nicklas Backstrom","Anders Nilsson","3","05:35:00","PP","Rogers Arena","A","W",0,0
+"2018-10-17","WSH","NYR",33,"John Carlson","Brett Connolly","Henrik Lundqvist","2","03:32:00","PP","Capital One Arena","H","OTW",0,0
+"2018-10-17","WSH","NYR",33,"John Carlson","Nicklas Backstrom","Henrik Lundqvist","2","17:01:00","PP","Capital One Arena","H","OTW",0,0
+"2018-10-10","WSH","VEG",33,"Evgeny Kuznetsov","Brett Connolly","Marc-Andre Fleury","2","10:18:00","EV","Capital One Arena","H","W",0,0
+"2018-10-10","WSH","VEG",33,"Evgeny Kuznetsov","Brett Connolly","Marc-Andre Fleury","3","10:33:00","EV","Capital One Arena","H","W",0,0
+"2018-10-04","WSH","PIT",33,"Christian Djoos","Evgeny Kuznetsov","Matt Murray","1","08:00:00","EV","PPG Paints Arena","A","OTL",0,0
+"2018-10-03","WSH","BOS",33,"Nicklas Backstrom","T.J. Oshie","Tuukka Rask","2","04:17:00","PP","Capital One Arena","H","W",0,0
+"2018-04-07","WSH","NJD",32,"Evgeny Kuznetsov","Tom Wilson","Cory Schneider","1","02:21:00","EV","Capital One Arena","H","W",0,0
+"2018-04-07","WSH","NJD",32,NA,NA,"Cory Schneider","3","05:11:00","EV","Capital One Arena","H","W",0,0
+"2018-04-05","WSH","NSH",32,"Evgeny Kuznetsov","John Carlson","Juuse Saros","2","04:29:00","PP","Capital One Arena","H","L",0,0
+"2018-04-02","WSH","STL",32,"Evgeny Kuznetsov","Nicklas Backstrom",NA,"3","18:29:00","PP","Scottrade Center","A","W",1,0
+"2018-03-26","WSH","NYR",32,"John Carlson","Nicklas Backstrom","Alexandar Georgiev","1","08:54:00","PP","Madison Square Garden (IV)","A","W",0,0
+"2018-03-20","WSH","DAL",32,"John Carlson","T.J. Oshie","Kari Lehtonen","2","13:41:00","PP","Capital One Arena","H","W",0,0
+"2018-03-18","WSH","PHI",32,"Travis Boyd","John Carlson","Petr Mrazek","2","15:08:00","EV","Wells Fargo Center","A","L",0,0
+"2018-03-12","WSH","WPG",32,"Tom Wilson","Evgeny Kuznetsov","Connor Hellebuyck","2","03:53:00","EV","Capital One Arena","H","OTW",0,0
+"2018-03-12","WSH","WPG",32,"John Carlson","Nicklas Backstrom","Connor Hellebuyck","1","04:35:00","PP","Capital One Arena","H","OTW",0,0
+"2018-03-03","WSH","TOR",32,"Tom Wilson","Nicklas Backstrom","Frederik Andersen","1","06:19:00","EV","Navy-Marine Corps Memorial Stadium","H","W",0,0
+"2018-02-26","WSH","CBJ",32,"John Carlson","T.J. Oshie","Sergei Bobrovsky","1","06:57:00","PP","Nationwide Arena","A","L",0,0
+"2018-02-24","WSH","BUF",32,"John Carlson","Evgeny Kuznetsov","Robin Lehner","3","18:36:00","EV","Capital One Arena","H","W",0,0
+"2018-02-24","WSH","BUF",32,"John Carlson","Evgeny Kuznetsov","Robin Lehner","3","10:13:00","PP","Capital One Arena","H","W",0,0
+"2018-02-20","WSH","TBL",32,"Matt Niskanen",NA,"Andrei Vasilevskiy","3","11:02:00","EV","Capital One Arena","H","L",0,0
+"2018-02-19","WSH","BUF",32,"Christian Djoos","John Carlson","Chad Johnson","2","01:18:00","EV","KeyBank Center","A","W",0,0
+"2018-02-15","WSH","MIN",32,"Andre Burakovsky",NA,"Devan Dubnyk","2","05:51:00","EV","Xcel Energy Center","A","W",0,0
+"2018-02-11","WSH","DET",32,"John Carlson","Evgeny Kuznetsov","Jimmy Howard","1","04:20:00","PP","Capital One Arena","H","OTL",0,0
+"2018-02-02","WSH","PIT",32,"Christian Djoos",NA,"Matt Murray","1","18:10:00","EV","PPG Paints Arena","A","L",0,0
+"2018-02-02","WSH","PIT",32,"Evgeny Kuznetsov","Dmitry Orlov","Matt Murray","3","01:50:00","EV","PPG Paints Arena","A","L",0,0
+"2018-01-25","WSH","FLA",32,"Brooks Orpik","Madison Bowey","Harri Sateri","2","07:51:00","EV","BB&T Center","A","W",0,0
+"2018-01-21","WSH","PHI",32,"John Carlson","T.J. Oshie","Brian Elliott","2","19:44:00","PP","Capital One Arena","H","OTL",0,0
+"2018-01-12","WSH","CAR",32,"John Carlson","Evgeny Kuznetsov","Cam Ward","2","00:28:00","EV","PNC Arena","A","W",0,0
+"2018-01-07","WSH","STL",32,"John Carlson","Nicklas Backstrom","Carter Hutton","3","08:00:00","PP","Capital One Arena","H","OTW",0,0
+"2018-01-02","WSH","CAR",32,"Nicklas Backstrom",NA,"Cam Ward","3","12:45:00","EV","PNC Arena","A","OTW",0,0
+"2018-01-02","WSH","CAR",32,"Nicklas Backstrom",NA,"Cam Ward","OT","01:57:00","EV","PNC Arena","A","OTW",0,0
+"2017-12-28","WSH","BOS",32,"John Carlson","Evgeny Kuznetsov","Anton Khudobin","2","14:07:00","PP","Capital One Arena","H","SOW",0,0
+"2017-12-16","WSH","ANA",32,"John Carlson",NA,"John Gibson","OT","01:58:00","EV","Capital One Arena","H","OTW",0,0
+"2017-12-14","WSH","BOS",32,"Matt Niskanen",NA,NA,"3","18:31:00","EV","TD Garden","A","W",1,0
+"2017-12-06","WSH","CHI",32,"Tom Wilson","Dmitry Orlov","Anton Forsberg","1","15:22:00","EV","Capital One Arena","H","W",0,0
+"2017-12-04","WSH","SJS",32,NA,NA,"Martin Jones","2","07:11:00","EV","Capital One Arena","H","W",0,0
+"2017-12-02","WSH","CBJ",32,"John Carlson","Nicklas Backstrom","Sergei Bobrovsky","2","19:22:00","PP","Capital One Arena","H","W",0,0
+"2017-11-25","WSH","TOR",32,"Nicklas Backstrom",NA,"Curtis McElhinney","1","12:43:00","EV","Air Canada Centre","A","W",0,0
+"2017-11-25","WSH","TOR",32,"T.J. Oshie","Nicklas Backstrom",NA,"3","19:51:00","EV","Air Canada Centre","A","W",1,0
+"2017-11-25","WSH","TOR",32,"T.J. Oshie",NA,"Curtis McElhinney","1","19:13:00","PP","Air Canada Centre","A","W",0,0
+"2017-11-24","WSH","TBL",32,"Tom Wilson","Nicklas Backstrom","Andrei Vasilevskiy","1","18:36:00","EV","Capital One Arena","H","W",0,0
+"2017-11-22","WSH","OTT",32,"Alex Chiasson","Nicklas Backstrom","Craig Anderson","1","19:55:00","EV","Capital One Arena","H","W",0,0
+"2017-11-07","WSH","BUF",32,"Devante Smith-Pelly",NA,"Robin Lehner","2","17:44:00","EV","KeyBank Center","A","L",0,0
+"2017-11-06","WSH","ARI",32,"John Carlson","Evgeny Kuznetsov","Scott Wedgewood","2","14:23:00","PP","Capital One Arena","H","OTW",0,0
+"2017-11-04","WSH","BOS",32,"Evgeny Kuznetsov","Dmitry Orlov","Tuukka Rask","1","13:06:00","EV","TD Garden","A","W",0,0
+"2017-10-20","WSH","DET",32,"Nicklas Backstrom","John Carlson","Petr Mrazek","OT","01:56:00","PP","Little Caesars Arena","A","OTW",0,0
+"2017-10-13","WSH","NJD",32,"Nicklas Backstrom","John Carlson","Cory Schneider","2","08:01:00","PP","Prudential Center","A","W",0,0
+"2017-10-11","WSH","PIT",32,"Christian Djoos","Nicklas Backstrom","Matt Murray","3","12:51:00","EV","Capital One Arena","H","L",0,0
+"2017-10-07","WSH","MTL",32,"Jakub Vrana","Evgeny Kuznetsov","Carey Price","1","00:20:00","EV","Capital One Arena","H","W",0,0
+"2017-10-07","WSH","MTL",32,"Evgeny Kuznetsov",NA,"Carey Price","1","18:10:00","EV","Capital One Arena","H","W",0,0
+"2017-10-07","WSH","MTL",32,"Evgeny Kuznetsov","John Carlson","Al Montoya","2","16:46:00","EV","Capital One Arena","H","W",0,0
+"2017-10-07","WSH","MTL",32,"Evgeny Kuznetsov","Nicklas Backstrom","Carey Price","1","02:51:00","PP","Capital One Arena","H","W",0,0
+"2017-10-05","WSH","OTT",32,"Evgeny Kuznetsov",NA,"Craig Anderson","3","04:15:00","EV","Canadian Tire Centre","A","SOW",0,0
+"2017-10-05","WSH","OTT",32,"Evgeny Kuznetsov","Jakub Vrana","Craig Anderson","3","05:38:00","EV","Canadian Tire Centre","A","SOW",0,0
+"2017-10-05","WSH","OTT",32,"Evgeny Kuznetsov","Jakub Vrana","Craig Anderson","3","10:48:00","EV","Canadian Tire Centre","A","SOW",0,0
+"2017-03-28","WSH","MIN",31,"Marcus Johansson","Nicklas Backstrom","Devan Dubnyk","2","07:31:00","PP","Xcel Energy Center","A","OTW",0,0
+"2017-03-28","WSH","MIN",31,"Kevin Shattenkirk","Marcus Johansson","Devan Dubnyk","2","12:28:00","PP","Xcel Energy Center","A","OTW",0,0
+"2017-03-28","WSH","MIN",31,"Nicklas Backstrom","Marcus Johansson","Devan Dubnyk","3","12:29:00","PP","Xcel Energy Center","A","OTW",0,0
+"2017-03-25","WSH","ARI",31,"Nicklas Backstrom","Marcus Johansson","Mike Smith","1","08:31:00","PP","Verizon Center","H","W",0,0
+"2017-03-21","WSH","CGY",31,"Kevin Shattenkirk","Nicklas Backstrom","Brian Elliott","3","17:09:00","PP","Verizon Center","H","W",0,0
+"2017-03-14","WSH","MIN",31,"John Carlson","Nicklas Backstrom","Devan Dubnyk","2","14:52:00","EV","Verizon Center","H","W",0,0
+"2017-02-19","WSH","NYR",31,"Lars Eller","Evgeny Kuznetsov","Henrik Lundqvist","2","17:24:00","PP","Madison Square Garden (IV)","A","L",0,0
+"2017-02-07","WSH","CAR",31,"Matt Niskanen","Nicklas Backstrom","Eddie Lack","1","10:23:00","PP","Verizon Center","H","W",0,0
+"2017-02-01","WSH","BOS",31,"Matt Niskanen","Nicklas Backstrom","Tuukka Rask","2","19:45:00","PP","Verizon Center","H","W",0,0
+"2017-01-31","WSH","NYI",31,"Nicklas Backstrom","Evgeny Kuznetsov","Thomas Greiss","3","19:13:00","EV","Barclays Center","A","L",0,0
+"2017-01-26","WSH","NJD",31,NA,NA,"Keith Kinkaid","1","06:14:00","EV","Prudential Center","A","W",0,0
+"2017-01-21","WSH","DAL",31,"Matt Niskanen","Nicklas Backstrom","Kari Lehtonen","3","03:18:00","PP","American Airlines Center","A","OTW",0,0
+"2017-01-11","WSH","PIT",31,"Nicklas Backstrom","T.J. Oshie","Marc-Andre Fleury","1","00:35:00","EV","Verizon Center","H","W",0,0
+"2017-01-11","WSH","PIT",31,"John Carlson","Nicklas Backstrom","Marc-Andre Fleury","2","08:06:00","PP","Verizon Center","H","W",0,0
+"2017-01-09","WSH","MTL",31,"Nicklas Backstrom","Marcus Johansson","Carey Price","3","16:36:00","PP","Bell Centre","A","W",0,0
+"2017-01-03","WSH","TOR",31,"John Carlson","Evgeny Kuznetsov","Frederik Andersen","OT","00:22:00","EV","Verizon Center","H","OTW",0,0
+"2016-12-31","WSH","NJD",31,"Matt Niskanen","T.J. Oshie","Keith Kinkaid","2","11:38:00","EV","Prudential Center","A","W",0,0
+"2016-12-27","WSH","NYI",31,"Justin Williams","Evgeny Kuznetsov","Jaroslav Halak","3","01:17:00","EV","Barclays Center","A","L",0,0
+"2016-12-23","WSH","TBL",31,"Dmitry Orlov",NA,"Andrei Vasilevskiy","2","10:48:00","EV","Verizon Center","H","W",0,0
+"2016-12-16","WSH","CAR",31,"Nicklas Backstrom","John Carlson","Cam Ward","2","06:25:00","PP","PNC Arena","A","SOW",0,0
+"2016-12-11","WSH","VAN",31,"John Carlson","Nicklas Backstrom","Jacob Markstrom","1","13:46:00","PP","Verizon Center","H","W",0,0
+"2016-11-23","WSH","STL",31,"John Carlson","Andre Burakovsky","Carter Hutton","2","10:12:00","EV","Verizon Center","H","W",0,0
+"2016-11-23","WSH","STL",31,NA,NA,"Carter Hutton","3","06:53:00","EV","Verizon Center","H","W",0,0
+"2016-11-23","WSH","STL",31,"Evgeny Kuznetsov","Nicklas Backstrom","Carter Hutton","1","17:28:00","PP","Verizon Center","H","W",0,0
+"2016-11-20","WSH","CBJ",31,"Nicklas Backstrom","Matt Niskanen","Sergei Bobrovsky","2","10:31:00","PP","Verizon Center","H","L",0,0
+"2016-11-16","WSH","PIT",31,"Andre Burakovsky",NA,"Marc-Andre Fleury","3","10:26:00","EV","Verizon Center","H","W",0,0
+"2016-11-05","WSH","FLA",31,"Brooks Orpik","Nate Schmidt","Roberto Luongo","3","08:42:00","EV","Verizon Center","H","W",0,0
+"2016-11-03","WSH","WPG",31,"John Carlson","Nicklas Backstrom","Michael Hutchinson","2","10:04:00","EV","Verizon Center","H","OTW",0,0
+"2016-11-03","WSH","WPG",31,"John Carlson","Nicklas Backstrom","Michael Hutchinson","OT","03:21:00","PP","Verizon Center","H","OTW",0,0
+"2016-10-26","WSH","EDM",31,"Matt Niskanen","Andre Burakovsky","Cam Talbot","3","00:09:00","EV","Rogers Place","A","L",0,0
+"2016-10-22","WSH","NYR",31,"Evgeny Kuznetsov","Dmitry Orlov","Henrik Lundqvist","1","14:49:00","EV","Verizon Center","H","L",0,0
+"2016-10-20","WSH","FLA",31,"Matt Niskanen","Karl Alzner","Roberto Luongo","3","07:33:00","EV","BB&T Center","A","W",0,0
+"2016-10-18","WSH","COL",31,"Dmitry Orlov","Marcus Johansson","Semyon Varlamov","1","15:44:00","PP","Verizon Center","H","W",0,0
+"2016-04-09","WSH","STL",30,"John Carlson","Nicklas Backstrom","Brian Elliott","1","04:04:00","EV","Scottrade Center","A","W",0,0
+"2016-04-09","WSH","STL",30,"Nicklas Backstrom",NA,"Brian Elliott","1","06:49:00","EV","Scottrade Center","A","W",0,0
+"2016-04-09","WSH","STL",30,"Nicklas Backstrom","T.J. Oshie","Anders Nilsson","3","10:35:00","EV","Scottrade Center","A","W",0,0
+"2016-04-05","WSH","NYI",30,"T.J. Oshie","Marcus Johansson","Christopher Gibson","1","04:29:00","EV","Verizon Center","H","OTL",0,0
+"2016-04-05","WSH","NYI",30,"T.J. Oshie","Marcus Johansson","Christopher Gibson","3","06:56:00","EV","Verizon Center","H","OTL",0,0
+"2016-04-01","WSH","COL",30,"Marcus Johansson","Evgeny Kuznetsov","Semyon Varlamov","2","12:57:00","PP","Pepsi Center","A","W",0,0
+"2016-03-30","WSH","PHI",30,"Evgeny Kuznetsov","Justin Williams","Steve Mason","3","01:28:00","PP","Wells Fargo Center","A","SOL",0,0
+"2016-03-22","WSH","OTT",30,"Marcus Johansson","Nicklas Backstrom","Craig Anderson","1","12:22:00","PP","Canadian Tire Centre","A","W",0,0
+"2016-03-15","WSH","CAR",30,"Evgeny Kuznetsov",NA,"Eddie Lack","OT","01:38:00","EV","Verizon Center","H","OTW",0,0
+"2016-03-02","WSH","TOR",30,"Nicklas Backstrom","T.J. Oshie","Jonathan Bernier","1","18:43:00","EV","Verizon Center","H","W",0,0
+"2016-02-26","WSH","MIN",30,"Matt Niskanen","Nicklas Backstrom","Darcy Kuemper","3","04:35:00","PP","Verizon Center","H","W",0,0
+"2016-02-22","WSH","ARI",30,"Justin Williams","Evgeny Kuznetsov","Louis Domingue","3","08:17:00","EV","Verizon Center","H","W",0,0
+"2016-02-20","WSH","NJD",30,"Dmitry Orlov",NA,"Cory Schneider","1","17:02:00","EV","Verizon Center","H","W",0,0
+"2016-02-18","WSH","NYI",30,"Evgeny Kuznetsov","Justin Williams","Thomas Greiss","2","01:25:00","EV","Barclays Center","A","OTW",0,0
+"2016-02-18","WSH","NYI",30,"Nicklas Backstrom","T.J. Oshie","Thomas Greiss","2","02:52:00","PP","Barclays Center","A","OTW",0,0
+"2016-02-13","WSH","DAL",30,"John Carlson","Nicklas Backstrom","Kari Lehtonen","3","04:03:00","PP","American Airlines Center","A","L",0,0
+"2016-02-11","WSH","MIN",30,"T.J. Oshie","Nicklas Backstrom","Devan Dubnyk","2","02:14:00","EV","Xcel Energy Center","A","W",0,0
+"2016-02-11","WSH","MIN",30,"Nicklas Backstrom",NA,"Devan Dubnyk","2","14:55:00","EV","Xcel Energy Center","A","W",0,0
+"2016-02-11","WSH","MIN",30,"John Carlson","Nicklas Backstrom","Devan Dubnyk","2","05:21:00","PP","Xcel Energy Center","A","W",0,0
+"2016-02-09","WSH","NSH",30,"Nicklas Backstrom","Marcus Johansson",NA,"3","19:00:00","PP","Bridgestone Arena","A","W",1,0
+"2016-02-07","WSH","PHI",30,"Karl Alzner",NA,"Steve Mason","2","15:56:00","EV","Verizon Center","H","W",0,0
+"2016-02-04","WSH","NYI",30,"Nicklas Backstrom","T.J. Oshie","Jaroslav Halak","3","17:20:00","EV","Verizon Center","H","W",0,0
+"2016-01-19","WSH","CBJ",30,"Evgeny Kuznetsov","Matt Niskanen","Sergei Bobrovsky","2","03:16:00","PP","Nationwide Arena","A","W",0,0
+"2016-01-17","WSH","NYR",30,"Evgeny Kuznetsov","Dmitry Orlov","Antti Raanta","1","18:01:00","PP","Verizon Center","H","W",0,0
+"2016-01-10","WSH","OTT",30,"Nicklas Backstrom","T.J. Oshie","Andrew Hammond","3","09:46:00","EV","Verizon Center","H","W",0,0
+"2016-01-10","WSH","OTT",30,"Jason Chimera","Andre Burakovsky","Andrew Hammond","2","16:19:00","PP","Verizon Center","H","W",0,0
+"2016-01-09","WSH","NYR",30,"Nate Schmidt",NA,"Henrik Lundqvist","OT","01:25:00","EV","Madison Square Garden (IV)","A","OTW",0,0
+"2016-01-09","WSH","NYR",30,NA,NA,"Henrik Lundqvist","1","19:45:00","PP","Madison Square Garden (IV)","A","OTW",0,0
+"2016-01-07","WSH","NYI",30,"Karl Alzner",NA,"Jaroslav Halak","1","15:45:00","EV","Barclays Center","A","W",0,0
+"2015-12-31","WSH","CAR",30,"Brooks Laich",NA,"Eddie Lack","3","14:16:00","EV","PNC Arena","A","L",0,0
+"2015-12-30","WSH","BUF",30,"Evgeny Kuznetsov","T.J. Oshie","Chad Johnson","3","01:24:00","EV","Verizon Center","H","W",0,0
+"2015-12-30","WSH","BUF",30,NA,NA,NA,"3","18:47:00","EV","Verizon Center","H","W",1,0
+"2015-12-28","WSH","BUF",30,"Nicklas Backstrom","T.J. Oshie","Linus Ullmark","2","00:19:00","EV","First Niagara Center","A","W",0,0
+"2015-12-20","WSH","NYR",30,"Marcus Johansson","Nicklas Backstrom","Henrik Lundqvist","2","11:03:00","PP","Madison Square Garden (IV)","A","W",0,0
+"2015-12-18","WSH","TBL",30,"T.J. Oshie","John Carlson","Ben Bishop","2","13:49:00","PP","Verizon Center","H","W",0,0
+"2015-12-18","WSH","TBL",30,"Jason Chimera","Justin Williams","Ben Bishop","3","10:02:00","PP","Verizon Center","H","W",0,0
+"2015-12-10","WSH","FLA",30,"John Carlson","Nicklas Backstrom","Al Montoya","3","17:52:00","EV","BB&T Center","A","L",0,0
+"2015-12-08","WSH","DET",30,"Marcus Johansson","Nicklas Backstrom","Jimmy Howard","3","10:51:00","PP","Verizon Center","H","SOW",0,0
+"2015-11-27","WSH","TBL",30,"Jason Chimera","Evgeny Kuznetsov","Andrei Vasilevskiy","1","07:09:00","PP","Verizon Center","H","W",0,0
+"2015-11-25","WSH","WPG",30,"John Carlson","Nicklas Backstrom","Michael Hutchinson","1","18:46:00","PP","Verizon Center","H","W",0,0
+"2015-11-21","WSH","COL",30,"Nicklas Backstrom","Taylor Chorney","Reto Berra","1","07:15:00","EV","Verizon Center","H","W",0,0
+"2015-11-19","WSH","DAL",30,"Nicklas Backstrom","T.J. Oshie","Kari Lehtonen","3","07:01:00","EV","Verizon Center","H","L",0,0
+"2015-11-07","WSH","TOR",30,"Evgeny Kuznetsov","Nicklas Backstrom","James Reimer","2","04:51:00","PP","Verizon Center","H","SOW",0,0
+"2015-11-05","WSH","BOS",30,"Evgeny Kuznetsov","John Carlson","Tuukka Rask","1","17:27:00","EV","Verizon Center","H","W",0,0
+"2015-11-03","WSH","NYR",30,"Nate Schmidt",NA,"Henrik Lundqvist","1","15:45:00","EV","Madison Square Garden (IV)","A","L",0,0
+"2015-10-22","WSH","VAN",30,"Evgeny Kuznetsov","Dmitry Orlov","Ryan Miller","3","15:05:00","EV","Rogers Arena","A","W",0,0
+"2015-10-20","WSH","CGY",30,"Brooks Orpik","Evgeny Kuznetsov","Karri Ramo","2","00:30:00","EV","Scotiabank Saddledome","A","W",0,0
+"2015-10-17","WSH","CAR",30,NA,NA,"Cam Ward","3","16:11:00","EV","Verizon Center","H","W",0,0
+"2015-10-15","WSH","CHI",30,"Evgeny Kuznetsov","T.J. Oshie","Scott Darling","3","14:18:00","EV","Verizon Center","H","W",0,0
+"2015-10-10","WSH","NJD",30,"Matt Niskanen",NA,"Keith Kinkaid","3","06:33:00","EV","Verizon Center","H","W",0,0
+"2015-04-11","WSH","NYR",29,"John Carlson","Nicklas Backstrom","Henrik Lundqvist","2","06:31:00","PP","Verizon Center","H","L",0,0
+"2015-04-02","WSH","MTL",29,"John Carlson","Braden Holtby","Carey Price","2","14:08:00","PP","Bell Centre","A","SOW",0,0
+"2015-04-02","WSH","MTL",29,"John Carlson","Nicklas Backstrom","Carey Price","3","11:06:00","PP","Bell Centre","A","SOW",0,0
+"2015-03-31","WSH","CAR",29,"Evgeny Kuznetsov","Matt Niskanen","Cam Ward","1","11:12:00","EV","Verizon Center","H","W",0,0
+"2015-03-29","WSH","NYR",29,"Joel Ward","John Carlson","Cam Talbot","1","04:32:00","EV","Madison Square Garden (IV)","A","W",0,0
+"2015-03-29","WSH","NYR",29,"Nicklas Backstrom","Matt Niskanen","Cam Talbot","2","11:17:00","PP","Madison Square Garden (IV)","A","W",0,0
+"2015-03-19","WSH","MIN",29,"Karl Alzner","Matt Niskanen","Devan Dubnyk","2","15:25:00","EV","Xcel Energy Center","A","W",0,0
+"2015-03-19","WSH","MIN",29,"Nicklas Backstrom",NA,"Devan Dubnyk","3","03:05:00","EV","Xcel Energy Center","A","W",0,0
+"2015-03-11","WSH","NYR",29,"Evgeny Kuznetsov","Joel Ward","Cam Talbot","1","11:43:00","PP","Verizon Center","H","L",0,0
+"2015-03-07","WSH","BUF",29,"John Carlson","Nicklas Backstrom","Matt Hackett","2","09:31:00","PP","Verizon Center","H","W",0,0
+"2015-03-03","WSH","CBJ",29,"Brooks Orpik","Nicklas Backstrom","Sergei Bobrovsky","1","03:37:00","EV","Nationwide Arena","A","W",0,0
+"2015-03-03","WSH","CBJ",29,"Nicklas Backstrom","John Carlson","Sergei Bobrovsky","3","03:17:00","PP","Nationwide Arena","A","W",0,0
+"2015-03-01","WSH","TOR",29,"Nicklas Backstrom","Karl Alzner","James Reimer","1","00:33:00","EV","Verizon Center","H","W",0,0
+"2015-03-01","WSH","TOR",29,"Brooks Orpik","John Carlson","James Reimer","2","05:30:00","EV","Verizon Center","H","W",0,0
+"2015-02-25","WSH","PIT",29,"John Carlson","Troy Brouwer","Marc-Andre Fleury","3","16:26:00","PP","Verizon Center","H","L",0,0
+"2015-02-19","WSH","WPG",29,"Karl Alzner","Matt Niskanen","Ondrej Pavelec","1","18:35:00","EV","Verizon Center","H","W",0,0
+"2015-02-17","WSH","PIT",29,"Joel Ward","Mike Green","Marc-Andre Fleury","1","18:36:00","PP","CONSOL Energy Center","A","W",0,0
+"2015-02-15","WSH","ANA",29,"Nicklas Backstrom",NA,"John Gibson","1","01:22:00","EV","Honda Center","A","W",0,0
+"2015-02-15","WSH","ANA",29,"Mike Green","Nicklas Backstrom","John Gibson","1","10:26:00","PP","Honda Center","A","W",0,0
+"2015-02-14","WSH","LAK",29,"Evgeny Kuznetsov",NA,"Jonathan Quick","3","01:55:00","EV","STAPLES Center","A","L",0,0
+"2015-02-08","WSH","PHI",29,"Evgeny Kuznetsov","Nicklas Backstrom","Ray Emery","2","13:29:00","PP","Verizon Center","H","L",0,0
+"2015-02-05","WSH","OTT",29,"Jay Beagle","Marcus Johansson","Robin Lehner","2","14:17:00","EV","Canadian Tire Centre","A","W",0,0
+"2015-02-01","WSH","STL",29,"Nicklas Backstrom",NA,"Brian Elliott","2","14:30:00","EV","Verizon Center","H","L",0,0
+"2015-02-01","WSH","STL",29,"Mike Green","Nicklas Backstrom","Brian Elliott","1","09:50:00","PP","Verizon Center","H","L",0,0
+"2015-01-28","WSH","PIT",29,"Karl Alzner","Nicklas Backstrom","Marc-Andre Fleury","1","04:50:00","EV","Verizon Center","H","W",0,0
+"2015-01-28","WSH","PIT",29,"Mike Green","Nicklas Backstrom","Marc-Andre Fleury","2","17:19:00","PP","Verizon Center","H","W",0,0
+"2015-01-20","WSH","EDM",29,"Andre Burakovsky","Mike Green","Viktor Fasth","1","01:48:00","EV","Verizon Center","H","SOL",0,0
+"2015-01-20","WSH","EDM",29,"Mike Green","Marcus Johansson","Viktor Fasth","1","13:58:00","PP","Verizon Center","H","SOL",0,0
+"2015-01-17","WSH","DAL",29,"Nicklas Backstrom",NA,"Kari Lehtonen","3","00:21:00","EV","American Airlines Center","A","L",0,0
+"2015-01-16","WSH","NSH",29,"Karl Alzner","Nicklas Backstrom","Carter Hutton","2","03:46:00","EV","Bridgestone Arena","A","L",0,0
+"2015-01-16","WSH","NSH",29,"Mike Green","Troy Brouwer","Carter Hutton","2","06:18:00","PP","Bridgestone Arena","A","L",0,0
+"2015-01-12","WSH","COL",29,"Troy Brouwer","Nicklas Backstrom","Semyon Varlamov","2","17:46:00","PP","Verizon Center","H","W",0,0
+"2015-01-08","WSH","PHI",29,"Mike Green","Marcus Johansson","Steve Mason","1","03:08:00","PP","Wells Fargo Center","A","OTL",0,0
+"2015-01-07","WSH","TOR",29,NA,NA,NA,"3","19:33:00","EV","Air Canada Centre","A","W",1,0
+"2015-01-04","WSH","FLA",29,"Nicklas Backstrom","Marcus Johansson","Roberto Luongo","2","01:16:00","PP","Verizon Center","H","W",0,0
+"2015-01-01","WSH","CHI",29,"Mike Green","Jack Hillen","Corey Crawford","1","11:58:00","EV","Nationals Park","H","W",0,0
+"2014-12-29","WSH","NYI",29,"Nicklas Backstrom",NA,"Jaroslav Halak","3","17:19:00","EV","Nassau Veterans Memorial Coliseum","A","OTL",0,0
+"2014-12-23","WSH","NYR",29,"John Carlson","Marcus Johansson","Henrik Lundqvist","3","10:58:00","PP","Madison Square Garden (IV)","A","L",0,0
+"2014-12-20","WSH","NJD",29,"Nicklas Backstrom",NA,"Cory Schneider","3","07:16:00","EV","Prudential Center","A","W",0,0
+"2014-12-09","WSH","TBL",29,"Tom Wilson","John Carlson","Ben Bishop","1","00:40:00","EV","Amalie Arena","A","W",0,0
+"2014-12-09","WSH","TBL",29,"Nicklas Backstrom",NA,NA,"3","19:59:00","EV","Amalie Arena","A","W",1,0
+"2014-11-28","WSH","NYI",29,"Tom Wilson","Nicklas Backstrom","Chad Johnson","2","09:53:00","EV","Verizon Center","H","W",0,0
+"2014-11-26","WSH","NYI",29,"Matt Niskanen","Nicklas Backstrom","Jaroslav Halak","1","13:46:00","PP","Nassau Veterans Memorial Coliseum","A","OTL",0,0
+"2014-11-26","WSH","NYI",29,"Nicklas Backstrom","Marcus Johansson","Jaroslav Halak","2","18:47:00","PP","Nassau Veterans Memorial Coliseum","A","OTL",0,0
+"2014-11-20","WSH","COL",29,"Brooks Orpik","Nicklas Backstrom","Reto Berra","3","14:04:00","EV","Pepsi Center","A","W",0,0
+"2014-11-11","WSH","CBJ",29,"Jay Beagle","Nicklas Backstrom","Curtis McElhinney","1","16:04:00","EV","Verizon Center","H","W",0,0
+"2014-11-11","WSH","CBJ",29,"Mike Green","Nicklas Backstrom","Curtis McElhinney","1","07:49:00","PP","Verizon Center","H","W",0,0
+"2014-11-02","WSH","ARI",29,"Mike Green","Nicklas Backstrom","Devan Dubnyk","1","16:09:00","PP","Verizon Center","H","L",0,0
+"2014-10-16","WSH","NJD",29,"Troy Brouwer","Brooks Orpik","Cory Schneider","1","00:34:00","EV","Verizon Center","H","W",0,0
+"2014-10-14","WSH","SJS",29,"Nicklas Backstrom","Eric Fehr","Antti Niemi","2","07:09:00","EV","Verizon Center","H","SOL",0,0
+"2014-10-14","WSH","SJS",29,"Nicklas Backstrom","John Carlson","Antti Niemi","3","14:09:00","PP","Verizon Center","H","SOL",0,0
+"2014-10-11","WSH","BOS",29,"Nicklas Backstrom","Karl Alzner","Tuukka Rask","1","18:39:00","EV","TD Garden","A","W",0,0
+"2014-10-11","WSH","BOS",29,"John Carlson","Nicklas Backstrom","Tuukka Rask","1","11:26:00","PP","TD Garden","A","W",0,0
+"2014-04-11","WSH","CHI",28,"John Carlson","Nicklas Backstrom","Corey Crawford","1","02:04:00","PP","Verizon Center","H","W",0,0
+"2014-04-08","WSH","STL",28,"John Carlson","Joel Ward","Ryan Miller","1","17:54:00","PP","Scottrade Center","A","W",0,0
+"2014-04-04","WSH","NJD",28,"Mikhail Grabovski","Nicklas Backstrom","Cory Schneider","1","10:12:00","EV","Prudential Center","A","L",0,0
+"2014-03-25","WSH","LAK",28,"John Carlson","Troy Brouwer","Jonathan Quick","1","02:24:00","PP","Verizon Center","H","SOL",0,0
+"2014-03-25","WSH","LAK",28,"Troy Brouwer","Nicklas Backstrom","Jonathan Quick","1","07:04:00","PP","Verizon Center","H","SOL",0,0
+"2014-03-18","WSH","ANA",28,"John Carlson","Nicklas Backstrom","Jonas Hiller","3","02:44:00","PP","Honda Center","A","W",0,0
+"2014-03-14","WSH","VAN",28,"John Carlson","Evgeny Kuznetsov","Eddie Lack","2","08:28:00","PP","Verizon Center","H","W",0,0
+"2014-03-05","WSH","PHI",28,"Nicklas Backstrom","John Carlson","Steve Mason","3","06:35:00","PP","Wells Fargo Center","A","L",0,0
+"2014-03-01","WSH","BOS",28,"John Carlson","Nicklas Backstrom","Tuukka Rask","1","18:39:00","PP","TD Garden","A","W",0,0
+"2014-03-01","WSH","BOS",28,"Marcus Johansson","Joel Ward","Tuukka Rask","2","02:24:00","PP","TD Garden","A","W",0,0
+"2014-02-27","WSH","FLA",28,"Brooks Laich","Nicklas Backstrom","Tim Thomas","3","15:43:00","EV","BB&T Center","A","W",0,0
+"2014-02-06","WSH","WPG",28,"Nicklas Backstrom","Karl Alzner","Ondrej Pavelec","3","07:46:00","EV","Verizon Center","H","W",0,0
+"2014-02-02","WSH","DET",28,"John Carlson","Nicklas Backstrom","Jimmy Howard","OT","02:37:00","PP","Verizon Center","H","OTW",0,0
+"2014-01-28","WSH","BUF",28,"Mike Green","Marcus Johansson","Jhonas Enroth","1","04:42:00","EV","First Niagara Center","A","OTW",0,0
+"2014-01-28","WSH","BUF",28,"Nicklas Backstrom","Troy Brouwer","Jhonas Enroth","1","03:49:00","PP","First Niagara Center","A","OTW",0,0
+"2014-01-25","WSH","MTL",28,"Jason Chimera","Joel Ward","Carey Price","2","01:46:00","EV","Bell Centre","A","W",0,0
+"2014-01-19","WSH","NYR",28,"Mike Green","Nicklas Backstrom","Henrik Lundqvist","2","00:59:00","PP","Madison Square Garden (IV)","A","L",0,0
+"2014-01-15","WSH","PIT",28,"Marcus Johansson","Mike Green","Marc-Andre Fleury","3","08:35:00","EV","CONSOL Energy Center","A","L",0,0
+"2014-01-14","WSH","SJS",28,"Karl Alzner","Mikhail Grabovski","Antti Niemi","2","12:44:00","EV","Verizon Center","H","SOL",0,0
+"2014-01-10","WSH","TOR",28,"Mikhail Grabovski","Mike Green","Jonathan Bernier","2","06:39:00","EV","Verizon Center","H","W",0,0
+"2014-01-02","WSH","CAR",28,"Marcus Johansson","Karl Alzner","Anton Khudobin","2","00:49:00","EV","Verizon Center","H","OTL",0,0
+"2013-12-21","WSH","NJD",28,"Karl Alzner",NA,"Martin Brodeur","3","08:07:00","EV","Verizon Center","H","OTL",0,0
+"2013-12-20","WSH","CAR",28,"Nicklas Backstrom","Martin Erat",NA,"3","19:35:00","EV","PNC Arena","A","W",1,0
+"2013-12-17","WSH","PHI",28,"Nicklas Backstrom","Marcus Johansson","Steve Mason","2","00:40:00","PP","Wells Fargo Center","A","L",0,0
+"2013-12-15","WSH","PHI",28,"Joel Ward",NA,"Steve Mason","3","19:12:00","EV","Verizon Center","H","SOW",0,0
+"2013-12-10","WSH","TBL",28,"Nicklas Backstrom",NA,"Ben Bishop","1","14:15:00","EV","Verizon Center","H","SOW",0,0
+"2013-12-10","WSH","TBL",28,"John Carlson","Nicklas Backstrom","Ben Bishop","3","19:27:00","EV","Verizon Center","H","SOW",0,0
+"2013-12-10","WSH","TBL",28,"Marcus Johansson","Nicklas Backstrom","Ben Bishop","2","16:38:00","PP","Verizon Center","H","SOW",0,0
+"2013-12-10","WSH","TBL",28,"Mike Green","Nicklas Backstrom","Ben Bishop","2","18:48:00","PP","Verizon Center","H","SOW",0,0
+"2013-12-07","WSH","NSH",28,"Nicklas Backstrom",NA,"Marek Mazanec","1","13:09:00","PP","Verizon Center","H","W",0,0
+"2013-11-30","WSH","NYI",28,"Mikhail Grabovski","Nate Schmidt","Anders Nilsson","OT","02:07:00","EV","Nassau Veterans Memorial Coliseum","A","OTW",0,0
+"2013-11-23","WSH","TOR",28,"Mike Green",NA,"James Reimer","3","15:50:00","EV","Air Canada Centre","A","SOL",0,0
+"2013-11-22","WSH","MTL",28,"John Carlson","Mikhail Grabovski","Peter Budaj","3","12:27:00","EV","Verizon Center","H","L",0,0
+"2013-11-22","WSH","MTL",28,"John Carlson","Troy Brouwer","Peter Budaj","1","19:37:00","PP","Verizon Center","H","L",0,0
+"2013-11-17","WSH","STL",28,"Nicklas Backstrom","Steven Oleksy","Jaroslav Halak","1","07:17:00","EV","Verizon Center","H","W",0,0
+"2013-11-17","WSH","STL",28,"Karl Alzner","Nicklas Backstrom","Jaroslav Halak","1","12:34:00","EV","Verizon Center","H","W",0,0
+"2013-11-15","WSH","DET",28,"Marcus Johansson","Nicklas Backstrom","Jimmy Howard","3","03:19:00","EV","Joe Louis Arena","A","SOW",0,0
+"2013-11-12","WSH","CBJ",28,"Marcus Johansson","John Carlson","Sergei Bobrovsky","OT","01:34:00","EV","Verizon Center","H","OTW",0,0
+"2013-11-07","WSH","MIN",28,"Nicklas Backstrom","Marcus Johansson","Josh Harding","1","08:10:00","PP","Verizon Center","H","SOW",0,0
+"2013-11-05","WSH","NYI",28,"Nicklas Backstrom",NA,"Evgeni Nabokov","2","04:21:00","PP","Verizon Center","H","W",0,0
+"2013-11-05","WSH","NYI",28,"Marcus Johansson","Nicklas Backstrom","Evgeni Nabokov","2","17:18:00","PP","Verizon Center","H","W",0,0
+"2013-10-24","WSH","EDM",28,"Marcus Johansson","Nicklas Backstrom","Devan Dubnyk","1","18:13:00","EV","Rexall Place","A","W",0,0
+"2013-10-22","WSH","WPG",28,"Marcus Johansson",NA,"Ondrej Pavelec","2","15:50:00","EV","MTS Centre","A","SOW",0,0
+"2013-10-22","WSH","WPG",28,"Marcus Johansson",NA,"Ondrej Pavelec","2","18:02:00","EV","MTS Centre","A","SOW",0,0
+"2013-10-19","WSH","CBJ",28,"Mike Green","Martin Erat","Sergei Bobrovsky","3","06:34:00","PP","Verizon Center","H","W",0,0
+"2013-10-14","WSH","EDM",28,"Marcus Johansson","Nicklas Backstrom","Jason LaBarbera","2","13:18:00","EV","Verizon Center","H","W",0,0
+"2013-10-10","WSH","CAR",28,"Steven Oleksy","Nicklas Backstrom","Anton Khudobin","2","13:52:00","EV","Verizon Center","H","L",0,0
+"2013-10-05","WSH","DAL",28,"Mike Green","Marcus Johansson","Kari Lehtonen","1","04:26:00","PP","American Airlines Center","A","L",0,0
+"2013-10-03","WSH","CGY",28,"Marcus Johansson","Nicklas Backstrom","Karri Ramo","2","15:25:00","EV","Verizon Center","H","SOW",0,0
+"2013-10-03","WSH","CGY",28,"Mike Green","Marcus Johansson","Karri Ramo","2","11:24:00","PP","Verizon Center","H","SOW",0,0
+"2013-10-01","WSH","CHI",28,"Mikhail Grabovski","Nicklas Backstrom","Corey Crawford","1","10:42:00","PP","United Center","A","L",0,0
+"2013-04-25","WSH","OTT",27,"Marcus Johansson","Mike Green","Craig Anderson","3","08:31:00","EV","Verizon Center","H","OTL",0,0
+"2013-04-23","WSH","WPG",27,"Nicklas Backstrom","Marcus Johansson",NA,"3","19:31:00","EV","Verizon Center","H","W",1,0
+"2013-04-20","WSH","MTL",27,"Nicklas Backstrom",NA,"Carey Price","1","04:49:00","EV","Bell Centre","A","W",0,0
+"2013-04-20","WSH","MTL",27,"Mike Green","Mike Ribeiro","Carey Price","3","13:23:00","PP","Bell Centre","A","W",0,0
+"2013-04-16","WSH","TOR",27,"Mike Green","Mike Ribeiro","Ben Scrivens","2","13:59:00","PP","Verizon Center","H","W",0,0
+"2013-04-13","WSH","TBL",27,"Nicklas Backstrom",NA,"Ben Bishop","1","19:22:00","EV","Verizon Center","H","OTW",0,0
+"2013-04-09","WSH","MTL",27,"John Carlson","Nicklas Backstrom","Carey Price","2","07:50:00","EV","Bell Centre","A","W",0,0
+"2013-04-07","WSH","TBL",27,"Jack Hillen","Nicklas Backstrom","Ben Bishop","2","03:14:00","EV","Verizon Center","H","W",0,0
+"2013-04-07","WSH","TBL",27,"Mike Ribeiro",NA,NA,"3","19:55:00","EV","Verizon Center","H","W",1,0
+"2013-04-06","WSH","FLA",27,"Nicklas Backstrom","Marcus Johansson","Jacob Markstrom","2","02:24:00","EV","BB&T Center","A","W",0,0
+"2013-04-06","WSH","FLA",27,"Mike Ribeiro","Nicklas Backstrom","Jacob Markstrom","1","15:45:00","PP","BB&T Center","A","W",0,0
+"2013-04-06","WSH","FLA",27,"Marcus Johansson","Nicklas Backstrom","Jacob Markstrom","2","14:22:00","PP","BB&T Center","A","W",0,0
+"2013-04-02","WSH","CAR",27,"Nicklas Backstrom","John Carlson","Dan Ellis","1","19:21:00","EV","PNC Arena","A","W",0,0
+"2013-04-02","WSH","CAR",27,"Nicklas Backstrom","Marcus Johansson","Justin Peters","2","11:06:00","EV","PNC Arena","A","W",0,0
+"2013-03-31","WSH","PHI",27,"John Carlson","Troy Brouwer","Ilya Bryzgalov","3","06:48:00","PP","Wells Fargo Center","A","OTL",0,0
+"2013-03-30","WSH","BUF",27,"Mike Green","Brooks Laich","Jhonas Enroth","2","02:21:00","PP","First Niagara Center","A","SOW",0,0
+"2013-03-24","WSH","NYR",27,"Steven Oleksy","Nicklas Backstrom","Henrik Lundqvist","1","09:45:00","EV","Madison Square Garden (IV)","A","SOW",0,0
+"2013-03-22","WSH","WPG",27,"Marcus Johansson","Karl Alzner","Al Montoya","2","07:35:00","EV","MTS Centre","A","W",0,0
+"2013-03-22","WSH","WPG",27,"John Carlson","Nicklas Backstrom","Al Montoya","3","15:58:00","PP","MTS Centre","A","W",0,0
+"2013-03-21","WSH","WPG",27,"Nicklas Backstrom","John Carlson","Ondrej Pavelec","3","14:06:00","PP","MTS Centre","A","W",0,0
+"2013-03-19","WSH","PIT",27,"Troy Brouwer","Mike Ribeiro","Marc-Andre Fleury","2","08:14:00","PP","CONSOL Energy Center","A","L",0,0
+"2013-03-17","WSH","BUF",27,"Marcus Johansson","Nicklas Backstrom","Ryan Miller","1","00:19:00","EV","Verizon Center","H","W",0,0
+"2013-03-14","WSH","CAR",27,"Troy Brouwer","Nicklas Backstrom","Dan Ellis","3","01:01:00","PP","PNC Arena","A","W",0,0
+"2013-03-07","WSH","FLA",27,"Troy Brouwer","Mike Ribeiro","Scott Clemmensen","2","09:17:00","PP","Verizon Center","H","W",0,0
+"2013-02-23","WSH","NJD",27,"Mike Ribeiro","Jason Chimera","Johan Hedberg","2","05:20:00","EV","Verizon Center","H","W",0,0
+"2013-02-23","WSH","NJD",27,"Matt Hendricks","Jeff Schultz","Johan Hedberg","3","01:23:00","EV","Verizon Center","H","W",0,0
+"2013-02-23","WSH","NJD",27,"Mike Ribeiro","Nicklas Backstrom","Johan Hedberg","3","15:13:00","PP","Verizon Center","H","W",0,0
+"2013-02-12","WSH","FLA",27,"Mike Ribeiro","Nicklas Backstrom","Scott Clemmensen","3","17:11:00","PP","BB&T Center","A","OTW",0,0
+"2013-02-09","WSH","FLA",27,"Jason Chimera","Mike Ribeiro","Jose Theodore","3","03:49:00","EV","Verizon Center","H","W",0,0
+"2013-02-07","WSH","PIT",27,"Mike Ribeiro","Mike Green","Marc-Andre Fleury","3","08:34:00","PP","CONSOL Energy Center","A","L",0,0
+"2013-01-31","WSH","TOR",27,"Mike Ribeiro","Nicklas Backstrom","James Reimer","2","02:38:00","PP","Air Canada Centre","A","L",0,0
+"2013-01-27","WSH","BUF",27,"Mike Green","Mike Ribeiro","Ryan Miller","3","05:11:00","PP","Verizon Center","H","W",0,0
+"2012-04-07","WSH","NYR",26,"Brooks Laich",NA,"Henrik Lundqvist","1","00:32:00","EV","Madison Square Garden (IV)","A","W",0,0
+"2012-04-05","WSH","FLA",26,"Marcus Johansson",NA,"Jose Theodore","2","07:49:00","EV","Verizon Center","H","W",0,0
+"2012-03-25","WSH","MIN",26,"Marcus Johansson","John Carlson","Matt Hackett","3","08:31:00","EV","Verizon Center","H","W",0,0
+"2012-03-23","WSH","WPG",26,"Brooks Laich","Mike Knuble","Ondrej Pavelec","2","01:42:00","EV","Verizon Center","H","OTL",0,0
+"2012-03-23","WSH","WPG",26,"Mathieu Perreault","Jason Chimera","Ondrej Pavelec","2","05:47:00","EV","Verizon Center","H","OTL",0,0
+"2012-03-22","WSH","PHI",26,NA,NA,"Ilya Bryzgalov","1","00:26:00","EV","Wells Fargo Center","A","SOL",0,0
+"2012-03-19","WSH","DET",26,"Marcus Johansson","Dennis Wideman","Jimmy Howard","1","07:48:00","PP","Joe Louis Arena","A","W",0,0
+"2012-03-19","WSH","DET",26,"Brooks Laich","Alexander Semin","Jimmy Howard","1","14:51:00","PP","Joe Louis Arena","A","W",0,0
+"2012-03-18","WSH","CHI",26,"Michal Neuvirth","Dmitry Orlov","Corey Crawford","2","14:28:00","EV","United Center","A","L",0,0
+"2012-03-13","WSH","NYI",26,"Brooks Laich","Marcus Johansson","Evgeni Nabokov","2","19:07:00","EV","Nassau Veterans Memorial Coliseum","A","SOW",0,0
+"2012-03-13","WSH","NYI",26,"Keith Aucoin","Joel Ward","Evgeni Nabokov","3","10:15:00","EV","Nassau Veterans Memorial Coliseum","A","SOW",0,0
+"2012-03-08","WSH","TBL",26,"Dmitry Orlov","Jason Chimera","Dustin Tokarski","OT","04:09:00","EV","Verizon Center","H","OTW",0,0
+"2012-02-28","WSH","NYI",26,NA,NA,"Evgeni Nabokov","OT","01:35:00","EV","Verizon Center","H","OTW",0,0
+"2012-02-24","WSH","MTL",26,"Dmitry Orlov","Marcus Johansson","Carey Price","2","08:58:00","EV","Verizon Center","H","W",0,0
+"2012-02-17","WSH","FLA",26,"Alexander Semin","Mike Knuble","Jose Theodore","3","04:47:00","PP","BankAtlantic Center","A","W",0,0
+"2012-02-09","WSH","WPG",26,"Alexander Semin","Dennis Wideman","Ondrej Pavelec","3","09:46:00","PP","Verizon Center","H","SOL",0,0
+"2012-02-07","WSH","FLA",26,NA,NA,"Scott Clemmensen","2","11:47:00","EV","Verizon Center","H","W",0,0
+"2012-02-07","WSH","FLA",26,"Dennis Wideman","Marcus Johansson","Scott Clemmensen","1","09:21:00","PP","Verizon Center","H","W",0,0
+"2012-01-22","WSH","PIT",26,"Alexander Semin","Mathieu Perreault","Marc-Andre Fleury","3","01:08:00","EV","CONSOL Energy Center","A","OTL",0,0
+"2012-01-18","WSH","MTL",26,"Alexander Semin","Dennis Wideman","Carey Price","2","10:44:00","PP","Bell Centre","A","W",0,0
+"2012-01-13","WSH","TBL",26,"Marcus Johansson","Dennis Wideman","Dwayne Roloson","1","03:52:00","PP","Verizon Center","H","W",0,0
+"2012-01-03","WSH","CGY",26,"Marcus Johansson","Nicklas Backstrom","Miikka Kiprusoff","1","01:11:00","PP","Verizon Center","H","W",0,0
+"2011-12-31","WSH","CBJ",26,"Dennis Wideman",NA,"Steve Mason","3","04:23:00","EV","Nationwide Arena","A","W",0,0
+"2011-12-31","WSH","CBJ",26,"Dmitry Orlov","Karl Alzner","Steve Mason","3","11:03:00","PP","Nationwide Arena","A","W",0,0
+"2011-12-30","WSH","BUF",26,"Nicklas Backstrom","Alexander Semin","Ryan Miller","3","14:10:00","EV","Verizon Center","H","W",0,0
+"2011-12-30","WSH","BUF",26,"Tomas Vokoun",NA,"Ryan Miller","1","01:42:00","PP","Verizon Center","H","W",0,0
+"2011-12-26","WSH","BUF",26,"Nicklas Backstrom","Dennis Wideman","Ryan Miller","3","09:51:00","PP","First Niagara Center","A","L",0,0
+"2011-12-20","WSH","NSH",26,"Karl Alzner","John Carlson","Anders Lindback","1","07:42:00","EV","Verizon Center","H","W",0,0
+"2011-12-15","WSH","WPG",26,"Marcus Johansson","Nicklas Backstrom","Ondrej Pavelec","3","18:46:00","EV","MTS Centre","A","W",0,0
+"2011-12-07","WSH","OTT",26,"Nicklas Backstrom","Dmitry Orlov","Craig Anderson","3","13:50:00","EV","Scotiabank Place","A","W",0,0
+"2011-11-25","WSH","NYR",26,"Nicklas Backstrom","Troy Brouwer","Henrik Lundqvist","3","05:57:00","EV","Verizon Center","H","L",0,0
+"2011-11-11","WSH","NJD",26,"Dennis Wideman","Nicklas Backstrom","Martin Brodeur","2","17:33:00","EV","Prudential Center","A","W",0,0
+"2011-11-05","WSH","NYI",26,"Nicklas Backstrom","Jeff Schultz","Rick DiPietro","1","18:41:00","EV","Nassau Veterans Memorial Coliseum","A","L",0,0
+"2011-10-29","WSH","VAN",26,"Troy Brouwer","Nicklas Backstrom","Roberto Luongo","1","08:55:00","EV","Rogers Arena","A","L",0,0
+"2011-10-29","WSH","VAN",26,"Nicklas Backstrom","John Carlson","Roberto Luongo","2","01:25:00","PP","Rogers Arena","A","L",0,0
+"2011-10-20","WSH","PHI",26,"Nicklas Backstrom","Troy Brouwer","Ilya Bryzgalov","1","19:48:00","EV","Wells Fargo Center","A","W",0,0
+"2011-10-20","WSH","PHI",26,"Nicklas Backstrom","Dennis Wideman","Ilya Bryzgalov","3","03:54:00","PP","Wells Fargo Center","A","W",0,0
+"2011-10-13","WSH","PIT",26,"Mike Green","Nicklas Backstrom","Brent Johnson","3","00:40:00","EV","CONSOL Energy Center","A","OTW",0,0
+"2011-04-06","WSH","FLA",25,"Nicklas Backstrom",NA,NA,"3","19:48:00","EV","Verizon Center","H","W",1,0
+"2011-04-05","WSH","TOR",25,"Brooks Laich","Marco Sturm","James Reimer","1","11:28:00","PP","Air Canada Centre","A","SOW",0,0
+"2011-04-02","WSH","BUF",25,"John Carlson","Nicklas Backstrom","Jhonas Enroth","OT","03:19:00","EV","Verizon Center","H","OTW",0,0
+"2011-03-16","WSH","DET",25,"Alexander Semin","Scott Hannan","Jimmy Howard","2","05:53:00","EV","Joe Louis Arena","A","L",0,0
+"2011-03-11","WSH","CAR",25,"Marcus Johansson","Mike Knuble","Cam Ward","3","00:47:00","EV","Verizon Center","H","W",0,0
+"2011-03-09","WSH","EDM",25,"Marcus Johansson",NA,"Nikolai Khabibulin","3","03:10:00","EV","Verizon Center","H","W",0,0
+"2011-03-09","WSH","EDM",25,"Jason Arnott","Alexander Semin","Nikolai Khabibulin","2","05:38:00","PP","Verizon Center","H","W",0,0
+"2011-03-01","WSH","NYI",25,"John Carlson",NA,"Nathan Lawson","OT","01:55:00","EV","Verizon Center","H","OTW",0,0
+"2011-02-21","WSH","PIT",25,"Marcus Johansson","Mike Knuble","Marc-Andre Fleury","2","16:38:00","PP","CONSOL Energy Center","A","W",0,0
+"2011-02-17","WSH","SJS",25,"John Carlson","Alexander Semin","Antti Niemi","1","19:11:00","PP","HP Pavilion at San Jose","A","L",0,0
+"2011-02-16","WSH","ANA",25,"Nicklas Backstrom","Karl Alzner","Curtis McElhinney","1","10:43:00","EV","Honda Center","A","W",0,0
+"2011-02-12","WSH","LAK",25,NA,NA,"Jonathan Bernier","1","01:06:00","EV","Verizon Center","H","L",0,0
+"2011-02-04","WSH","TBL",25,"Nicklas Backstrom","John Carlson","Dwayne Roloson","2","08:25:00","PP","St. Pete Times Forum","A","W",0,0
+"2011-01-22","WSH","TOR",25,"Jeff Schultz","Nicklas Backstrom","Jean-Sebastien Giguere","1","14:27:00","EV","Air Canada Centre","A","W",0,0
+"2011-01-22","WSH","TOR",25,"Mike Green","Jason Chimera","Jean-Sebastien Giguere","3","01:12:00","EV","Air Canada Centre","A","W",0,0
+"2011-01-22","WSH","TOR",25,"Nicklas Backstrom","John Carlson",NA,"3","19:36:00","EV","Air Canada Centre","A","W",1,0
+"2011-01-18","WSH","PHI",25,"Nicklas Backstrom","Jason Chimera","Sergei Bobrovsky","3","08:38:00","EV","Wells Fargo Center","A","OTL",0,0
+"2011-01-08","WSH","FLA",25,"Mike Knuble","Nicklas Backstrom","Scott Clemmensen","3","16:05:00","EV","Verizon Center","H","W",0,0
+"2010-12-28","WSH","MTL",25,"Karl Alzner",NA,NA,"3","19:28:00","EV","Verizon Center","H","W",1,0
+"2010-12-26","WSH","CAR",25,"Mike Green",NA,"Cam Ward","2","18:02:00","EV","RBC Center","A","W",0,0
+"2010-12-06","WSH","TOR",25,"Tom Poti","Nicklas Backstrom","Jonas Gustavsson","2","13:50:00","EV","Verizon Center","H","SOL",0,0
+"2010-12-04","WSH","ATL",25,"Alexander Semin","John Carlson","Ondrej Pavelec","2","19:11:00","EV","Verizon Center","H","L",0,0
+"2010-11-14","WSH","ATL",25,"Nicklas Backstrom","Tyler Sloan","Chris Mason","1","01:30:00","EV","Verizon Center","H","W",0,0
+"2010-11-11","WSH","TBL",25,"Alexander Semin","Jeff Schultz","Dan Ellis","3","15:08:00","EV","Verizon Center","H","W",0,0
+"2010-11-05","WSH","BOS",25,"Nicklas Backstrom","Jeff Schultz",NA,"3","19:08:00","EV","Verizon Center","H","W",1,0
+"2010-10-30","WSH","CGY",25,"Mike Green","Nicklas Backstrom","Miikka Kiprusoff","2","03:43:00","PP","Scotiabank Saddledome","A","W",0,0
+"2010-10-30","WSH","CGY",25,"Alexander Semin","Jason Chimera","Miikka Kiprusoff","2","03:55:00","PP","Scotiabank Saddledome","A","W",0,0
+"2010-10-28","WSH","MIN",25,"Mike Green",NA,"Niklas Backstrom","3","18:24:00","EV","Xcel Energy Center","A","L",0,0
+"2010-10-13","WSH","NYI",25,"Nicklas Backstrom",NA,"Dwayne Roloson","2","18:19:00","EV","Verizon Center","H","W",0,0
+"2010-10-11","WSH","OTT",25,"John Carlson","Jeff Schultz","Pascal Leclaire","OT","04:28:00","EV","Verizon Center","H","OTW",0,0
+"2010-10-09","WSH","NJD",25,"Mike Knuble","John Carlson","Martin Brodeur","2","14:31:00","EV","Verizon Center","H","W",0,0
+"2010-10-09","WSH","NJD",25,NA,NA,"Martin Brodeur","2","19:12:00","EV","Verizon Center","H","W",0,1
+"2010-04-09","WSH","ATL",24,"Alexander Semin",NA,"Ondrej Pavelec","2","16:04:00","EV","Verizon Center","H","W",0,0
+"2010-04-09","WSH","ATL",24,"Alexander Semin","Nicklas Backstrom","Ondrej Pavelec","3","09:49:00","EV","Verizon Center","H","W",0,0
+"2010-04-06","WSH","PIT",24,"Nicklas Backstrom",NA,NA,"3","19:59:00","EV","Mellon Arena","A","W",1,0
+"2010-04-06","WSH","PIT",24,"Nicklas Backstrom",NA,"Brent Johnson","3","02:37:00","PP","Mellon Arena","A","W",0,0
+"2010-03-28","WSH","CGY",24,"Mike Knuble","Nicklas Backstrom","Miikka Kiprusoff","2","03:49:00","PP","Verizon Center","H","L",0,0
+"2010-03-20","WSH","TBL",24,"Nicklas Backstrom",NA,"Antero Niittymaki","1","10:47:00","EV","St. Pete Times Forum","A","W",0,0
+"2010-03-08","WSH","DAL",24,"Nicklas Backstrom","Mike Green","Marty Turco","3","16:44:00","EV","Verizon Center","H","SOL",0,0
+"2010-03-08","WSH","DAL",24,"Alexander Semin","Nicklas Backstrom","Marty Turco","2","14:37:00","PP","Verizon Center","H","SOL",0,0
+"2010-02-07","WSH","PIT",24,"Jeff Schultz",NA,"Marc-Andre Fleury","2","09:01:00","EV","Verizon Center","H","OTW",0,0
+"2010-02-07","WSH","PIT",24,"Tom Poti","Nicklas Backstrom","Marc-Andre Fleury","3","06:51:00","EV","Verizon Center","H","OTW",0,0
+"2010-02-07","WSH","PIT",24,"Mike Knuble","Nicklas Backstrom","Marc-Andre Fleury","3","11:06:00","EV","Verizon Center","H","OTW",0,0
+"2010-02-05","WSH","ATL",24,"Nicklas Backstrom","Alexander Semin","Ondrej Pavelec","1","13:41:00","PP","Verizon Center","H","W",0,0
+"2010-02-04","WSH","NYR",24,"Nicklas Backstrom",NA,"Henrik Lundqvist","2","19:51:00","EV","Madison Square Garden (IV)","A","W",0,0
+"2010-02-04","WSH","NYR",24,"Nicklas Backstrom",NA,"Henrik Lundqvist","2","07:16:00","PP","Madison Square Garden (IV)","A","W",0,0
+"2010-02-02","WSH","BOS",24,NA,NA,NA,"3","19:28:00","EV","TD Garden","A","W",1,0
+"2010-01-31","WSH","TBL",24,"Nicklas Backstrom","Tom Poti","Mike Smith","3","13:34:00","EV","Verizon Center","H","W",0,0
+"2010-01-27","WSH","ANA",24,"Mike Knuble","Mike Green","Jean-Sebastien Giguere","1","00:36:00","EV","Verizon Center","H","W",0,0
+"2010-01-23","WSH","PHX",24,"Alexander Semin",NA,NA,"3","19:54:00","EV","Verizon Center","H","W",1,0
+"2010-01-21","WSH","PIT",24,"David Steckel",NA,NA,"3","19:34:00","EV","Mellon Arena","A","W",1,0
+"2010-01-21","WSH","PIT",24,"Brendan Morrison","Mike Knuble","Brent Johnson","2","16:25:00","PP","Mellon Arena","A","W",0,0
+"2010-01-17","WSH","PHI",24,NA,NA,"Ray Emery","3","15:48:00","EV","Verizon Center","H","W",0,1
+"2010-01-15","WSH","TOR",24,"Nicklas Backstrom",NA,"Vesa Toskala","1","00:49:00","EV","Verizon Center","H","W",0,0
+"2010-01-13","WSH","FLA",24,NA,NA,"Tomas Vokoun","3","00:27:00","EV","BankAtlantic Center","A","SOW",0,0
+"2010-01-07","WSH","OTT",24,"Matt Bradley","Shaone Morrisonn","Pascal Leclaire","3","18:34:00","EV","Verizon Center","H","W",0,0
+"2009-12-30","WSH","SJS",24,"Nicklas Backstrom",NA,"Evgeni Nabokov","3","12:40:00","EV","HP Pavilion at San Jose","A","L",0,0
+"2009-12-26","WSH","NJD",24,"Nicklas Backstrom",NA,"Martin Brodeur","1","04:09:00","EV","Verizon Center","H","W",0,0
+"2009-12-23","WSH","BUF",24,"Brooks Laich","Mike Green","Ryan Miller","3","12:10:00","PP","Verizon Center","H","W",0,0
+"2009-12-19","WSH","EDM",24,"Mike Green","Jeff Schultz","Jeff Deslauriers","3","00:32:00","EV","Rexall Place","A","W",0,0
+"2009-12-19","WSH","EDM",24,"Karl Alzner",NA,"Jeff Deslauriers","3","06:37:00","EV","Rexall Place","A","W",0,0
+"2009-12-12","WSH","TOR",24,"Mike Green","Tomas Fleischmann","Vesa Toskala","1","02:00:00","PP","Air Canada Centre","A","L",0,0
+"2009-12-07","WSH","TBL",24,"Alexander Semin",NA,"Mike Smith","2","07:39:00","EV","St. Pete Times Forum","A","W",0,0
+"2009-12-07","WSH","TBL",24,"Tomas Fleischmann","Alexander Semin","Mike Smith","2","19:35:00","PP","St. Pete Times Forum","A","W",0,0
+"2009-11-28","WSH","MTL",24,"Nicklas Backstrom","Alexandre Giroux","Carey Price","1","09:59:00","EV","Bell Centre","A","SOW",0,0
+"2009-11-25","WSH","BUF",24,"Jeff Schultz",NA,"Ryan Miller","1","06:24:00","EV","Verizon Center","H","W",0,0
+"2009-11-21","WSH","TOR",24,"Mike Green","Brooks Laich","Vesa Toskala","1","17:11:00","EV","Air Canada Centre","A","SOL",0,0
+"2009-11-17","WSH","NYR",24,"Mike Green","Tomas Fleischmann","Henrik Lundqvist","1","15:06:00","PP","Madison Square Garden (IV)","A","W",0,0
+"2009-10-30","WSH","NYI",24,"Mike Green","Keith Aucoin","Dwayne Roloson","1","04:41:00","PP","Verizon Center","H","OTL",0,0
+"2009-10-29","WSH","ATL",24,"Nicklas Backstrom",NA,"Ondrej Pavelec","1","14:56:00","EV","Philips Arena","A","W",0,0
+"2009-10-29","WSH","ATL",24,"Mike Green","Brooks Laich","Ondrej Pavelec","1","10:03:00","PP","Philips Arena","A","W",0,0
+"2009-10-27","WSH","PHI",24,"Nicklas Backstrom","Jeff Schultz","Ray Emery","2","16:08:00","EV","Verizon Center","H","W",0,0
+"2009-10-27","WSH","PHI",24,"Nicklas Backstrom","Alexander Semin",NA,"3","19:14:00","EV","Verizon Center","H","W",1,0
+"2009-10-17","WSH","NSH",24,"Brendan Morrison","Mike Knuble","Dan Ellis","1","18:15:00","EV","Verizon Center","H","SOW",0,0
+"2009-10-17","WSH","NSH",24,"Mike Green","Mike Knuble","Dan Ellis","1","05:27:00","PP","Verizon Center","H","SOW",0,0
+"2009-10-15","WSH","SJS",24,"Mike Knuble","Brendan Morrison","Evgeni Nabokov","2","02:55:00","EV","Verizon Center","H","W",0,0
+"2009-10-15","WSH","SJS",24,"Mike Knuble","Brendan Morrison","Evgeni Nabokov","2","03:23:00","EV","Verizon Center","H","W",0,0
+"2009-10-06","WSH","PHI",24,"Matt Bradley","Nicklas Backstrom","Ray Emery","2","02:44:00","EV","Wachovia Center","A","OTL",0,0
+"2009-10-06","WSH","PHI",24,"Nicklas Backstrom",NA,"Ray Emery","2","07:33:00","EV","Wachovia Center","A","OTL",0,0
+"2009-10-03","WSH","TOR",24,"Nicklas Backstrom","Alexander Semin","Vesa Toskala","1","01:17:00","EV","Verizon Center","H","W",0,0
+"2009-10-01","WSH","BOS",24,"Alexander Semin","Nicklas Backstrom","Tim Thomas","2","09:31:00","EV","TD Garden","A","W",0,0
+"2009-10-01","WSH","BOS",24,"Tom Poti","Brooks Laich","Tim Thomas","3","01:57:00","EV","TD Garden","A","W",0,0
+"2009-04-11","WSH","FLA",23,"Viktor Kozlov","Nicklas Backstrom","Tomas Vokoun","3","13:09:00","EV","BankAtlantic Center","A","L",0,0
+"2009-04-03","WSH","BUF",23,"Brooks Laich","Viktor Kozlov","Ryan Miller","1","05:35:00","PP","Verizon Center","H","OTL",0,0
+"2009-04-01","WSH","NYI",23,"Sergei Fedorov","Mike Green","Joey MacDonald","2","05:37:00","EV","Verizon Center","H","W",0,0
+"2009-03-27","WSH","TBL",23,"Brooks Laich",NA,NA,"3","19:53:00","EV","Verizon Center","H","W",1,0
+"2009-03-27","WSH","TBL",23,"Nicklas Backstrom","Brooks Laich","Mike McKenna","1","06:49:00","PP","Verizon Center","H","W",0,0
+"2009-03-24","WSH","TOR",23,"Nicklas Backstrom","Mike Green","Martin Gerber","2","19:39:00","PP","Air Canada Centre","A","SOL",0,0
+"2009-03-19","WSH","TBL",23,"Nicklas Backstrom",NA,"Mike McKenna","1","07:43:00","EV","St. Pete Times Forum","A","W",0,0
+"2009-03-14","WSH","CAR",23,"Mike Green","Alexander Semin","Cam Ward","1","18:01:00","PP","Verizon Center","H","SOW",0,0
+"2009-03-12","WSH","PHI",23,"Alexander Semin",NA,"Martin Biron","2","17:19:00","EV","Wachovia Center","A","W",0,0
+"2009-03-08","WSH","PIT",23,"Mike Green","Brooks Laich","Marc-Andre Fleury","3","00:29:00","PP","Verizon Center","H","SOL",0,0
+"2009-03-01","WSH","FLA",23,"Nicklas Backstrom","Milan Jurcina","Craig Anderson","3","19:38:00","EV","Verizon Center","H","L",0,0
+"2009-02-28","WSH","BOS",23,"Matt Bradley","Milan Jurcina","Tim Thomas","2","08:48:00","EV","TD Banknorth Garden","A","OTW",0,0
+"2009-02-24","WSH","PHI",23,NA,NA,"Antero Niittymaki","2","04:19:00","EV","Verizon Center","H","L",0,0
+"2009-02-22","WSH","PIT",23,"Nicklas Backstrom","Sergei Fedorov","Marc-Andre Fleury","1","06:53:00","PP","Verizon Center","H","W",0,0
+"2009-02-18","WSH","MTL",23,NA,NA,"Carey Price","1","10:07:00","EV","Verizon Center","H","SOW",0,0
+"2009-02-15","WSH","FLA",23,"Nicklas Backstrom",NA,"Tomas Vokoun","3","17:29:00","EV","BankAtlantic Center","A","W",0,0
+"2009-02-15","WSH","FLA",23,"Jeff Schultz",NA,NA,"3","19:41:00","EV","BankAtlantic Center","A","W",1,0
+"2009-02-15","WSH","FLA",23,"Alexander Semin","Nicklas Backstrom","Tomas Vokoun","1","15:38:00","PP","BankAtlantic Center","A","W",0,0
+"2009-02-14","WSH","TBL",23,"Alexander Semin","Nicklas Backstrom","Mike McKenna","1","13:21:00","EV","St. Pete Times Forum","A","W",0,0
+"2009-02-05","WSH","LAK",23,NA,NA,"Jonathan Quick","3","10:32:00","EV","Verizon Center","H","L",0,0
+"2009-02-01","WSH","OTT",23,"Sergei Fedorov","Viktor Kozlov","Brian Elliott","2","02:15:00","EV","Verizon Center","H","W",0,0
+"2009-02-01","WSH","OTT",23,"Sergei Fedorov",NA,"Alex Auld","2","15:31:00","EV","Verizon Center","H","W",0,0
+"2009-02-01","WSH","OTT",23,"Mike Green","Sergei Fedorov","Brian Elliott","1","10:32:00","PP","Verizon Center","H","W",0,0
+"2009-01-31","WSH","DET",23,"Viktor Kozlov","Shaone Morrisonn","Ty Conklin","3","12:52:00","EV","Verizon Center","H","W",0,0
+"2009-01-31","WSH","DET",23,"Nicklas Backstrom","Mike Green","Ty Conklin","3","14:08:00","PP","Verizon Center","H","W",0,0
+"2009-01-19","WSH","NYI",23,"Mike Green","Brooks Laich","Yann Danis","1","06:35:00","PP","Nassau Veterans Memorial Coliseum","A","OTW",0,0
+"2009-01-19","WSH","NYI",23,"Alexander Semin","Sergei Fedorov","Yann Danis","OT","01:46:00","PP","Nassau Veterans Memorial Coliseum","A","OTW",0,0
+"2009-01-14","WSH","PIT",23,"Mike Green",NA,"Marc-Andre Fleury","3","11:27:00","EV","Mellon Arena","A","W",0,0
+"2009-01-14","WSH","PIT",23,"Brooks Laich","Nicklas Backstrom","Marc-Andre Fleury","3","01:48:00","PP","Mellon Arena","A","W",0,0
+"2009-01-03","WSH","NYR",23,"David Steckel",NA,"Steve Valiquette","2","19:28:00","SH","Verizon Center","H","W",0,0
+"2009-01-01","WSH","TBL",23,"Nicklas Backstrom",NA,"Mike Smith","3","18:14:00","EV","Verizon Center","H","W",0,0
+"2008-12-28","WSH","TOR",23,"Milan Jurcina",NA,"Vesa Toskala","2","19:50:00","EV","Verizon Center","H","W",0,0
+"2008-12-28","WSH","TOR",23,"Nicklas Backstrom","Mike Green",NA,"3","19:26:00","EV","Verizon Center","H","W",1,0
+"2008-12-26","WSH","BUF",23,"Bryan Helmer",NA,"Patrick Lalime","3","08:27:00","EV","Verizon Center","H","W",0,0
+"2008-12-23","WSH","NYR",23,"Nicklas Backstrom",NA,"Henrik Lundqvist","2","12:35:00","EV","Madison Square Garden (IV)","A","OTW",0,0
+"2008-12-23","WSH","NYR",23,NA,NA,"Henrik Lundqvist","3","12:38:00","EV","Madison Square Garden (IV)","A","OTW",0,0
+"2008-12-18","WSH","STL",23,"Viktor Kozlov","Alexander Semin","Ben Bishop","3","00:13:00","PP","Verizon Center","H","W",0,0
+"2008-12-16","WSH","NYI",23,"Alexander Semin","Nicklas Backstrom","Joey MacDonald","2","16:35:00","EV","Nassau Veterans Memorial Coliseum","A","OTW",0,0
+"2008-12-16","WSH","NYI",23,"Nicklas Backstrom",NA,"Joey MacDonald","OT","04:49:00","EV","Nassau Veterans Memorial Coliseum","A","OTW",0,0
+"2008-12-12","WSH","OTT",23,"Tom Poti","Mike Green","Alex Auld","2","19:25:00","PP","Verizon Center","H","W",0,0
+"2008-12-12","WSH","OTT",23,"Nicklas Backstrom","Sergei Fedorov","Alex Auld","3","14:05:00","PP","Verizon Center","H","W",0,0
+"2008-12-10","WSH","BOS",23,"Alexander Semin","Nicklas Backstrom",NA,"3","19:08:00","EV","Verizon Center","H","W",1,0
+"2008-12-04","WSH","NYI",23,"Milan Jurcina","Brooks Laich","Joey MacDonald","1","11:31:00","PP","Verizon Center","H","W",0,0
+"2008-11-28","WSH","MTL",23,"Nicklas Backstrom",NA,"Jaroslav Halak","3","03:42:00","EV","Verizon Center","H","W",0,0
+"2008-11-26","WSH","ATL",23,"Tom Poti","Tyler Sloan","Ondrej Pavelec","2","00:54:00","EV","Verizon Center","H","W",0,0
+"2008-11-26","WSH","ATL",23,"Sami Lepisto","Viktor Kozlov","Ondrej Pavelec","1","03:29:00","PP","Verizon Center","H","W",0,0
+"2008-11-26","WSH","ATL",23,"Viktor Kozlov","Tomas Fleischmann","Ondrej Pavelec","1","14:01:00","PP","Verizon Center","H","W",0,0
+"2008-11-24","WSH","MIN",23,"Tomas Fleischmann","Milan Jurcina","Niklas Backstrom","3","16:07:00","EV","Xcel Energy Center","A","L",0,0
+"2008-11-19","WSH","ANA",23,"Chris Clark","Michael Nylander","Jean-Sebastien Giguere","2","02:43:00","PP","Honda Center","A","W",0,0
+"2008-11-15","WSH","NJD",23,"Tyler Sloan","Nicklas Backstrom","Scott Clemmensen","1","19:09:00","EV","Prudential Center","A","SOL",0,0
+"2008-11-15","WSH","NJD",23,"Nicklas Backstrom","Boyd Gordon","Scott Clemmensen","3","19:59:00","EV","Prudential Center","A","SOL",0,0
+"2008-11-14","WSH","NJD",23,"Nicklas Backstrom","Brooks Laich",NA,"3","19:39:00","EV","Verizon Center","H","W",1,0
+"2008-11-12","WSH","CAR",23,"Alexander Semin",NA,"Michael Leighton","1","05:11:00","EV","RBC Center","A","W",0,0
+"2008-11-10","WSH","TBL",23,"Alexander Semin","Jeff Schultz","Olaf Kolzig","3","15:54:00","EV","Verizon Center","H","W",0,0
+"2008-10-11","WSH","CHI",23,"Tom Poti",NA,"Nikolai Khabibulin","2","05:07:00","EV","Verizon Center","H","W",0,0
+"2008-10-11","WSH","CHI",23,"Jeff Schultz","Jose Theodore","Nikolai Khabibulin","3","18:24:00","EV","Verizon Center","H","W",0,0
+"2008-04-03","WSH","TBL",22,"Viktor Kozlov","Mike Green","Karri Ramo","1","12:01:00","EV","Verizon Center","H","W",0,0
+"2008-04-03","WSH","TBL",22,"Mike Green","Nicklas Backstrom","Karri Ramo","3","07:50:00","PP","Verizon Center","H","W",0,0
+"2008-04-01","WSH","CAR",22,"Nicklas Backstrom","Jeff Schultz","Cam Ward","3","16:24:00","EV","Verizon Center","H","W",0,0
+"2008-03-29","WSH","FLA",22,"Viktor Kozlov","Tom Poti","Tomas Vokoun","3","11:32:00","EV","BankAtlantic Center","A","W",0,0
+"2008-03-25","WSH","CAR",22,"Nicklas Backstrom","Viktor Kozlov","Cam Ward","2","09:41:00","EV","RBC Center","A","SOW",0,0
+"2008-03-21","WSH","ATL",22,"Nicklas Backstrom","Viktor Kozlov","Kari Lehtonen","1","15:18:00","EV","Philips Arena","A","W",0,0
+"2008-03-21","WSH","ATL",22,"Mike Green","Tom Poti","Kari Lehtonen","3","11:30:00","EV","Philips Arena","A","W",0,0
+"2008-03-18","WSH","NSH",22,NA,NA,NA,"3","19:56:00","EV","Sommet Center","A","W",1,0
+"2008-03-14","WSH","ATL",22,"Mike Green","Sergei Fedorov","Kari Lehtonen","3","01:07:00","PP","Verizon Center","H","W",0,0
+"2008-03-12","WSH","CGY",22,"Alexander Semin","Mike Green","Miikka Kiprusoff","2","17:55:00","PP","Verizon Center","H","W",0,0
+"2008-03-12","WSH","CGY",22,"Mike Green","Eric Fehr","Miikka Kiprusoff","3","18:06:00","PP","Verizon Center","H","W",0,0
+"2008-03-05","WSH","BUF",22,"Nicklas Backstrom","Olaf Kolzig","Ryan Miller","1","15:21:00","EV","HSBC Arena","A","W",0,0
+"2008-03-05","WSH","BUF",22,"Viktor Kozlov","Milan Jurcina","Ryan Miller","3","13:19:00","EV","HSBC Arena","A","W",0,0
+"2008-03-03","WSH","BOS",22,"Nicklas Backstrom","Shaone Morrisonn","Tim Thomas","1","06:18:00","EV","Verizon Center","H","W",0,0
+"2008-03-03","WSH","BOS",22,"Nicklas Backstrom","Tom Poti","Tim Thomas","1","07:08:00","EV","Verizon Center","H","W",0,0
+"2008-03-03","WSH","BOS",22,"Alexander Semin","Nicklas Backstrom","Alex Auld","1","15:31:00","PP","Verizon Center","H","W",0,0
+"2008-03-01","WSH","TOR",22,"Tom Poti",NA,"Vesa Toskala","1","15:47:00","EV","Verizon Center","H","L",0,0
+"2008-02-13","WSH","ATL",22,"Nicklas Backstrom","Mike Green","Kari Lehtonen","3","18:39:00","EV","Philips Arena","A","SOL",0,0
+"2008-02-10","WSH","NYR",22,"Eric Fehr","Nicklas Backstrom","Steve Valiquette","1","02:28:00","PP","Verizon Center","H","OTW",0,0
+"2008-02-06","WSH","PHI",22,"Nicklas Backstrom","Milan Jurcina","Martin Biron","3","07:45:00","EV","Wachovia Center","A","W",0,0
+"2008-02-05","WSH","CBJ",22,"Nicklas Backstrom",NA,"Pascal Leclaire","2","13:34:00","EV","Nationwide Arena","A","OTW",0,0
+"2008-02-05","WSH","CBJ",22,"Tom Poti","Shaone Morrisonn","Fredrik Norrena","OT","02:28:00","EV","Nationwide Arena","A","OTW",0,0
+"2008-01-31","WSH","MTL",22,"Milan Jurcina",NA,"Cristobal Huet","1","13:06:00","EV","Verizon Center","H","OTW",0,0
+"2008-01-31","WSH","MTL",22,"Viktor Kozlov","Nicklas Backstrom","Cristobal Huet","2","11:54:00","EV","Verizon Center","H","OTW",0,0
+"2008-01-31","WSH","MTL",22,"Viktor Kozlov","Mike Green","Cristobal Huet","3","12:30:00","EV","Verizon Center","H","OTW",0,0
+"2008-01-31","WSH","MTL",22,"Jeff Schultz","Mike Green","Cristobal Huet","OT","03:34:00","EV","Verizon Center","H","OTW",0,0
+"2008-01-23","WSH","TOR",22,"Viktor Kozlov","Steve Eminger","Vesa Toskala","2","02:27:00","EV","Air Canada Centre","A","L",0,0
+"2008-01-21","WSH","PIT",22,"Nicklas Backstrom","Milan Jurcina","Dany Sabourin","2","07:58:00","EV","Mellon Arena","A","SOW",0,0
+"2008-01-21","WSH","PIT",22,"Tomas Fleischmann","Nicklas Backstrom","Dany Sabourin","2","01:48:00","PP","Mellon Arena","A","SOW",0,0
+"2008-01-19","WSH","FLA",22,"Mike Green","Nicklas Backstrom","Tomas Vokoun","3","04:40:00","PP","Verizon Center","H","W",0,0
+"2008-01-17","WSH","EDM",22,"Boyd Gordon","Jeff Schultz","Dwayne Roloson","2","01:39:00","EV","Verizon Center","H","SOW",0,0
+"2008-01-15","WSH","OTT",22,"Brooks Laich","Tomas Fleischmann","Ray Emery","3","09:11:00","PP","Verizon Center","H","W",0,0
+"2008-01-13","WSH","PHI",22,"Viktor Kozlov","Mike Green","Martin Biron","2","11:10:00","EV","Verizon Center","H","L",0,0
+"2008-01-05","WSH","MTL",22,"John Erskine",NA,"Carey Price","3","06:38:00","EV","Bell Centre","A","OTW",0,0
+"2008-01-05","WSH","MTL",22,"Michael Nylander",NA,"Carey Price","2","08:31:00","PP","Bell Centre","A","OTW",0,0
+"2007-12-29","WSH","OTT",22,"Tom Poti","Nicklas Backstrom","Martin Gerber","2","03:13:00","EV","Scotiabank Place","A","W",0,0
+"2007-12-29","WSH","OTT",22,"Jeff Schultz",NA,"Martin Gerber","3","13:46:00","EV","Scotiabank Place","A","W",0,0
+"2007-12-29","WSH","OTT",22,NA,NA,NA,"3","19:32:00","EV","Scotiabank Place","A","W",1,0
+"2007-12-29","WSH","OTT",22,"Mike Green","Alexander Semin","Martin Gerber","1","04:45:00","PP","Scotiabank Place","A","W",0,0
+"2007-12-27","WSH","PIT",22,"Nicklas Backstrom",NA,"Ty Conklin","2","18:26:00","EV","Mellon Arena","A","OTL",0,0
+"2007-12-22","WSH","NYI",22,"Viktor Kozlov","Michael Nylander","Rick DiPietro","3","19:05:00","EV","Nassau Veterans Memorial Coliseum","A","OTL",0,0
+"2007-12-17","WSH","DET",22,"Michael Nylander",NA,"Dominik Hasek","1","09:58:00","PP","Joe Louis Arena","A","SOL",0,0
+"2007-12-14","WSH","BUF",22,"Nicklas Backstrom","Michael Nylander","Ryan Miller","1","13:12:00","PP","Verizon Center","H","L",0,0
+"2007-12-12","WSH","NYR",22,"Mike Green",NA,"Henrik Lundqvist","3","04:36:00","EV","Verizon Center","H","OTW",0,0
+"2007-12-08","WSH","ATL",22,"Tom Poti","Nicklas Backstrom","Kari Lehtonen","2","14:06:00","EV","Verizon Center","H","W",0,0
+"2007-12-01","WSH","FLA",22,"Michael Nylander","Jeff Schultz","Tomas Vokoun","3","04:38:00","EV","BankAtlantic Center","A","W",0,0
+"2007-11-30","WSH","CAR",22,"Michael Nylander",NA,"Cam Ward","1","02:35:00","PP","RBC Center","A","L",0,0
+"2007-11-30","WSH","CAR",22,"Alexander Semin",NA,"Cam Ward","3","00:32:00","PP","RBC Center","A","L",0,0
+"2007-11-26","WSH","BUF",22,"Steve Eminger",NA,"Ryan Miller","2","00:49:00","EV","Verizon Center","H","L",0,0
+"2007-11-24","WSH","CAR",22,"Shaone Morrisonn",NA,"John Grahame","3","18:10:00","EV","Verizon Center","H","W",0,0
+"2007-11-24","WSH","CAR",22,"Michael Nylander","Nicklas Backstrom","John Grahame","1","06:17:00","PP","Verizon Center","H","W",0,0
+"2007-11-21","WSH","ATL",22,"Brian Pothier","Viktor Kozlov","Johan Hedberg","2","02:27:00","PP","Verizon Center","H","L",0,0
+"2007-11-16","WSH","TBL",22,"Chris Clark","Nicklas Backstrom","Johan Holmqvist","1","13:30:00","EV","St. Pete Times Forum","A","L",0,0
+"2007-11-15","WSH","FLA",22,"Michael Nylander","Brian Pothier","Tomas Vokoun","2","06:55:00","EV","BankAtlantic Center","A","L",0,0
+"2007-11-10","WSH","TBL",22,"Mike Green","Tom Poti","Johan Holmqvist","2","18:20:00","EV","Verizon Center","H","L",0,0
+"2007-11-08","WSH","OTT",22,"Brooks Laich","Michael Nylander","Ray Emery","3","16:15:00","EV","Scotiabank Place","A","W",0,0
+"2007-11-02","WSH","PHI",22,"Michael Nylander",NA,"Antero Niittymaki","3","15:52:00","PP","Verizon Center","H","L",0,0
+"2007-10-29","WSH","TOR",22,"Viktor Kozlov","Boyd Gordon","Vesa Toskala","1","11:57:00","EV","Air Canada Centre","A","W",0,0
+"2007-10-29","WSH","TOR",22,"Brian Pothier","Michael Nylander","Andrew Raycroft","2","11:09:00","PP","Air Canada Centre","A","W",0,0
+"2007-10-26","WSH","VAN",22,"Chris Clark","Viktor Kozlov","Roberto Luongo","3","18:24:00","PP","Verizon Center","H","L",0,0
+"2007-10-24","WSH","TBL",22,"Brian Pothier",NA,NA,"3","19:56:00","EV","Verizon Center","H","W",1,0
+"2007-10-18","WSH","NYI",22,"Joe Motzko",NA,"Rick DiPietro","3","01:41:00","EV","Verizon Center","H","L",0,0
+"2007-10-13","WSH","BUF",22,"Michael Nylander","Tom Poti","Ryan Miller","3","11:19:00","PP","HSBC Arena","A","L",0,0
+"2007-10-12","WSH","NYR",22,"Mike Green","Tom Poti","Henrik Lundqvist","1","07:46:00","PP","Madison Square Garden (IV)","A","L",0,0
+"2007-10-06","WSH","CAR",22,"Viktor Kozlov","John Erskine","John Grahame","1","14:24:00","EV","Verizon Center","H","W",0,0
+"2007-04-04","WSH","ATL",21,"Boyd Gordon",NA,"Kari Lehtonen","2","19:17:00","EV","Philips Arena","A","W",0,0
+"2007-04-04","WSH","ATL",21,"Bryan Muir","Brian Pothier","Kari Lehtonen","2","13:35:00","PP","Philips Arena","A","W",0,0
+"2007-04-03","WSH","FLA",21,"Brooks Laich","Milan Jurcina","Craig Anderson","2","05:28:00","EV","Verizon Center","H","W",0,0
+"2007-03-22","WSH","CAR",21,"Alexander Semin","Jiri Novotny","John Grahame","1","11:16:00","EV","RBC Center","A","L",0,0
+"2007-03-22","WSH","CAR",21,"Alexandre Giroux","Jiri Novotny","John Grahame","2","17:54:00","EV","RBC Center","A","L",0,0
+"2007-03-12","WSH","ATL",21,"Jiri Novotny",NA,"Kari Lehtonen","2","05:27:00","EV","Philips Arena","A","L",0,0
+"2007-03-12","WSH","ATL",21,"Ben Clymer","Alexander Semin","Kari Lehtonen","3","01:26:00","PP","Philips Arena","A","L",0,0
+"2007-03-10","WSH","NYI",21,"Jiri Novotny","Shaone Morrisonn","Rick DiPietro","3","04:27:00","EV","Nassau Veterans Memorial Coliseum","A","L",0,0
+"2007-03-01","WSH","TBL",21,"Jiri Novotny","Steve Eminger","Johan Holmqvist","2","10:11:00","EV","Verizon Center","H","SOL",0,0
+"2007-02-27","WSH","FLA",21,"Brian Pothier",NA,"Ed Belfour","1","08:41:00","EV","Verizon Center","H","SOL",0,0
+"2007-02-27","WSH","FLA",21,"Brian Sutherby","Donald Brashear","Ed Belfour","2","17:54:00","EV","Verizon Center","H","SOL",0,0
+"2007-02-25","WSH","NJD",21,"Jeff Schultz","Jamie Heward","Scott Clemmensen","3","09:13:00","EV","Verizon Center","H","L",0,0
+"2007-02-10","WSH","NYR",21,"Chris Clark","Mike Green","Henrik Lundqvist","1","18:20:00","PP","Verizon Center","H","L",0,0
+"2007-02-01","WSH","FLA",21,"Dainius Zubrus","Ben Clymer","Ed Belfour","3","02:32:00","EV","BankAtlantic Center","A","L",0,0
+"2007-01-30","WSH","OTT",21,"Steve Eminger","Jamie Heward","Martin Gerber","2","09:04:00","EV","Scotiabank Place","A","L",0,0
+"2007-01-27","WSH","CAR",21,NA,NA,"Cam Ward","1","09:53:00","PP","Verizon Center","H","W",0,0
+"2007-01-26","WSH","CAR",21,"Alexander Semin","Dainius Zubrus","Cam Ward","2","00:54:00","PP","RBC Center","A","L",0,0
+"2007-01-18","WSH","CAR",21,"Shaone Morrisonn",NA,NA,"3","19:20:00","EV","RBC Center","A","W",1,0
+"2007-01-09","WSH","PHI",21,"Dainius Zubrus",NA,"Robert Esche","1","06:36:00","EV","Verizon Center","H","W",0,0
+"2007-01-09","WSH","PHI",21,"Chris Clark","Dainius Zubrus","Robert Esche","2","16:45:00","EV","Verizon Center","H","W",0,0
+"2007-01-06","WSH","ATL",21,"Alexander Semin","Matt Pettinger","Kari Lehtonen","3","12:18:00","PP","Verizon Center","H","OTW",0,0
+"2006-12-26","WSH","BUF",21,"Lawrence Nycholat",NA,"Ryan Miller","2","14:36:00","EV","HSBC Arena","A","L",0,0
+"2006-12-23","WSH","TOR",21,"Alexander Semin","Olaf Kolzig","Andrew Raycroft","2","12:01:00","PP","Air Canada Centre","A","W",0,0
+"2006-12-19","WSH","TBL",21,"Brooks Laich","Brian Sutherby","Marc Denis","1","13:54:00","EV","Verizon Center","H","L",0,0
+"2006-12-16","WSH","PHI",21,"Bryan Muir",NA,"Antero Niittymaki","3","03:16:00","EV","Verizon Center","H","W",0,0
+"2006-12-15","WSH","ATL",21,NA,NA,"Kari Lehtonen","OT","00:06:00","EV","Philips Arena","A","OTW",0,0
+"2006-12-15","WSH","ATL",21,"Dainius Zubrus","Jamie Heward","Kari Lehtonen","1","08:55:00","PP","Philips Arena","A","OTW",0,0
+"2006-12-15","WSH","ATL",21,"Dainius Zubrus","Chris Clark","Kari Lehtonen","3","19:29:00","PP","Philips Arena","A","OTW",0,0
+"2006-12-09","WSH","PHI",21,"Chris Clark","Dainius Zubrus","Antero Niittymaki","1","06:28:00","EV","Wachovia Center","A","W",0,0
+"2006-12-02","WSH","BUF",21,NA,NA,"Ryan Miller","1","07:45:00","EV","Verizon Center","H","W",0,0
+"2006-11-28","WSH","TBL",21,NA,NA,NA,"3","18:51:00","EV","St. Pete Times Forum","A","W",1,0
+"2006-11-25","WSH","NYI",21,"Dainius Zubrus","Matt Pettinger","Rick DiPietro","3","02:48:00","PP","Nassau Veterans Memorial Coliseum","A","L",0,0
+"2006-11-24","WSH","TOR",21,"Richard Zednik","Mike Green","Andrew Raycroft","1","17:48:00","PP","Verizon Center","H","L",0,0
+"2006-11-18","WSH","BOS",21,"Matt Pettinger","Richard Zednik","Tim Thomas","3","16:59:00","PP","TD Banknorth Garden","A","OTL",0,0
+"2006-11-13","WSH","FLA",21,"Dainius Zubrus","Chris Clark","Alex Auld","2","06:45:00","EV","BankAtlantic Center","A","W",0,0
+"2006-11-11","WSH","NYR",21,"Dainius Zubrus","John Erskine","Henrik Lundqvist","3","04:53:00","EV","Verizon Center","H","W",0,0
+"2006-11-06","WSH","OTT",21,"Alexander Semin","Dainius Zubrus","Martin Gerber","2","07:56:00","EV","Verizon Center","H","OTW",0,0
+"2006-11-06","WSH","OTT",21,"Alexander Semin","Brian Pothier","Martin Gerber","3","19:35:00","PP","Verizon Center","H","OTW",0,0
+"2006-11-04","WSH","PHI",21,"Bryan Muir","Matt Bradley","Robert Esche","1","03:53:00","EV","Wachovia Center","A","W",0,0
+"2006-11-04","WSH","PHI",21,"Chris Clark","Jamie Heward","Robert Esche","1","19:01:00","EV","Wachovia Center","A","W",0,0
+"2006-10-27","WSH","VAN",21,"Brian Sutherby","Matt Bradley","Roberto Luongo","2","18:22:00","EV","General Motors Place","A","SOL",0,0
+"2006-10-25","WSH","COL",21,"Alexander Semin","Brian Pothier","Peter Budaj","2","10:30:00","PP","Pepsi Center","A","W",0,0
+"2006-10-21","WSH","TBL",21,"Richard Zednik","Alexander Semin","Marc Denis","3","16:03:00","PP","Verizon Center","H","L",0,0
+"2006-10-19","WSH","ATL",21,"Dainius Zubrus","Brian Pothier","Kari Lehtonen","2","15:48:00","EV","Philips Arena","A","SOL",0,0
+"2006-10-07","WSH","CAR",21,"Chris Clark",NA,"Cam Ward","3","08:04:00","EV","Verizon Center","H","W",0,0
+"2006-10-07","WSH","CAR",21,"Brian Pothier","Chris Clark","Cam Ward","3","13:03:00","PP","Verizon Center","H","W",0,0
+"2006-04-17","WSH","ATL",20,"Ben Clymer","Brian Sutherby","Mike Dunham","3","02:36:00","EV","MCI Center","H","W",0,0
+"2006-04-15","WSH","FLA",20,"Shaone Morrisonn","Rico Fata","Jamie McLennan","2","13:07:00","EV","BankAtlantic Center","A","SOW",0,0
+"2006-04-13","WSH","ATL",20,"Steve Eminger","Matt Pettinger","Mike Dunham","1","13:01:00","EV","Philips Arena","A","L",0,0
+"2006-04-10","WSH","BOS",20,"Dainius Zubrus",NA,"Tim Thomas","OT","03:30:00","EV","TD Banknorth Garden","A","OTW",0,0
+"2006-03-29","WSH","CAR",20,"Brian Willsie","Dainius Zubrus","Cam Ward","2","09:38:00","PP","RBC Center","A","W",0,0
+"2006-03-25","WSH","CAR",20,"Brooks Laich",NA,"Martin Gerber","1","01:50:00","EV","RBC Center","A","W",0,0
+"2006-03-23","WSH","TBL",20,"Shaone Morrisonn",NA,"John Grahame","1","05:01:00","EV","St. Pete Times Forum","A","OTL",0,0
+"2006-03-23","WSH","TBL",20,"Chris Clark","Dainius Zubrus","John Grahame","3","10:07:00","EV","St. Pete Times Forum","A","OTL",0,0
+"2006-03-20","WSH","MTL",20,"Brian Willsie","Ben Clymer","Cristobal Huet","3","19:49:00","PP","MCI Center","H","L",0,0
+"2006-03-14","WSH","BUF",20,"Dainius Zubrus","Ben Clymer","Ryan Miller","1","19:11:00","PP","MCI Center","H","L",0,0
+"2006-03-08","WSH","PIT",20,"Bryan Muir","Ben Clymer","Sebastien Caron","3","05:54:00","PP","MCI Center","H","W",0,0
+"2006-03-06","WSH","NYI",20,"Dainius Zubrus","Ivan Majesky","Garth Snow","2","02:27:00","EV","MCI Center","H","W",0,0
+"2006-03-06","WSH","NYI",20,"Mike Green","Jeff Halpern","Garth Snow","2","19:59:00","EV","MCI Center","H","W",0,0
+"2006-03-04","WSH","ATL",20,"Mike Green","Chris Clark","Kari Lehtonen","3","19:34:00","PP","Philips Arena","A","OTL",0,0
+"2006-03-02","WSH","OTT",20,"Dainius Zubrus",NA,"Ray Emery","3","14:53:00","SH","Corel Centre","A","L",0,0
+"2006-02-28","WSH","TOR",20,NA,NA,"Ed Belfour","2","00:19:00","PP","Air Canada Centre","A","W",0,0
+"2006-02-11","WSH","PIT",20,"Dainius Zubrus",NA,"Marc-Andre Fleury","3","10:07:00","SH","MCI Center","H","L",0,0
+"2006-02-10","WSH","PHI",20,"Dainius Zubrus",NA,"Robert Esche","2","15:01:00","PP","Wachovia Center","A","L",0,0
+"2006-01-25","WSH","PIT",20,"Brian Willsie","Dainius Zubrus","Marc-Andre Fleury","2","05:22:00","PP","Mellon Arena","A","L",0,0
+"2006-01-19","WSH","STL",20,"Chris Clark","Nolan Yonkman","Curtis Sanford","1","09:52:00","EV","MCI Center","H","SOW",0,0
+"2006-01-16","WSH","PHX",20,"Brendan Witt",NA,"Brian Boucher","3","11:54:00","EV","Glendale Arena","A","W",0,0
+"2006-01-16","WSH","PHX",20,NA,NA,"Brian Boucher","1","14:13:00","PP","Glendale Arena","A","W",0,0
+"2006-01-13","WSH","MDA",20,"Chris Clark","Shaone Morrisonn","Jean-Sebastien Giguere","2","01:45:00","EV","Arrowhead Pond of Anaheim","A","OTW",0,0
+"2006-01-13","WSH","MDA",20,"Chris Clark","Dainius Zubrus","Jean-Sebastien Giguere","2","12:06:00","EV","Arrowhead Pond of Anaheim","A","OTW",0,0
+"2006-01-13","WSH","MDA",20,"Dainius Zubrus",NA,"Jean-Sebastien Giguere","OT","03:04:00","EV","Arrowhead Pond of Anaheim","A","OTW",0,0
+"2006-01-12","WSH","DAL",20,"Brian Sutherby","Olaf Kolzig","Marty Turco","2","03:06:00","EV","American Airlines Center","A","L",0,0
+"2006-01-10","WSH","CHI",20,NA,NA,"Adam Munro","2","13:11:00","EV","MCI Center","H","OTL",0,0
+"2006-01-06","WSH","PHI",20,"Bryan Muir","Dainius Zubrus","Antero Niittymaki","1","08:55:00","PP","MCI Center","H","L",0,0
+"2006-01-01","WSH","ATL",20,"Brooks Laich",NA,"Kari Lehtonen","3","15:15:00","EV","MCI Center","H","L",0,0
+"2005-12-31","WSH","PHI",20,"Jamie Heward",NA,"Antero Niittymaki","2","07:38:00","PP","MCI Center","H","SOW",0,0
+"2005-12-28","WSH","NJD",20,"Mathieu Biron","Matt Pettinger","Martin Brodeur","1","09:44:00","PP","Continental Airlines Arena","A","L",0,0
+"2005-12-27","WSH","BOS",20,NA,NA,"Hannu Toivonen","3","11:47:00","EV","MCI Center","H","OTL",0,0
+"2005-12-23","WSH","MTL",20,"Jeff Halpern",NA,"Cristobal Huet","3","13:45:00","EV","MCI Center","H","W",0,0
+"2005-12-22","WSH","ATL",20,"Jamie Heward","Mathieu Biron","Michael Garnett","2","05:04:00","PP","Philips Arena","A","SOW",0,0
+"2005-12-09","WSH","DET",20,"Bryan Muir","Jamie Heward","Chris Osgood","1","05:23:00","PP","MCI Center","H","L",0,0
+"2005-12-07","WSH","NSH",20,"Andrew Cassels","Jamie Heward","Chris Mason","2","02:30:00","PP","MCI Center","H","L",0,0
+"2005-12-03","WSH","NYR",20,NA,NA,"Henrik Lundqvist","1","12:11:00","EV","MCI Center","H","W",0,0
+"2005-11-17","WSH","BUF",20,"Andrew Cassels","Brian Willsie","Martin Biron","2","19:05:00","PP","HSBC Arena","A","L",0,0
+"2005-11-15","WSH","TBL",20,"Jeff Halpern","Andrew Cassels","Sean Burke","3","18:45:00","EV","MCI Center","H","SOW",0,0
+"2005-11-11","WSH","NJD",20,"Brian Willsie","Steve Eminger","Martin Brodeur","3","10:35:00","EV","MCI Center","H","L",0,0
+"2005-11-08","WSH","TOR",20,"Dainius Zubrus",NA,"Ed Belfour","1","15:18:00","EV","Air Canada Centre","A","L",0,0
+"2005-11-08","WSH","TOR",20,"Bryan Muir","Brian Willsie","Ed Belfour","3","09:16:00","PP","Air Canada Centre","A","L",0,0
+"2005-11-06","WSH","TOR",20,"Jeff Halpern","Steve Eminger","Mikael Tellqvist","2","15:01:00","PP","MCI Center","H","W",0,0
+"2005-11-06","WSH","TOR",20,"Bryan Muir","Jeff Halpern","Mikael Tellqvist","3","06:07:00","PP","MCI Center","H","W",0,0
+"2005-10-28","WSH","TBL",20,"Shaone Morrisonn","Olaf Kolzig","Sean Burke","1","03:25:00","EV","St. Pete Times Forum","A","L",0,0
+"2005-10-28","WSH","TBL",20,"Jamie Heward",NA,"Sean Burke","1","13:12:00","SH","St. Pete Times Forum","A","L",0,0
+"2005-10-20","WSH","FLA",20,"Brian Willsie",NA,"Roberto Luongo","1","01:50:00","EV","BankAtlantic Center","A","L",0,0
+"2005-10-20","WSH","FLA",20,"Steve Eminger","Olaf Kolzig","Roberto Luongo","3","17:22:00","EV","BankAtlantic Center","A","L",0,0
+"2005-10-12","WSH","CAR",20,"Andrew Cassels",NA,"Cam Ward","1","10:28:00","EV","RBC Center","A","L",0,0
+"2005-10-10","WSH","NYR",20,"Jamie Heward","Bryan Muir","Kevin Weekes","3","09:03:00","PP","MCI Center","H","W",0,0
+"2005-10-05","WSH","CBJ",20,"Dainius Zubrus","Jeff Halpern","Pascal Leclaire","2","07:21:00","EV","MCI Center","H","W",0,0
+"2005-10-05","WSH","CBJ",20,"Jeff Halpern","Mathieu Biron","Pascal Leclaire","2","11:51:00","PP","MCI Center","H","W",0,0
