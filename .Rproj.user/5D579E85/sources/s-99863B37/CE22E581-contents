@@ -3,8 +3,8 @@ title: "Tale Of Two Great Goal Scorers: An Analysis Of How Alex Ovechkin And Way
 author: "Xiaotang Zhou"
 date: "09/03/2022"
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}

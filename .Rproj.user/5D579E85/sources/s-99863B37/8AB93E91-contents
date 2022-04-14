@@ -1,5 +1,5 @@
 ---
-title: "JSC370 Final Project"
+title: "JSC370 Final Project Interactive Visuals"
 author: "Xiaotang (Jeffrey) Zhou"
 output: 
     html_document:
@@ -9,7 +9,7 @@ output:
 
 <br>
 
-This is my JSC370 Final Project website. I will showcase a few interactive visuals here.
+This is the Interactive Visuals page of my JSC370 Final Project website.
 
 <br>
 
@@ -255,13 +255,14 @@ ovi_data_copy$Result <- case_when(ovi_data_copy$Result == "W" ~ "Regulation Win"
 ovi_data_copy$HomeAway <- case_when(ovi_data_copy$HomeAway == "H" ~ "Home", ovi_data_copy$HomeAway == "A" ~ "Away")
 ovi_data_copy$Strength <- case_when(ovi_data_copy$Strength == "EV" ~ "Even Strength", ovi_data_copy$Strength == "PP" ~ "Power Play", ovi_data_copy$Strength == "SH" ~ "Shorthanded")
 ovi_data_copy$Time <- substr(ovi_data_copy$Time, start = 1, stop = 5)
+ovi_data_copy$Period <- case_when(ovi_data_copy$Period == 1 ~ "1st", ovi_data_copy$Period == 2 ~ "2nd", ovi_data_copy$Period == 3 ~ "3rd", ovi_data_copy$Period == "OT" ~ "Overtime")
 ovi_data_copy$Team <- rep("Washington Capitals", nrow(ovi_data_copy))
 
 ovi_data_copy <- merge(ovi_data_copy, name_table, by.x = c("Opponent"), by.y = c("Abbreviation"))
 
 ovi_data_copy <- ovi_data_copy[c(2:ncol(ovi_data_copy))]
 
-colnames(ovi_data_copy) <- c("Date", "Team", "Age", "1st Assist", "2nd Assist", "Goalie", "Period", "Time", "Strength", "Arena", "Home/Away", "Result", "Empty Net Goal", "Penalty Shot Goal", "Opponent")
+colnames(ovi_data_copy) <- c("Date", "Team", "Age (years)", "1st Assist", "2nd Assist", "Goalie", "Period", "Time", "Strength", "Arena", "Home/Away", "Result", "Empty Net Goal", "Penalty Shot Goal", "Opponent")
 
 ovi_data_copy <- ovi_data_copy[, c(1, 2, 15, 3:14)]
 
@@ -270,16 +271,16 @@ ovi_data_copy <- left_join(ovi_data_copy, ovi_potential_games[c(1, 3, 4)], by = 
 
 ovi_data_copy <- ovi_data_copy[, c(1:13, 18, 14:15)]
 
-colnames(ovi_data_copy) <- c("Date", "Team", "Opponent", "Age", "1st Assist", "2nd Assist", "Goalie", "Period", "Time", "Strength", "Arena", "Home/Away", "Result", "Final Score", "Empty Net Goal", "Penalty Shot Goal")
+colnames(ovi_data_copy) <- c("Date", "Team", "Opponent", "Age (years)", "1st Assist", "2nd Assist", "Goalie", "Period", "Time", "Strength", "Arena", "Home/Away", "Result", "Final Score", "Empty Net Goal", "Penalty Shot Goal")
 
 ovi_data_copy <- ovi_data_copy %>%
-  arrange(desc(Date))
+  arrange(desc(Date), desc(Period), desc(Time))
 
 ovi_data_copy$cgoal <- rev(c(1:776))
 
 ovi_data_copy <- ovi_data_copy[, c(1:4, 17, 5:16)]
 
-colnames(ovi_data_copy) <- c("Date", "Team", "Opponent", "Age", "Career Goal Number", "1st Assist", "2nd Assist", "Goalie", "Period", "Time", "Strength", "Arena", "Home/Away", "Result", "Final Score", "Empty Net Goal", "Penalty Shot Goal")
+colnames(ovi_data_copy) <- c("Date", "Team", "Opponent", "Age (years)", "Career Goal Number", "1st Assist", "2nd Assist", "Goalie", "Period", "Time", "Strength", "Arena", "Home/Away", "Result", "Final Score", "Empty Net Goal", "Penalty Shot Goal")
 ```
 
 ```{r, echo = FALSE}
@@ -295,6 +296,7 @@ gretzky_data_copy$Result <- case_when(gretzky_data_copy$Result == "W" ~ "Regulat
 gretzky_data_copy$HomeAway <- case_when(gretzky_data_copy$HomeAway == "H" ~ "Home", gretzky_data_copy$HomeAway == "A" ~ "Away")
 gretzky_data_copy$Strength <- case_when(gretzky_data_copy$Strength == "EV" ~ "Even Strength", gretzky_data_copy$Strength == "PP" ~ "Power Play", gretzky_data_copy$Strength == "SH" ~ "Shorthanded")
 gretzky_data_copy$Time <- substr(gretzky_data_copy$Time, start = 12, stop = 16)
+gretzky_data_copy$Period <- case_when(gretzky_data_copy$Period == 1 ~ "1st", gretzky_data_copy$Period == 2 ~ "2nd", gretzky_data_copy$Period == 3 ~ "3rd", gretzky_data_copy$Period == "OT" ~ "Overtime")
 gretzky_data_copy$Team <- case_when(gretzky_data_copy$Team == "EDM" ~ "Edmonton Oilers",
                                     gretzky_data_copy$Team == "LAK" ~ "Los Angeles Kings",
                                     gretzky_data_copy$Team == "STL" ~ "St. Louis Blues",
@@ -304,7 +306,7 @@ gretzky_data_copy <- merge(gretzky_data_copy, name_table, by.x = c("Opponent"), 
 
 gretzky_data_copy <- gretzky_data_copy[c(2:ncol(gretzky_data_copy))]
 
-colnames(gretzky_data_copy) <- c("Date", "Team", "Age", "1st Assist", "2nd Assist", "Goalie", "Period", "Time", "Strength", "Arena", "Result", "Home/Away", "Empty Net Goal", "Penalty Shot Goal", "Opponent")
+colnames(gretzky_data_copy) <- c("Date", "Team", "Age (years)", "1st Assist", "2nd Assist", "Goalie", "Period", "Time", "Strength", "Arena", "Result", "Home/Away", "Empty Net Goal", "Penalty Shot Goal", "Opponent")
 
 gretzky_data_copy <- gretzky_data_copy[, c(1, 2, 15, 3:10, 12, 11, 13, 14)]
 
@@ -313,16 +315,16 @@ gretzky_data_copy <- left_join(gretzky_data_copy, gretzky_potential_games[c(1, 3
 
 gretzky_data_copy <- gretzky_data_copy[, c(1:13, 18, 14:15)]
 
-colnames(gretzky_data_copy) <- c("Date", "Team", "Opponent", "Age", "1st Assist", "2nd Assist", "Goalie", "Period", "Time", "Strength", "Arena", "Home/Away", "Result", "Final Score", "Empty Net Goal", "Penalty Shot Goal")
+colnames(gretzky_data_copy) <- c("Date", "Team", "Opponent", "Age (years)", "1st Assist", "2nd Assist", "Goalie", "Period", "Time", "Strength", "Arena", "Home/Away", "Result", "Final Score", "Empty Net Goal", "Penalty Shot Goal")
 
 gretzky_data_copy <- gretzky_data_copy %>%
-  arrange(desc(Date))
+  arrange(desc(Date), desc(Period), desc(Time))
 
 gretzky_data_copy$cgoal <- rev(c(1:894))
 
 gretzky_data_copy <- gretzky_data_copy[, c(1:4, 17, 5:16)]
 
-colnames(gretzky_data_copy) <- c("Date", "Team", "Opponent", "Age", "Career Goal Number", "1st Assist", "2nd Assist", "Goalie", "Period", "Time", "Strength", "Arena", "Home/Away", "Result", "Final Score", "Empty Net Goal", "Penalty Shot Goal")
+colnames(gretzky_data_copy) <- c("Date", "Team", "Opponent", "Age (years)", "Career Goal Number", "1st Assist", "2nd Assist", "Goalie", "Period", "Time", "Strength", "Arena", "Home/Away", "Result", "Final Score", "Empty Net Goal", "Penalty Shot Goal")
 ```
 
 <!-- ```{r, class.source="code-r-small"} -->

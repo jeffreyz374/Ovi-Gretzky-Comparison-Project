@@ -3,7 +3,7 @@
     "path": "~/my-website/page3.Rmd",
     "project_path": "page3.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "2198037999",
     "contents": "",
     "dirty": false,
     "created": 1649189744308.0,
@@ -12,16 +12,16 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "167,21",
-        "scrollLine": "156",
+        "cursorPosition": "326,73",
+        "scrollLine": "316",
         "last_setup_crc32": "99863B372ef4b637"
     },
     "folds": "",
-    "lastKnownWriteTime": 1649890049,
+    "lastKnownWriteTime": 1649909363,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1649890049329,
+    "last_content_update": 1649909363434,
     "read_only": false,
     "read_only_alternatives": []
 }

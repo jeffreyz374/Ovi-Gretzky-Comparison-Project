@@ -31,7 +31,7 @@
 "0","colnames(gretzky_data_copy) <- c(""Date"", ""Team"", ""Opponent"", ""Age"", ""1st Assist"", ""2nd Assist"", ""Goalie"", ""Period"", ""Time"", ""Strength"", ""Arena"", ""Home/Away"", ""Result"", ""Final Score"", ""Empty Net Goal"", ""Penalty Shot Goal"")"
 "0",""
 "0","gretzky_data_copy <- gretzky_data_copy %>%"
-"0","  arrange(desc(Date))"
+"0","  arrange(desc(Date), desc(Period), desc(Time))"
 "0",""
 "0","gretzky_data_copy$cgoal <- rev(c(1:894))"
 "0",""
