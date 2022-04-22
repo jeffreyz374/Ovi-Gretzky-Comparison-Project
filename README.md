@@ -2,6 +2,6 @@ This is the GitHub repository for my JSC370 final project. In this project, I an
 
 For this project, I wrote a PDF report summarizing my data scraping and cleaning techniques, my model building methods, and my results and conclusions, and I also created a website to host this report and a suite of interactive visuals that are derived from the data that I scraped and cleaned. All the files that are needed to compile the website are in the master branch of this repository while the report is located in the main branch.
 
-The website is located at:
+The website is located at: https://jeffreyz374.github.io/Ovi-Gretzky-Comparison-Project/index.html
 
 Website last updated on April 21 2022.
