@@ -1,0 +1,2 @@
+"0","ovi_model_set <- ovi_model_set[, c(1, 13, 14, 15, 2, 4:12, 3)]"
+"0","gretzky_model_set <- gretzky_model_set[, c(1, 13, 14, 15, 2, 4:12, 3)]"

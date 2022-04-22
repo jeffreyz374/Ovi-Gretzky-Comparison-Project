@@ -1,0 +1,178 @@
+"0","knitr::opts_chunk$set(echo = FALSE)"
+"2","Warning messages:
+"
+"2","1: "
+"2","In readLines(index, encoding = encoding) :"
+"2","
+ "
+"2"," incomplete final line found on '/Users/jeffrey/my-website/index.Rmd'
+"
+"2","2: "
+"2","In readLines(index, encoding = encoding) :"
+"2","
+ "
+"2"," incomplete final line found on '/Users/jeffrey/my-website/index.Rmd'
+"
+"0","knitr::knit_hooks$set(plot = function(x, options)  {"
+"0","  knitr::hook_plot_tex(x, options)"
+"0","})"
+"0","library(RCurl)"
+"0","library(kableExtra)"
+"0","library(parallel)"
+"0","library(foreach)"
+"0","library(doParallel)"
+"2","Loading required package: iterators
+"
+"0","library(tidyverse)"
+"2","Registered S3 methods overwritten by 'dbplyr':
+  method         from
+  print.tbl_lazy     
+  print.tbl_sql      
+"
+"2","[30m── [1mAttaching packages[22m ────────────────────────────────────────────────── tidyverse 1.3.1 ──[39m
+"
+"2","[30m[32m✓[30m [34mggplot2[30m 3.3.5     [32m✓[30m [34mpurrr  [30m 0.3.4
+[32m✓[30m [34mtibble [30m 3.1.2     [32m✓[30m [34mdplyr  [30m 1.0.7
+[32m✓[30m [34mtidyr  [30m 1.1.3     [32m✓[30m [34mstringr[30m 1.4.0
+[32m✓[30m [34mreadr  [30m 2.1.1     [32m✓[30m [34mforcats[30m 0.5.1[39m
+"
+"2","[30m── [1mConflicts[22m ───────────────────────────────────────────────────── tidyverse_conflicts() ──
+[31mx[30m [34mpurrr[30m::[32maccumulate()[30m masks [34mforeach[30m::accumulate()
+[31mx[30m [34mtidyr[30m::[32mcomplete()[30m   masks [34mRCurl[30m::complete()
+[31mx[30m [34mdplyr[30m::[32mfilter()[30m     masks [34mstats[30m::filter()
+[31mx[30m [34mdplyr[30m::[32mgroup_rows()[30m masks [34mkableExtra[30m::group_rows()
+[31mx[30m [34mdplyr[30m::[32mlag()[30m        masks [34mstats[30m::lag()
+[31mx[30m [34mpurrr[30m::[32mwhen()[30m       masks [34mforeach[30m::when()[39m
+"
+"0","library(rpart)"
+"0","library(rpart.plot)"
+"0","library(randomForest)"
+"2","randomForest 4.7-1
+"
+"2","Type rfNews() to see new features/changes/bug fixes.
+"
+"2","
+Attaching package: ‘randomForest’
+
+"
+"2","The following object is masked from ‘package:dplyr’:
+
+    combine
+
+"
+"2","The following object is masked from ‘package:ggplot2’:
+
+    margin
+
+"
+"0","library(gbm)"
+"2","Loaded gbm 2.1.8
+"
+"0","library(xgboost)"
+"2","Registered S3 method overwritten by 'data.table':
+  method           from
+  print.data.table     
+"
+"2","
+Attaching package: ‘xgboost’
+
+"
+"2","The following object is masked from ‘package:dplyr’:
+
+    slice
+
+"
+"0","library(caret)"
+"2","Loading required package: lattice
+"
+"2","
+Attaching package: ‘caret’
+
+"
+"2","The following object is masked from ‘package:purrr’:
+
+    lift
+
+"
+"0","library(dplyr)"
+"0","library(MASS)"
+"2","
+Attaching package: ‘MASS’
+
+"
+"2","The following object is masked from ‘package:dplyr’:
+
+    select
+
+"
+"0","library(brant)"
+"0","library(car)"
+"2","Loading required package: carData
+"
+"2","
+Attaching package: ‘car’
+
+"
+"2","The following object is masked from ‘package:dplyr’:
+
+    recode
+
+"
+"2","The following object is masked from ‘package:purrr’:
+
+    some
+
+"
+"0","library(lubridate)"
+"2","
+Attaching package: ‘lubridate’
+
+"
+"2","The following objects are masked from ‘package:base’:
+
+    date, intersect, setdiff, union
+
+"
+"0","library(patchwork)"
+"2","
+Attaching package: ‘patchwork’
+
+"
+"2","The following object is masked from ‘package:MASS’:
+
+    area
+
+"
+"0","ovi_data <- getURL(""https://raw.githubusercontent.com/jeffreyz374/JSC370_Project/main/Data/ovi-data.csv"")"
+"0","ovi_data <- read.csv(text = ovi_data)"
+"0","  "
+"0",""
+"0","gretzky_data <- getURL(""https://raw.githubusercontent.com/jeffreyz374/JSC370_Project/main/Data/gretzky-data.csv"")"
+"0","gretzky_data <- read.csv(text = gretzky_data)"
+"0",""
+"0","ovi_goals_by_date <- ovi_data %>%"
+"0","  group_by(Date) %>%"
+"0","  summarise(Goals = n())"
+"0",""
+"0","caps_wins_by_date <- ovi_data %>%"
+"0","  distinct(Date, Result)"
+"0",""
+"0","ovi_model_set <- merge(ovi_goals_by_date, caps_wins_by_date)"
+"0",""
+"0","gretzky_goals_by_date <- gretzky_data %>%"
+"0","  group_by(Date) %>%"
+"0","  summarise(Goals = n())"
+"0",""
+"0","wins_by_date <- gretzky_data %>%"
+"0","  distinct(Date, Result)"
+"0",""
+"0","gretzky_model_set <- merge(gretzky_goals_by_date, wins_by_date)"
+"0",""
+"0","ovi_potential_games <- getURL(""https://raw.githubusercontent.com/jeffreyz374/JSC370_Project/main/Data/ovi-potential-games.csv"")"
+"0","ovi_potential_games <- read.csv(text = ovi_potential_games)"
+"0",""
+"0","gretzky_potential_games <- getURL(""https://raw.githubusercontent.com/jeffreyz374/JSC370_Project/main/Data/gretzky-potential-games.csv"")"
+"0","gretzky_potential_games <- read.csv(text = gretzky_potential_games)"
+"0",""
+"0","name_table <- getURL(""https://raw.githubusercontent.com/jeffreyz374/JSC370_Project/main/Data/name-table.csv"")"
+"0","name_table <- read.csv(text = name_table)"

@@ -1,0 +1,27 @@
+{
+    "id": "8FC61D73",
+    "path": "~/Downloads/Preliminary Analyses.Rmd",
+    "project_path": null,
+    "type": "r_markdown",
+    "hash": "2726989502",
+    "contents": "",
+    "dirty": false,
+    "created": 1650472536465.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "139,254",
+        "scrollLine": "0",
+        "last_setup_crc32": ""
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1649908690,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1649908690,
+    "read_only": false,
+    "read_only_alternatives": []
+}

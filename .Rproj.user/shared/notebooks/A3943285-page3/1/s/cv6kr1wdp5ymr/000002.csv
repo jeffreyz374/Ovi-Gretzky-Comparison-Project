@@ -1,0 +1,2 @@
+"0","ggplotly(gretzky_goalies_plot, tooltip = c(""text"")) %>%"
+"0","  layout(autosize = F, height = 2000, hoverlabel=list(bgcolor=""white""))"

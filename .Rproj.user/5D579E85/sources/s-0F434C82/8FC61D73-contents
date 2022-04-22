@@ -1,0 +1,226 @@
+---
+title: "Tale Of Two Great Goal Scorers: An Analysis Of How Alex Ovechkin And Wayne Gretzky's Goals Impact Their Teams' Chances Of Winning"
+author: "Xiaotang Zhou"
+date: "09/03/2022"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(dplyr)
+library(tidyverse)
+library(kableExtra)
+library(RCurl)
+
+ovi_data <- getURL("https://raw.githubusercontent.com/jeffreyz374/JSC370_Project/main/ovi-data.csv")
+ovi_data <- read.csv(text = ovi_data)
+  
+
+gretzky_data <- getURL("https://raw.githubusercontent.com/jeffreyz374/JSC370_Project/main/gretzky-data.csv")
+gretzky_data <- read.csv(text = gretzky_data)
+
+ovi_goals_by_date <- ovi_data %>%
+  group_by(Date) %>%
+  summarise(Goals = n())
+
+unique_date_opponent_pairs <- ovi_data %>%
+  select(c("Date", "Opponent")) %>%
+  distinct(Date, Opponent)
+
+ovi_goals_by_date <- merge(ovi_goals_by_date, unique_date_opponent_pairs)
+
+caps_wins_by_date <- ovi_data %>%
+  distinct(Date, Result)
+
+x_ovi <- merge(ovi_goals_by_date, caps_wins_by_date)
+
+gretzky_goals_by_date <- gretzky_data %>%
+  group_by(Date) %>%
+  summarise(Goals = n())
+
+wins_by_date <- gretzky_data %>%
+  distinct(Date, Result)
+
+x_gretzky <- merge(gretzky_goals_by_date, wins_by_date)
+
+ovi_potential_games <- getURL("https://raw.githubusercontent.com/jeffreyz374/JSC370_Project/main/ovi-potential-games.csv")
+ovi_potential_games <- read.csv(text = ovi_potential_games)
+
+gretzky_potential_games <- getURL("https://raw.githubusercontent.com/jeffreyz374/JSC370_Project/main/gretzky-potential-games.csv")
+gretzky_potential_games <- read.csv(text = gretzky_potential_games)
+
+name_table <- getURL("https://raw.githubusercontent.com/jeffreyz374/JSC370_Project/main/name-table.csv")
+name_table <- read.csv(text = name_table)
+
+# goal_775 <- data.frame(Date = c("2022-04-10"), Team = c("WSH"), Opponent = c("BOS"), Age = c(36), Assist1 = c("Evgeny Kuznetsov"), Assist2 = c("John Carlson"), Goalie = c(NA), Period = c(3), Time = c("19:58:00"), Strength = c("EV"), ArenaName = c("Capital One Arena"), HomeAway = c("H"), Result = c("W"), ENG = c(1), PS = c(0))
+```
+
+## Introduction
+
+If you follow the National Hockey League (NHL) in any capacity, you would likely know the names of Alexander Ovechkin and Wayne Gretzky. If you don't follow the NHL or don't know one or both of these names, an introduction to them can best be summed up as describing the two greatest goal scorers in NHL history. 
+
+To go further in depth, Wayne Gretzky played for four NHL teams between 1979 and 1999, a 20-year career which saw him set over 60 NHL records that still stand to this day, including the record for most career goals with 894, earning him the nickname "The Great One" and the honour of being the only player to have his number 99 retired all around the NHL as the greatest complete player in NHL history. On the other hand, Alexander Ovechkin currently plays for the Washington Capitals, the team that drafted him in 2004, and is widely considered to be the best goal scorer of this generation of NHL players, having amassed 766 career NHL goals as of March 9 2022 and is considered the player most likely to break Gretzky's record of 894 NHL goals. 
+
+As a result of Ovechkin having a legitimate shot of breaking Gretzky's goals record due to him recently signing a 5-year contract extension with the Capitals, a lot of questions have been raised about whether he can do it and also about who is the greatest goal scorer of all time, with the pro-Ovechkin side claiming that as Gretzky played in an era where a final score of 8-7 was not uncommon for an NHL game, Ovechkin already holds the title of greatest goal scorer as he scored his goals in a time when defensive strategies and goalie equipment have improved dramatically, while the pro-Gretzky side claims that Gretzky was able to score his goals in a time when wooden sticks were used and things that would be considered clear penalties today would not be called, and therefore Gretzky is still the greatest goal scorer. 
+
+From this standpoint, it is easy to fall down the rabbit hole of trying to determine whether Ovechkin or Gretzky is the greatest goal scorer of all time, as this comparison will attempt the impossible task of comparing two players from completely different eras. Instead, this project will seek to build a model that will predict the probability of Ovechkin or Gretzky's team winning a game conditioned on factors such as whether Ovechkin or Gretzky scored, whether the game was played at home or on the road, and other potential factors, with the goal of assessing from a probabilistic point of view which player's scoring prowess had the bigger impact on their teams' success. This way, the impact of having different eras present in our analyses will be minimized, as there will not be any direct interaction between the models, with a comparison of Ovechkin and Gretzky only taking place after the models have been built and interpreted.
+
+For now, this preliminary analysis will look at data on all of the goals that have been scored so far by each player, with the goal of eventually importing data that describes all of the games Ovechkin and Gretzky's teams have played, regardless of whether they scored or not, in order to build the models.
+
+## Methods
+
+There were two datasets that were used in this preliminary analysis: one dataset contained information on all 894 of Gretzky's career goals while the other contained information on all 766 of Ovechkin's career goals as of March 9 2022. These were taken from [stathead.com's "Goal Finder"](https://stathead.com/hockey/goal_finder.cgi?request=1&scorer_id=ovechal01&scorer_id_select=Alex%2520Ovechkin&utm_medium=hr&utm_source=player-page-links&utm_campaign=hockey) feature (this is the page for Ovechkin, to find the page for Gretzky click the link and type in Gretzky in the search bar at the top of the page), where data on all of the goals scored by anyone who has ever played in the NHL can be found. To scrape these data off the site, the "Export to CSV" button on the website was used to generate a CSV file that contained the relevant data, which was then easily opened in R. 
+
+To clean the data to make it suitable for future model building, the first thing that was done was to delete any columns that were redundant in the context of the analysis. For example, both raw datasets originally contained a column that denoted the name of the player who scored the goal, which is obviously useless and was deleted because it is known that one dataset contains data about Ovechkin's goals and the other contains data about Gretzky's goals. 
+
+The next thing that was done was to replace columns that contained lots of missing values with new columns that represented the data better. An example of this is with the `Result` column in the cleaned datasets. Originally, the raw datasets had two columns representing the outcome of the game from the perspective of the team Ovechkin or Gretzky played for, with one of the columns denoting whether they won the game ("W"), lost the game ("L"), or tied the game ("T") and the other column denoting whether the win or loss was in sudden-death overtime ("OT"), a penalty shootout ("SO"), or neither (NA). This second column thus contained missing values when a game was won or lost in regulation time (i.e. the game was not tied after three periods of play and no tiebreaker was needed) or ended in a tie, so the new (missing value-less) `Result` column was created so that "W" denotes a regulation win, "L" denotes a regulation loss, "T" denotes a tie, "OTW" denotes a win in sudden-death overtime, "OTL" denotes a loss in sudden-death overtime, "SOW" denotes a win in a penalty shootout, and "SOL" denotes a loss in a penalty shootout. 
+
+To perform preliminary analyses on the data, both numerical and graphical objects were created. This was done in order to get a clearer picture on what the final findings may look like and also what kind of model would best be suited to answer the question formulated in the introduction. 
+
+## Preliminary Results
+
+We can compare Ovechkin and Gretzky's individual goal scoring prowesses in a variety of ways, and doing so will help us gain a better picture of how each player helps their team win in different ways. So, to start, we can look at how many goals Ovechkin and Gretzky have scored while playing at their home arena and while playing at an opponent's arena in the tables below:
+
+```{r}
+ovi_data %>%
+  group_by(HomeAway) %>%
+  summarise(Goals = n()) %>%
+  kable(caption = "Number of goals scored by Ovechkin at his team's home arena and at his opponent's home arena in his NHL career") %>%
+  kable_styling()
+
+gretzky_data %>%
+  group_by(HomeAway) %>%
+  summarise(Goals = n()) %>%
+  kable(caption = "Number of goals scored by Gretzky at his team's home arena and at his opponent's home arena in his NHL career") %>%
+  kable_styling()
+```
+
+As we can see in the tables above, both players have around a 50/50 split between home and away goals, where Gretzky tends to score a few more at home while Ovechkin tends to score more on the road.
+
+Next, another way in which we can individually compare Ovechkin and Gretzky is examining the frequencies of goals scored at different ages. We can do this for Ovechkin as follows:
+
+```{r}
+ovi_data %>%
+  ggplot(aes(x = Age)) +
+  geom_bar() +
+  ylab("Goals") +
+  ggtitle("Number of goals scored by Ovechkin at varying ages in his NHL career") +
+  coord_flip() +
+  theme_minimal()
+
+ovi_data %>%
+  group_by(Age) %>%
+  summarise(Goals = n()) %>%
+  kable(caption = "Number of goals scored by Ovechkin at varying ages in his NHL career") %>%
+  kable_styling()
+```
+
+The same can be done for Gretzky:
+
+```{r}
+gretzky_data %>%
+  ggplot(aes(x = Age)) +
+  geom_bar() +
+  ylab("Goals") +
+  ggtitle("Number of goals scored by Gretzky at varying ages in his NHL career") +
+  coord_flip() +
+  theme_minimal()
+
+gretzky_data %>%
+  group_by(Age) %>%
+  summarise(Goals = n()) %>%
+  kable(caption = "Number of goals scored by Gretzky at varying ages in his NHL career") %>%
+  kable_styling()
+```
+
+From the above, we can see that although Gretzky scored at an explosive pace at a younger age, his production slowed down as he began to get older. On the other hand, Ovechkin seems to be able to consistently score at a more constant pace, despite also now being about as old as Gretzky was when he retired. It is also important to remember that although Gretzky has long since retired, Ovechkin is still playing and will likely play in the NHL until he is 40 years old.
+
+Next, we will do one more individual comparison between the two players, this time comparing the frequencies of their goals when their team and their opponent are allowed the same number of players on the ice (known as "even strength" or EV), when their team has a one or more player advantage over their opponent (known as a "power play" or PP, which happens when the opponent takes a penalty), and when their team is playing with a one or more player DISadvantage (known as playing "shorthanded" or SH, which happens when THEIR team takes a penalty). For Ovechkin, the frequencies can be seen below:
+
+```{r}
+ovi_data %>%
+  ggplot(aes(x = Strength)) +
+  geom_bar() +
+  ylab("Goals") +
+  ggtitle("Number of goals scored by Ovechkin at varying strengths in his NHL career") +
+  theme_minimal()
+
+ovi_data %>%
+  group_by(Strength) %>%
+  summarise(Goals = n()) %>%
+  kable(caption = "Number of goals scored by Ovechkin at varying strengths in his NHL career") %>%
+  kable_styling()
+```
+
+We can do the same for Gretzky as follows:
+
+```{r}
+gretzky_data %>%
+  ggplot(aes(x = Strength)) +
+  geom_bar() +
+  ylab("Goals") +
+  ggtitle("Number of goals scored by Gretzky at varying strengths in his NHL career") +
+  theme_minimal()
+
+gretzky_data %>%
+  group_by(Strength) %>%
+  summarise(Goals = n()) %>%
+  kable(caption = "Number of goals scored by Gretzky at varying strengths in his NHL career") %>%
+  kable_styling()
+```
+
+Looking at these tables and plots, we can observe that both players score the most at even strength, while Ovechkin scores more on the power play than Gretzky and Gretzky tends to score more while shorthanded than Ovechkin.
+
+Now, getting to the main question, to get an idea of whether Ovechkin's team wins, loses, or ties when he scores, the barplot and frequency table of the counts of the `Result` column can be drawn as seen below:
+
+```{r}
+caps_wins_by_date %>%
+  ggplot(aes(x = Result)) +
+  geom_bar() +
+  ylab("Goals") +
+  ggtitle("Frequencies of different game outcomes for Ovechkin's 
+          team when Ovechkin scores at least one goal") +
+  theme_minimal()
+```
+
+```{r}
+caps_wins_by_date %>%
+  group_by(Result) %>%
+  summarise(count = n()) %>%
+  kable(caption = "Frequencies of different game outcomes for Ovechkin's team when Ovechkin scores at least one goal") %>%
+  kable_styling()
+```
+
+The same can be done for Gretzky as follows:
+
+```{r}
+wins_by_date %>%
+  ggplot(aes(x = Result)) +
+  geom_bar() +
+  ggtitle("Frequencies of different game outcomes for Gretzky's 
+          team when Gretzky scores at least one goal") +
+  theme_minimal()
+```
+
+```{r}
+wins_by_date %>%
+  group_by(Result) %>%
+  summarise(count = n()) %>%
+  kable(caption = "Frequencies of different game outcomes for Gretzky's team when Gretzky scores at least one goal") %>%
+  kable_styling()
+```
+
+From these charts and tables, it is easy to see that when both players score, their teams tend to win, which is to be expected as both players are regarded as key contributors to their respective teams' success as mentioned earlier.
+
+
+## Conclusions
+
+All in all, this analysis of data about all of Ovechkin and Gretzky's goals was conducted to gain preliminary insight into potential predictors for the models that we plan to build for this project. By looking at the factors of whether Ovechkin and Gretzky scored in a game, whether the goal was scored at home or on the road, what strength their team was playing at, and at what age they scored their goals, we were able to gain a snapshot as to how we could potentially build the models. 
+
+The next step is then to scrape more data that contains the results of all of the games played by Ovechkin and Gretzky's teams throughout their careers, which would allow us to also see what happens when they DON'T score in order to build models that account for both situations. This would allow us to answer the question formulated in the introduction of how much do Ovechkin and Gretzky's scoring prowesses impact their teams' success.
+
+# Link to Project GitHub:
+
+https://github.com/jeffreyz374/JSC370_Project

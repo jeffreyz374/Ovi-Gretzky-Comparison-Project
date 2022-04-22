@@ -1,0 +1,7 @@
+"0","gretzky_model_set %>%"
+"0","  filter(Goals == 0) %>%"
+"0","  ggplot(aes(x = Result)) +"
+"0","  geom_bar() +"
+"0","  ggtitle(""Frequencies of different game outcomes for Gretzky's team"
+"0","          when Gretzky DOES NOT score a goal"") +"
+"0","  theme_minimal()"

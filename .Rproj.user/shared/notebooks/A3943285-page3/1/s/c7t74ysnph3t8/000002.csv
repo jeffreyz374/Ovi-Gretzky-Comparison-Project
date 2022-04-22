@@ -1,0 +1,2 @@
+"0","ggplotly(gretzky_age_goals) %>%"
+"0","  layout(hoverlabel=list(bgcolor=""white""))"
