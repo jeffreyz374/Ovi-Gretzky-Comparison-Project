@@ -4,4 +4,4 @@ For this project, I wrote a PDF report summarizing my data scraping and cleaning
 
 The website is located at: https://jeffreyz374.github.io/Ovi-Gretzky-Comparison-Project/index.html
 
-Website last updated on April 21 2022.
+Website last updated on September 27 2022.
