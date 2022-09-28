@@ -9,7 +9,7 @@ output:
 
 This website hosts the interactive visualizations that pertain to data collected on the goals scored by National Hockey League (NHL) players Alexander Ovechkin and Wayne Gretzky, two of the greatest goal scorers in NHL history. These visualizations are part of the wider project that seeks to assess which of these goal scoring talents had the greater impact goal scoring wise on the teams they played for in terms of odds of winning games.
 
-In this project, data was collected on the goals scored by Ovechkin and Gretzky as well as on the games they potentially could have played over their respective careers. Then, for each of these potential games, various types of goals that each player scored (i.e. even strength goals, power play goals, etc.) were aggregated, and these counts and other predictors were fitted to an ordinal logistic regression model with the response being the result of the game from the perspective of the team Ovechkin or Gretzky played on. The coefficients of the regression model were then interpreted to determine how each predictor influenced the odds of a better result for both players' teams. Note that as Ovechkin is currently an active player in the NHL, any data corresponding to him is accurate as of April 12 2022.
+In this project, data was collected on the goals scored by Ovechkin and Gretzky as well as on the games they potentially could have played over their respective careers. Then, for each of these potential games, various types of goals that each player scored (i.e. even strength goals, power play goals, etc.) were aggregated, and these counts and other predictors were fitted to an ordinal logistic regression model with the response being the result of the game from the perspective of the team Ovechkin or Gretzky played on. The coefficients of the regression model were then interpreted to determine how each predictor influenced the odds of a better result for both players' teams. Note that as Ovechkin is currently an active player in the NHL, any data corresponding to him is accurate as of September 27 2022.
 
 To read the full methodology and results, click [here](https://github.com/jeffreyz374/Ovi-Gretzky-Comparison-Project/raw/main/Final-Report.pdf) to download the final project report.
 
@@ -260,7 +260,7 @@ colnames(gretzky_data_copy) <- c("Date", "Team", "Opponent", "Age (years)", "Car
 
 ## Frequencies of Outcomes In Games Where Ovechkin and Gretzky Scored Goals {.tabset}
 
-This is an interactive version of Figures 1 and 2 in the report, which collectively show the frequencies of the outcomes of games for Ovechkin and Gretzky's teams when Ovechkin and Gretzky score at least one goal (as Ovechkin is still active in the NHL, his data is accurate as of April 12 2022):
+This is an interactive version of Figures 1 and 2 in the report, which collectively show the frequencies of the outcomes of games for Ovechkin and Gretzky's teams when Ovechkin and Gretzky score at least one goal (as Ovechkin is still active in the NHL, his data is accurate as of September 27 2022):
 
 ```{r, echo = FALSE}
 ovi_goal_wins <- ovi_data_copy %>%
@@ -308,7 +308,7 @@ ggplotly(gretzky_goal_wins) %>%
 
 ## Frequencies of Outcomes In Games Where Ovechkin and Gretzky DID NOT Score a Goal {.tabset}
 
-This is an interactive version of Figures 1 and 2 in the report, which collectively show the outcomes of games for Ovechkin and Gretzky's teams when Ovechkin and Gretzky DID NOT score a goal (as Ovechkin is still active in the NHL, his data is accurate as of April 12 2022):
+This is an interactive version of Figures 1 and 2 in the report, which collectively show the outcomes of games for Ovechkin and Gretzky's teams when Ovechkin and Gretzky DID NOT score a goal (as Ovechkin is still active in the NHL, his data is accurate as of September 27 2022):
 
 ```{r, echo = FALSE}
 missing_ovi_games <- ovi_potential_games %>%
@@ -373,7 +373,7 @@ ggplotly(gretzky_nogoal_wins) %>%
 
 ## Information About Every Ovechkin and Gretzky Goal {.tabset}
 
-This interactive visual displays information about all of the goals that Ovechkin and Gretzky have scored (as Ovechkin is still active in the NHL, his table is accurate as of April 12 2022):
+This interactive visual displays information about all of the goals that Ovechkin and Gretzky have scored (as Ovechkin is still active in the NHL, his table is accurate as of September 27 2022):
 
 ### Ovechkin
 
