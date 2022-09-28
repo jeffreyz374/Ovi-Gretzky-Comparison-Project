@@ -9,7 +9,7 @@ output:
 
 <br>
 
-These are additional interactive visuals that are derived from the information on all of the goals ever scored by Ovechkin (as of September 27 2022) and Gretzky. Although not relevant to the scope of the project, these visuals still provide a comparison between the individual goal scoring talents of both players.
+These are additional interactive visuals that are derived from the information on all of the goals ever scored by Ovechkin (as of the 2022-23 preseason (September 27 2022)) and Gretzky. Although not relevant to the scope of the project, these visuals still provide a comparison between the individual goal scoring talents of both players.
 
 <br>
 
