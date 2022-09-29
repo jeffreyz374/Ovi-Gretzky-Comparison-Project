@@ -113,7 +113,7 @@ colnames(ovi_data_copy) <- c("Date", "Team", "Opponent", "Age (years)", "1st Ass
 ovi_data_copy <- ovi_data_copy %>%
   arrange(desc(Date), desc(Period), desc(Time))
 
-ovi_data_copy$cgoal <- rev(c(1:776))
+ovi_data_copy$cgoal <- rev(c(1:nrow(ovi_data_copy)))
 
 ovi_data_copy <- ovi_data_copy[, c(1:4, 17, 5:16)]
 
