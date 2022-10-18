@@ -11,7 +11,7 @@ output:
 
 These are additional interactive visuals that are derived from the information on all of the goals ever scored by Ovechkin and Gretzky. Although not relevant to the scope of the project, these visuals still provide a comparison between the individual goal scoring talents of both players.
 
-Note that as Ovechkin is currently an active player in the NHL and the 2022-23 Regular Season is currently being played, his data is accurate as of the last update to this website. This update was most recently performed on October 14 2022.
+Note that as Ovechkin is currently an active player in the NHL and the 2022-23 Regular Season is currently being played, his data is accurate as of the last update to this website. This update was most recently performed on October 18 2022.
 
 <br>
 
@@ -182,7 +182,7 @@ colnames(gretzky_data_copy) <- c("Date", "Team", "Opponent", "Age (years)", "Car
 
 This interactive visual shows the number of goals scored by Ovechkin and Gretzky grouped by the age at which each player scored those goals.
 
-Note that as Ovechkin is currently an active player in the NHL and the 2022-23 Regular Season is currently being played, his data is accurate as of the last update to this website. This update was most recently performed on October 14 2022.
+Note that as Ovechkin is currently an active player in the NHL and the 2022-23 Regular Season is currently being played, his data is accurate as of the last update to this website. This update was most recently performed on October 18 2022.
 
 ```{r, echo = FALSE}
 gretzky_age_stats <- gretzky_data %>%
@@ -250,7 +250,7 @@ ggplotly(ovi_gretzky_joint)%>%
 
 This interactive visual shows the number of goals scored by Ovechkin and Gretzky grouped by the opponent that was scored on.
 
-Note that as Ovechkin is currently an active player in the NHL and the 2022-23 Regular Season is currently being played, his data is accurate as of the last update to this website. This update was most recently performed on October 14 2022.
+Note that as Ovechkin is currently an active player in the NHL and the 2022-23 Regular Season is currently being played, his data is accurate as of the last update to this website. This update was most recently performed on October 18 2022.
 
 ```{r, echo = FALSE}
 gretzky_opponent_stats <- gretzky_data_copy %>%
@@ -302,7 +302,7 @@ ggplotly(gretzky_opponent_goals, tooltip = c("text")) %>%
 
 This interactive visual shows the number of goals scored by Ovechkin and Gretzky grouped by the goalie on which they scored those goals.
 
-Note that as Ovechkin is currently an active player in the NHL and the 2022-23 Regular Season is currently being played, his data is accurate as of the last update to this website. This update was most recently performed on October 14 2022.
+Note that as Ovechkin is currently an active player in the NHL and the 2022-23 Regular Season is currently being played, his data is accurate as of the last update to this website. This update was most recently performed on October 18 2022.
 
 ```{r, echo = FALSE, fig.height = 100}
 ovi_goalies <- ovi_data %>%
