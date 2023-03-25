@@ -1,4 +1,8 @@
 "Date","Team","Opponent","Age","Assist1","Assist2","Goalie","Period","Time","Strength","ArenaName","HomeAway","Result","ENG","PS"
+"2023-03-23","WSH","CHI",37,NA,NA,"Anton Khudobin","3","14:56:00","EV","Capital One Arena","H","W",0,0
+"2023-03-21","WSH","CBJ",37,"Tom Wilson","Dylan Strome","Daniil Tarasov","1","05:12:00","EV","Capital One Arena","H","OTL",0,0
+"2023-03-19","WSH","MIN",37,"Tom Wilson","Dylan Strome","Marc-Andre Fleury","3","12:33:00","PP","Xcel Energy Center","A","L",0,0
+"2023-03-19","WSH","MIN",37,"Rasmus Sandin",NA,"Marc-Andre Fleury","2","05:34:00","PP","Xcel Energy Center","A","L",0,0
 "2023-03-15","WSH","BUF",37,"Trevor van Riemsdyk","Dylan Strome","Ukko-Pekka Luukkonen","3","10:30:00","EV","Capital One Arena","H","SOW",0,0
 "2023-03-06","WSH","LAK",37,"Rasmus Sandin","Nicklas Backstrom","Pheonix Copley","3","02:31:00","PP","Crypto.com Arena","A","L",0,0
 "2023-03-04","WSH","SJS",37,"Vincent Iorio","Rasmus Sandin","Kaapo Kahkonen","3","16:05:00","EV","SAP Center at San Jose","A","W",0,0
