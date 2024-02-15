@@ -320,7 +320,7 @@ ovi_goalies_plot <- ovi_goalies %>%
   geom_bar(stat = "identity", fill = "red") +
   ylab("Goals") +
   xlab("Goalie") +
-  ggtitle("Number of goals scored on various goalies by Ovechkin \n throughout in his NHL career") +
+  ggtitle("Number of goals scored on various goalies by \n Ovechkin in his NHL career") +
   theme_minimal() +
   coord_flip()
 
@@ -329,7 +329,7 @@ gretzky_goalies_plot <- gretzky_goalies %>%
   geom_bar(stat = "identity", fill = "blue") +
   ylab("Goals") +
   xlab("Goalie") +
-  ggtitle("Number of goals scored on various goalies by Gretzky \n throughout in his NHL career") +
+  ggtitle("Number of goals scored on various goalies by \n Gretzky in his NHL career") +
   theme_minimal() +
   coord_flip()
   
