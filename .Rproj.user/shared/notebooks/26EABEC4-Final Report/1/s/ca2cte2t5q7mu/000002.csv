@@ -1,6 +1,0 @@
-"0","caps_wins_by_date %>%"
-"0","  ggplot(aes(x = Result)) +"
-"0","  geom_bar() +"
-"0","  ggtitle(""Frequencies of different game outcomes for Ovechkin's team"
-"0","          when Ovechkin scores at least one goal"") +"
-"0","  theme_minimal()"

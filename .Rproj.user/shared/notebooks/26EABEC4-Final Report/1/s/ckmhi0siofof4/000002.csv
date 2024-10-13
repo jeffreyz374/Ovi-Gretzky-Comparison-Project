@@ -1,4 +1,0 @@
-"0","ovi_model_set$Result <- factor(ovi_model_set$Result, levels = c(""W"", ""OTW"", ""SOW"", ""SOL"", ""OTL"", ""L""))"
-"0","gretzky_model_set$Result <- factor(gretzky_model_set$Result, levels = c(""W"", ""OTW"", ""T"", ""OTL"", ""L""))"
-"0","ovi_model_set$HomeAway <- factor(ovi_model_set$HomeAway, levels = c(""H"", ""A""))"
-"0","gretzky_model_set$HomeAway <- factor(gretzky_model_set$HomeAway, levels = c(""H"", ""A""))"
