@@ -207,11 +207,11 @@ gretzky_age_goals <- gretzky_age_stats %>%
   ggtitle("Number of goals scored by Gretzky at varying ages in his NHL career") +
   theme_minimal()
 
-joint <- left_join(gretzky_age_stats, ovi_age_stats, by = "Age") %>%
+age_joint <- left_join(gretzky_age_stats, ovi_age_stats, by = "Age") %>%
   rename(Gretzky = Goals.x, Ovechkin = Goals.y)
-joint[is.na(joint)] <- 0
+age_joint[is.na(age_joint)] <- 0
 
-ovi_gretzky_joint <- joint %>%
+ovi_gretzky_age_joint <- age_joint %>%
   gather(Player, Goals, -Age) %>%
   ggplot(aes(x = Age, y = Goals, fill = Player)) +
   scale_fill_manual(values = c("blue", "red")) +
@@ -238,10 +238,9 @@ ggplotly(gretzky_age_goals) %>%
 ### Both
 
 ```{r, echo = FALSE}
-ggplotly(ovi_gretzky_joint)%>%
+ggplotly(ovi_gretzky_age_joint)%>%
   layout(hoverlabel=list(bgcolor="white"))
 ```
-
 ## {-}
 
 <br>
@@ -350,8 +349,3 @@ ggplotly(gretzky_goalies_plot, tooltip = c("text")) %>%
 ```
 
 ## {-}
-
-<br>
-
-<br>
-<br>

@@ -33,3 +33,7 @@ img-circle {
 code { /* Code block */
     font-size: 15px;
 }
+
+.tocify-extend-page {
+  height: 0 !important;
+}
