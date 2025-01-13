@@ -205,17 +205,27 @@ ovi_season_stats <- ovi_data %>%
                             Date >= "2021-10-01" & Date <= "2022-06-01" ~ "2021-22",
                             Date >= "2022-10-01" & Date <= "2023-06-01" ~ "2022-23",
                             Date >= "2023-10-01" & Date <= "2024-06-01" ~ "2023-24",
-                            Date >= "2024-10-01" & Date <= "2025-06-01" ~ "2024-25")) %>%
-  group_by(Season) %>%
-  summarise(Goals = n())
+                            Date >= "2024-10-01" & Date <= "2025-06-01" ~ "2024-25"))
 
 ovi_season_goals <- ovi_season_stats %>%
+  group_by(Season) %>%
+  summarise(Goals = n()) %>%
   ggplot(aes(x = Season, Goals)) +
   geom_bar(stat = "identity", fill = "red") +
   ylab("Goals") +
   ggtitle("Number of goals scored by Ovechkin at varying seasons in his NHL career") +
   theme_minimal() +
   theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust=1))
+
+# ovi_season_engs <- ovi_season_stats %>%
+#   group_by(Season) %>%
+#   summarise(ENGs = sum(ENG),
+#             NonENGs = n() - ENGs) %>%
+#   pivot_longer(-Season) %>%
+#   ggplot(aes(x = Season, y = value, fill = name)) +
+#   geom_col(position = position_stack()) +
+#   theme_minimal() +
+#   theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust=1))
 
 gretzky_season_stats <- gretzky_data %>%
   mutate(Season = case_when(Date >= "1979-10-01" & Date <= "1980-06-01" ~ "1979-80",
@@ -237,17 +247,27 @@ gretzky_season_stats <- gretzky_data %>%
                             Date >= "1995-10-01" & Date <= "1996-06-01" ~ "1995-96",
                             Date >= "1996-10-01" & Date <= "1997-06-01" ~ "1996-97",
                             Date >= "1997-10-01" & Date <= "1998-06-01" ~ "1997-98",
-                            Date >= "1998-10-01" & Date <= "1999-06-01" ~ "1998-99")) %>%
-  group_by(Season) %>%
-  summarise(Goals = n())
+                            Date >= "1998-10-01" & Date <= "1999-06-01" ~ "1998-99"))
 
 gretzky_season_goals <- gretzky_season_stats %>%
+  group_by(Season) %>%
+  summarise(Goals = n()) %>%
   ggplot(aes(x = Season, Goals)) +
   geom_bar(stat = "identity", fill = "blue") +
   ylab("Goals") +
   ggtitle("Number of goals scored by Gretzky at varying seasons in his NHL career") +
   theme_minimal() +
   theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust=1))
+
+# gretzky_season_engs <- gretzky_season_stats %>%
+#   group_by(Season) %>%
+#   summarise(ENGs = sum(ENG),
+#             NonENGs = n() - ENGs) %>%
+#   pivot_longer(-Season) %>%
+#   ggplot(aes(x = Season, y = value, fill = name)) +
+#   geom_col(position = position_stack()) +
+#   theme_minimal() +
+#   theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust=1))
 ```
 
 ### Ovechkin
