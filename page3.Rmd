@@ -11,7 +11,7 @@ output:
 
 These are additional interactive visuals that are derived from the information on all of the goals ever scored by Ovechkin and Gretzky. Although not relevant to the scope of the project, these visuals still provide a comparison between the individual goal scoring talents of both players.
 
-Note that as Ovechkin is currently an active player in the NHL, any data corresponding to him is accurate as of the last update to this website. This update was most recently performed on November 3rd 2025.
+Note that as Ovechkin is currently an active player in the NHL, any data corresponding to him is accurate as of the last update to this website. This update was most recently performed on November 10th 2025.
 
 <br>
 
@@ -182,7 +182,7 @@ colnames(gretzky_data_copy) <- c("Date", "Team", "Opponent", "Age (years)", "Car
 
 This interactive visual shows the number of goals scored by Ovechkin and Gretzky grouped by the NHL season in which each player scored those goals. 
 
-Note that as Ovechkin is currently an active player in the NHL, any data corresponding to him is accurate as of the last update to this website. This update was most recently performed on November 3rd 2025.
+Note that as Ovechkin is currently an active player in the NHL, any data corresponding to him is accurate as of the last update to this website. This update was most recently performed on November 10th 2025.
 
 ```{r, echo = FALSE}
 ovi_season_stats <- ovi_data %>%
@@ -296,7 +296,7 @@ As Ovechkin was born on September 17th 1985, the visual corresponding to him wil
 
 In contrast, as Gretzky was born on January 26th 1961, the visual corresponding to him is different from the previous one depicting the frequency of his goals grouped by NHL season, since January is in the middle of the NHL season.
 
-Note that as Ovechkin is currently an active player in the NHL, any data corresponding to him is accurate as of the last update to this website. This update was most recently performed on November 3rd 2025.
+Note that as Ovechkin is currently an active player in the NHL, any data corresponding to him is accurate as of the last update to this website. This update was most recently performed on November 10th 2025.
 
 ```{r, echo = FALSE}
 gretzky_age_stats <- gretzky_data %>%
@@ -363,7 +363,7 @@ ggplotly(ovi_gretzky_age_joint)%>%
 
 This interactive visual shows the number of goals scored by Ovechkin and Gretzky grouped by the opponent that was scored on.
 
-Note that as Ovechkin is currently an active player in the NHL, any data corresponding to him is accurate as of the last update to this website. This update was most recently performed on November 3rd 2025.
+Note that as Ovechkin is currently an active player in the NHL, any data corresponding to him is accurate as of the last update to this website. This update was most recently performed on November 10th 2025.
 
 ```{r, echo = FALSE}
 gretzky_opponent_stats <- gretzky_data_copy %>%
@@ -415,7 +415,7 @@ ggplotly(gretzky_opponent_goals, tooltip = c("text")) %>%
 
 This interactive visual shows the number of goals scored by Ovechkin and Gretzky grouped by the goalie on which they scored those goals.
 
-Note that as Ovechkin is currently an active player in the NHL, any data corresponding to him is accurate as of the last update to this website. This update was most recently performed on November 3rd 2025.
+Note that as Ovechkin is currently an active player in the NHL, any data corresponding to him is accurate as of the last update to this website. This update was most recently performed on November 10th 2025.
 
 ```{r, echo = FALSE, fig.height = 100}
 ovi_goalies <- ovi_data %>%
