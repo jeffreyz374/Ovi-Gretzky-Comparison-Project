@@ -1,4 +1,9 @@
 "Date","Team","Opponent","Age","Assist1","Assist2","Goalie","Period","Time","Strength","ArenaName","HomeAway","Result","ENG","PS"
+"2026-01-11","WSH","NSH",40,"John Carlson","Ryan Leonard","Justus Annunen","1","05:56:00","PP","Bridgestone Arena","A","L",0,0
+"2026-01-09","WSH","CHI",40,"Martin Fehervary",NA,"Drew Commesso","3","13:33:00","EV","United Center","A","W",0,0
+"2026-01-07","WSH","DAL",40,"John Carlson","Jakob Chychrun","Casey DeSmith","3","17:41:00","EV","Capital One Arena","H","L",0,0
+"2026-01-05","WSH","ANA",40,"Justin Sourdif",NA,NA,"3","19:18:00","EV","Capital One Arena","H","W",1,0
+"2026-01-05","WSH","ANA",40,"Martin Fehervary","John Carlson","Petr Mrazek","2","08:52:00","EV","Capital One Arena","H","W",0,0
 "2025-12-27","WSH","NJD",40,"Rasmus Sandin","Aliaksei Protas","Jake Allen","3","09:17:00","EV","Prudential Center","A","OTW",0,0
 "2025-12-03","WSH","SJS",40,"Ryan Leonard","Jakob Chychrun","Alex Nedeljkovic","2","02:41:00","PP","SAP Center at San Jose","A","W",0,0
 "2025-12-03","WSH","SJS",40,"Matt Roy",NA,"Yaroslav Askarov","1","08:25:00","EV","SAP Center at San Jose","A","W",0,0
